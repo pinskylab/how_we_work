@@ -1,4 +1,4 @@
-### Values
+![](https://github.com/mstuart1/images/blob/master/IMG_0014.PNG)
 - Be nice and work hard
 - We love science and we love life outside science
 - Collaborate & share (add collaborate & open-minded?)
@@ -36,7 +36,7 @@
 #### Problems?
 - **To report an issue** please contact [Malin Pinsky](https://github.com/mpinsky). All communication will be treated as confidential.
 - If you aren't comfortable speaking to Malin, 
-    - Marsha Morin, DEENR grad student coordinator, marsha.morin@rutgers.edu
+    - [Marsha Morin](marsha.morin@rutgers.edu), DEENR grad student coordinator
 - If the DEENR grad student coordinator does not sound like the correct point of contact, Rutgers has many resources available to you, including:
     - [Counseling, Alcohol, & Other Drug Assistance Program & Psychiatric Services](rhscaps.rutgers.edu)
     - [Student of Concern Pathway](deanofstudents.rutgers.edu) 
