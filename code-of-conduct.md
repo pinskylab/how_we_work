@@ -1,4 +1,4 @@
-<img src="https://github.com/mstuart1/images/blob/master/IMG_0014.jpg" width = "250" />
+<img src="https://github.com/mstuart1/images/blob/master/IMG_0014.jpg" height="100" />
 - Be nice and work hard. 
 - We love science and we love life outside science. 
 - Collaborate & share (add collaborate & open-minded?). 
@@ -13,7 +13,7 @@
 - Take calculated risks. 
 - Half of science is failure and learning from it. 
 
-<img src="https://github.com/mstuart1/images/blob/master/Communication.png" width = "250" />
+<img src="https://github.com/mstuart1/images/blob/master/Communication.png" height="100" />
 
 - All ideas are valid
 - Amplify diverse viewpoints
