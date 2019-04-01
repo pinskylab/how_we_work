@@ -29,20 +29,20 @@
 
 <img src="https://github.com/mstuart1/images/blob/master/Process.png" height="100" />
 
-<img src="https://github.com/mstuart1/images/blob/master/meetings.png" height="80" /> 
+<img src="https://github.com/mstuart1/images/blob/master/meetings.png" height="50" /> 
 
 - Come prepared and take notes
 - Set and follow an agenda
 - Start on time; end on time
 - Check in regularly about the whole person (or career?)
 
-<img src="https://github.com/mstuart1/images/blob/master/project-management.png" height="80" /> 
+<img src="https://github.com/mstuart1/images/blob/master/project-management.png" height="50" /> 
 
 - Set realistic deadlines, revise them
 - Break projects into smaller pieces
 - Do science openly, transparently, and reproducibly
 
-<img src="https://github.com/mstuart1/images/blob/master/problems.png" height="80" /> 
+<img src="https://github.com/mstuart1/images/blob/master/problems.png" height="50" /> 
 
 - **To report an issue** please contact [Malin Pinsky](https://github.com/mpinsky). All communication will be treated as confidential.
 - If you aren't comfortable speaking to Malin, 
