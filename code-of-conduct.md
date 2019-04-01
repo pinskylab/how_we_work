@@ -27,7 +27,7 @@
 - Be direct
 - Do science openly, transparently, and reproducibly
 
-<img src="https://github.com/mstuart1/images/blob/master/problems.png" height="100" /> 
+<img src="https://github.com/mstuart1/images/blob/master/IMG_0017.jpeg" height="100" /> 
 
 - **To report an issue** please contact [Malin Pinsky](https://github.com/mpinsky). All communication will be treated as confidential.
 - If you aren't comfortable speaking to Malin, 
