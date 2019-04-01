@@ -1,18 +1,20 @@
 <img src="https://github.com/mstuart1/images/blob/master/IMG_0014.jpg" width = "250" />
-- Be nice and work hard
-- We love science and we love life outside science
-- Collaborate & share (add collaborate & open-minded?)
-- Be open-minded
-- Respect other's time
-- Normalize "I don't know yet"
-- Give credit, take responsibility
-- Celebrate success
-- Leave things better than you found them
-- Facilitate a diverse environment
-- Build consensus
-- Take calculated risks
-- Half of science is failure and learning from it
-### Communication
+- Be nice and work hard. 
+- We love science and we love life outside science. 
+- Collaborate & share (add collaborate & open-minded?). 
+- Be open-minded. 
+- Respect other's time. 
+- Normalize "I don't know yet". 
+- Give credit, take responsibility. 
+- Celebrate success. 
+- Leave things better than you found them. 
+- Facilitate a diverse environment. 
+- Build consensus. 
+- Take calculated risks. 
+- Half of science is failure and learning from it. 
+
+<img src="https://github.com/mstuart1/images/blob/master/Communication.png" width = "250" />
+
 - All ideas are valid
 - Amplify diverse viewpoints
 - Be present
