@@ -27,7 +27,7 @@
 - Listen first, speak second, don't interrupt
 - Be direct
 
-<img src="https://github.com/mstuart1/images/blob/master/Process.png" height="100" />
+<img src="https://github.com/mstuart1/images/blob/master/Process.png" height="90" />
 
 <img src="https://github.com/mstuart1/images/blob/master/meetings.png" height="50" /> 
 
