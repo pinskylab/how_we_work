@@ -1,4 +1,5 @@
-<img src="https://github.com/mstuart1/images/blob/master/IMG_0014.jpg" height="100" />
+<img src="https://github.com/mstuart1/images/blob/master/IMG_0014.jpg" height="100" />  
+
 - Be nice and work hard. 
 - We love science and we love life outside science. 
 - Collaborate & share (add collaborate & open-minded?). 
@@ -25,7 +26,9 @@
 - Respect deep work
 - Listen first, speak second, don't interrupt
 - Be direct
-### Process
+
+<img src="https://github.com/mstuart1/images/blob/master/Process.png" height="100" />
+
 #### Meetings
 - Come prepared and take notes
 - Set and follow an agenda
