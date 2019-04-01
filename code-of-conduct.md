@@ -2,8 +2,8 @@
 
 - Be nice and work hard. 
 - We love science and we love life outside science. 
-- Collaborate & share (add collaborate & open-minded?). 
-- Be open-minded. 
+- Collaborate & share.
+- Be open-minded.
 - Respect other's time. 
 - Normalize "I don't know yet". 
 - Give credit, take responsibility. 
@@ -11,7 +11,6 @@
 - Leave things better than you found them. 
 - Facilitate a diverse environment. 
 - Build consensus. 
-- Take calculated risks. 
 - Half of science is failure and learning from it. 
 
 <img src="https://github.com/mstuart1/images/blob/master/Communication.png" height="100" />
@@ -26,23 +25,9 @@
 - Respect deep work
 - Listen first, speak second, don't interrupt
 - Be direct
-
-<img src="https://github.com/mstuart1/images/blob/master/Process.png" height="90" />
-
-<img src="https://github.com/mstuart1/images/blob/master/meetings.png" height="50" /> 
-
-- Come prepared and take notes
-- Set and follow an agenda
-- Start on time; end on time
-- Check in regularly about the whole person (or career?)
-
-<img src="https://github.com/mstuart1/images/blob/master/project-management.png" height="50" /> 
-
-- Set realistic deadlines, revise them
-- Break projects into smaller pieces
 - Do science openly, transparently, and reproducibly
 
-<img src="https://github.com/mstuart1/images/blob/master/problems.png" height="50" /> 
+<img src="https://github.com/mstuart1/images/blob/master/problems.png" height="100" /> 
 
 - **To report an issue** please contact [Malin Pinsky](https://github.com/mpinsky). All communication will be treated as confidential.
 - If you aren't comfortable speaking to Malin, 
