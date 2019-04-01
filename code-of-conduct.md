@@ -1,4 +1,4 @@
-![](https://github.com/mstuart1/images/blob/master/IMG_0014.PNG)
+<img src="https://github.com/mstuart1/images/blob/master/IMG_0014.jpg" width = "250" />
 - Be nice and work hard
 - We love science and we love life outside science
 - Collaborate & share (add collaborate & open-minded?)
