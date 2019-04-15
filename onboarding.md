@@ -40,13 +40,11 @@ Guides and tutorials
 --------------------
 
 1.  [Pinsky Lab Cookbook](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md) is a resource of how to's put together by lab members to help you past the occasional obstacle that we all seem to run into.
-<!--2.  [Collaborative Writing Guide]()-->
-1.  [Data Management Guide](https://github.com/pinskylab/policies/blob/master/data-management.md)
-<!--4.  [Time Management Guide]()-->
-1.  [Best Practices for Science](https://github.com/pinskylab/pinskylab_methods/blob/master/labmgt/best_practices_for_science.md)
 1.  [How to maintain a research notebook](https://github.com/pinskylab/pinskylab_methods/blob/master/labmgt/how_to_lab_notebook.md)
 1.  [Command line tutorial](https://www.udacity.com/wiki/ud775/command-line-instructions) and [more help with the command line](https://classroom.udacity.com/courses/ud595/lessons/4597278561/concepts/46968695970923) (Udacity)
 1.  [Git and GitHub tutorial](https://classroom.udacity.com/courses/ud775) (Udacity)
 1.  [Happy Git with R tutorial](https://happygitwithr.com) (outside tutorial)  
-10. [Learn R with swirl](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&url=http%3A%2F%2Fswirlstats.com%2F&usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I)
-11. [Take R to the next level](https://r4ds.had.co.nz)
+1. [Learn R with swirl](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&url=http%3A%2F%2Fswirlstats.com%2F&usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I)
+1. [Take R to the next level](https://r4ds.had.co.nz)
+<!--1.  [Collaborative Writing Guide]()-->
+<!--1.  [Time Management Guide]()-->
