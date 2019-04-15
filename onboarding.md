@@ -16,7 +16,7 @@ To Do List
     -   Right click on the Pinsky Lab folder and select Add to My Drive. This will not affect the amount of storage available in your google drive.
 3.  Read the [Lab Code of Conduct](https://github.com/pinskylab/policies/blob/master/code-of-conduct.md).
 4.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
-5.  Write an [Independent Development Plan](https://myidp.sciencecareers.org).
+5.  Write an [Independent Development Plan](https://myidp.sciencecareers.org)and share it with Malin.
 
 Computing Resources
 -------------------
@@ -40,13 +40,13 @@ Guides and tutorials
 --------------------
 
 1.  [Pinsky Lab Cookbook](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md) is a resource of how to's put together by lab members to help you past the occasional obstacle that we all seem to run into.
-2.  [Collaborative Writing Guide]()
-3.  [Data Management Guide](https://github.com/pinskylab/policies/blob/master/data-management.md)
-4.  [Time Management Guide]()
-5.  [Command line tutorial](https://www.udacity.com/wiki/ud775/command-line-instructions) and [more help with the command line](https://classroom.udacity.com/courses/ud595/lessons/4597278561/concepts/46968695970923)
-6.  [Git and GitHub tutorial](https://classroom.udacity.com/courses/ud775)
-7.  [Happy Git with R tutorial](https://happygitwithr.com)
-8.  [Best Practices for Science](https://github.com/pinskylab/pinskylab_methods/blob/master/labmgt/best_practices_for_science.md)
-9.  [How to maintain a research notebook](https://github.com/pinskylab/pinskylab_methods/blob/master/labmgt/how_to_lab_notebook.md)
+<!--2.  [Collaborative Writing Guide]()-->
+1.  [Data Management Guide](https://github.com/pinskylab/policies/blob/master/data-management.md)
+<!--4.  [Time Management Guide]()-->
+1.  [Best Practices for Science](https://github.com/pinskylab/pinskylab_methods/blob/master/labmgt/best_practices_for_science.md)
+1.  [How to maintain a research notebook](https://github.com/pinskylab/pinskylab_methods/blob/master/labmgt/how_to_lab_notebook.md)
+1.  [Command line tutorial](https://www.udacity.com/wiki/ud775/command-line-instructions) and [more help with the command line](https://classroom.udacity.com/courses/ud595/lessons/4597278561/concepts/46968695970923) (Udacity)
+1.  [Git and GitHub tutorial](https://classroom.udacity.com/courses/ud775) (Udacity)
+1.  [Happy Git with R tutorial](https://happygitwithr.com) (outside tutorial)  
 10. [Learn R with swirl](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&url=http%3A%2F%2Fswirlstats.com%2F&usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I)
 11. [Take R to the next level](https://r4ds.had.co.nz)
