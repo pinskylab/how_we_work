@@ -4,7 +4,7 @@ Offboarding
 General project documentation
 -----------------------------
 
-1.  Project components are all hosted in a public repository on Github
+1.  Project components are all hosted in a repository on Github in the pinskylab organization.
 2.  Declare a license in the README so people know how they can use your work (for example [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 3.  README includes project abstract or description
 4.  README includes file navigation within repo, description of file contents
