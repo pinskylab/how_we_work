@@ -27,3 +27,11 @@ Code used or developed in support of the project must be:
 1. On Github, in the public project repository
 1. Described in the README- what does each file do, what language was used, etc
 1. Tested! can at least one other person (but more is better) make your analysis go on a different computer?
+
+Exit interview
+--------------
+Set up a time to talk with your mentor about:
+1. What was the best part of being here?
+1. What did you learn while you were here?
+1. Did you get the support you needed, or could we have been better at it?
+1. What can we improve for mentoring someone in your position in the future?
