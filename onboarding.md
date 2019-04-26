@@ -27,7 +27,7 @@ There are several computing resources available to serve your research computing
 |-------------------|------------|-----------------|--------|
 | Pinsky Lab        | amphiprion | 40              | 252G   |
 | SEBS              | annotate   | 72              | 500G   |
-| OARC-Pinsky node  | amarel     | 32              | 384G   |
+| OARC-Pinsky node  | amarel     | 32              | 128G   |
 | OARC-Ecology node | amarel     | 28              | 128G   |
 | OARC              | amarel     | ?               | ?      |
 | RDII              | caliburn   | 256             | 768G   |
