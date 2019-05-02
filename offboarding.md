@@ -1,6 +1,8 @@
 Offboarding
 ================
 
+With thanks to the [Bahlai lab](https://github.com/BahlaiLab) for the model and inspiration.
+
 General project documentation
 -----------------------------
 
