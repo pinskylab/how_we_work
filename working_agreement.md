@@ -42,18 +42,19 @@
 4. Celebrate what works well and provide constructive criticism
 - Be vocal about what works well
 - When providing feedback:
--- First make a concerted effort to understand
--- Provide alternatives and solutions 
+    - First make a concerted effort to understand
+    - Provide alternatives and solutions 
 5. Step forward (if quiet); step back (if loud)
--Be self-aware (read the room)
--Speak up, but don’t interrupt 
--Be accessible, and meet people where they are, regardless of their background, or position
+- Be self-aware (read the room)
+- Speak up, but don’t interrupt 
+- Be accessible, and meet people where they are, regardless of their background, or position
 6.Respect deep work
--Don’t be excessively distracting in the office
--Our work often requires deep thought and concentration - don’t interrupt others in these moments, and give yourself the time to do the same
+- Don’t be excessively distracting in the office
+- Our work often requires deep thought and concentration 
+- don’t interrupt others in these moments, and give yourself the time to do the same
 7.Be direct
--Never be passive-aggressive 
--Make an effort to be clear and concise - ambiguity causes confusion
+- Never be passive-aggressive 
+- Make an effort to be clear and concise - ambiguity causes confusion
 ## Process
 1. Meetings
 - Come prepared and take notes
@@ -67,9 +68,9 @@
 3. Problems
 - To report an issue please contact Malin Pinsky. All communication will be treated as confidential.
 - If you aren't comfortable speaking to Malin: 
--- contact Marsha Morin, DEENR grad student coordinator
+    - contact Marsha Morin, DEENR grad student coordinator
 - If the DEENR grad student coordinator does not sound like the correct point of contact, Rutgers has many resources available to you, including:
--- Counseling, Alcohol, & Other Drug Assistance Program & Psychiatric Services
--- Student of Concern Pathway
--- Student Conduct
--- Violence Prevention and Victim Assistance
+    - Counseling, Alcohol, & Other Drug Assistance Program & Psychiatric Services
+    - Student of Concern Pathway
+    - Student Conduct
+    - Violence Prevention and Victim Assistance
