@@ -33,7 +33,7 @@
 - If you aren't comfortable speaking to Malin, 
     - [Marsha Morin](marsha.morin@rutgers.edu), DEENR grad student coordinator
 - If the DEENR grad student coordinator does not sound like the correct point of contact, Rutgers has many resources available to you, including:
-    - [Counseling, Alcohol, & Other Drug Assistance Program & Psychiatric Services](rhscaps.rutgers.edu)
+    - [Counseling, Alcohol, & Other Drug Assistance Program & Psychiatric Services](http://health.rutgers.edu/medical-counseling-services/counseling/)
     - [Student of Concern Pathway](deanofstudents.rutgers.edu) 
     - [Student Conduct](studentconduct.rutgers.edu)
     - [Violence Prevention and Victim Assistance](vpva.rutgers.edu)
