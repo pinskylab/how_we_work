@@ -37,3 +37,4 @@
     - [Student of Concern Pathway](http://deanofstudents.rutgers.edu) 
     - [Student Conduct](http://studentconduct.rutgers.edu)
     - [Violence Prevention and Victim Assistance](http://vpva.rutgers.edu)
+    - [Ombudsperson](https://ombuds.rutgers.edu)
