@@ -29,7 +29,7 @@
 
 <img src="https://github.com/mstuart1/images/blob/master/IMG_0017.jpeg" height="100" /> 
 
-- **To report an issue** please contact [Malin Pinsky](https://github.com/mpinsky). All communication will be treated as confidential.
+- **To report an issue** please contact [Malin Pinsky](https://github.com/mpinsky). All communication will be treated as confidential, though be aware he has a legal obligation to report sexual misconduct.
 - If you aren't comfortable speaking to Malin, 
     - [Marsha Morin](marsha.morin@rutgers.edu), DEENR grad student coordinator
 - If the DEENR grad student coordinator does not sound like the correct point of contact, Rutgers has many resources available to you, including:
