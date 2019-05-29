@@ -14,7 +14,7 @@ To Do List
 2.  Connect to the [Pinsky Lab Google Drive](https://drive.google.com/drive/u/0/my-drive).
     -   Click the "Shared with Me" link on the left.
     -   Right click on the Pinsky Lab folder and select Add to My Drive. This will not affect the amount of storage available in your google drive.
-3.  Read the [Lab Code of Conduct](https://github.com/pinskylab/policies/blob/master/code-of-conduct.md).
+3.  Read the [Lab Code of Conduct](https://docs.google.com/document/d/e/2PACX-1vSBKYZVmIAtyDjc7QiEbggeiVJmUmFw3P8Tf0HAB_VZuYMSzAQAR3CphP2bfrHWohW2oCDkDPFM7_oD/pub).
 4.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
 5.  Write an [Independent Development Plan](https://myidp.sciencecareers.org)and share it with Malin.
 
