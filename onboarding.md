@@ -47,6 +47,6 @@ Guides and tutorials
 1.  [Happy Git with R tutorial](https://happygitwithr.com) (outside tutorial)  
 1. [Learn R with swirl](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&url=http%3A%2F%2Fswirlstats.com%2F&usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I)
 1. [Take R to the next level](https://r4ds.had.co.nz)
-1. [Zotero Reference Manager Tutorial] (https://www.youtube.com/watch?v=q6-YOPS1xY4)
+1. [Zotero Reference Manager Tutorial](https://www.youtube.com/watch?v=q6-YOPS1xY4)
 <!--1.  [Collaborative Writing Guide]()-->
 <!--1.  [Time Management Guide]()-->
