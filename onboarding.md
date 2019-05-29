@@ -17,6 +17,7 @@ To Do List
 3.  Read the [Lab Code of Conduct](https://docs.google.com/document/d/e/2PACX-1vSBKYZVmIAtyDjc7QiEbggeiVJmUmFw3P8Tf0HAB_VZuYMSzAQAR3CphP2bfrHWohW2oCDkDPFM7_oD/pub).
 4.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
 5.  Write an [Independent Development Plan](https://myidp.sciencecareers.org)and share it with Malin.
+6.  Download and begin to maintain a reference manager. We recommend Zotero, as it interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/). 
 
 Computing Resources
 -------------------
@@ -46,5 +47,6 @@ Guides and tutorials
 1.  [Happy Git with R tutorial](https://happygitwithr.com) (outside tutorial)  
 1. [Learn R with swirl](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&url=http%3A%2F%2Fswirlstats.com%2F&usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I)
 1. [Take R to the next level](https://r4ds.had.co.nz)
+1. [Zotero Reference Manager Tutorial] (https://www.youtube.com/watch?v=q6-YOPS1xY4)
 <!--1.  [Collaborative Writing Guide]()-->
 <!--1.  [Time Management Guide]()-->
