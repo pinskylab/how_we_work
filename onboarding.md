@@ -17,7 +17,8 @@ To Do List
 3.  Read the [Lab Code of Conduct](https://docs.google.com/document/d/e/2PACX-1vSBKYZVmIAtyDjc7QiEbggeiVJmUmFw3P8Tf0HAB_VZuYMSzAQAR3CphP2bfrHWohW2oCDkDPFM7_oD/pub).
 4.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
 5.  Write an [Independent Development Plan](https://myidp.sciencecareers.org)and share it with Malin.
-6.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/). 
+6.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
+7.  When you are ready, sign up for a lab meeting this summer.  The easiest way to find the schedule for lab meetings is to search Slack for "lab meeting" and the linked google file should pop up.
 
 Computing Resources
 -------------------
