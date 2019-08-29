@@ -10,7 +10,7 @@ There are a few items to take care of now that you have joined the lab.
 To Do List
 ----------
 
-1.  Join the [Pinsky Lab Google Group](https://groups.google.com/forum/#!forum/pinsky-lab) mailing list.
+1.  Join the [Pinsky Lab Google Group](https://groups.google.com/forum/#!forum/pinsky-lab) mailing list, Slack, and google calendar.
 2.  Connect to the [Pinsky Lab Google Drive](https://drive.google.com/drive/u/0/my-drive).
     -   Click the "Shared with Me" link on the left.
     -   Right click on the Pinsky Lab folder and select Add to My Drive. This will not affect the amount of storage available in your google drive.
