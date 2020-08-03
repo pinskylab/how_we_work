@@ -10,15 +10,16 @@ There are a few items to take care of now that you have joined the lab.
 To Do List
 ----------
 
-1.  Join the [Pinsky Lab Google Group](https://groups.google.com/forum/#!forum/pinsky-lab) mailing list, Slack, and google calendar.
+1.  Join the [Pinsky Lab Google Group](https://groups.google.com/forum/#!forum/pinsky-lab) mailing list, Teams, and google calendar.
 2.  Connect to the [Pinsky Lab Google Drive](https://drive.google.com/drive/u/0/my-drive).
     -   Click the "Shared with Me" link on the left.
     -   Right click on the Pinsky Lab folder and select Add to My Drive. This will not affect the amount of storage available in your google drive.
-3.  Read the [Lab Code of Conduct](https://docs.google.com/document/d/e/2PACX-1vSBKYZVmIAtyDjc7QiEbggeiVJmUmFw3P8Tf0HAB_VZuYMSzAQAR3CphP2bfrHWohW2oCDkDPFM7_oD/pub).
-4.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
-5.  Write an [Independent Development Plan](https://myidp.sciencecareers.org)and share it with Malin.
-6.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
-7.  When you are ready, sign up for a lab meeting this summer.  The easiest way to find the schedule for lab meetings is to search Slack for "lab meeting" and the linked google file should pop up.
+3.  Add your information to the Pinsky Lab Members google document (in the Pinsky Lab Google Drive folder)/
+4.  Read the [Lab Code of Conduct](https://docs.google.com/document/d/e/2PACX-1vSBKYZVmIAtyDjc7QiEbggeiVJmUmFw3P8Tf0HAB_VZuYMSzAQAR3CphP2bfrHWohW2oCDkDPFM7_oD/pub).
+5.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
+6.  Write an [Independent Development Plan](https://myidp.sciencecareers.org)and share it with Malin.
+7.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
+8.  When you are ready, sign up for a lab meeting this summer.  The easiest way to find the schedule for lab meetings is to search Slack for "lab meeting" and the linked google file should pop up.
 
 Computing Resources
 -------------------
