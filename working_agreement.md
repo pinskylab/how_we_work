@@ -18,15 +18,34 @@
 - Assume competence in our community
 5. Give credit, take responsibility
 - Celebrate success, in yourself and the community.
-- If you see a problem, be forthcoming and try t0 find a solution.
-- If you make a mistake, be honest and open.
+- If you see a problem, be forthcoming and try t0 find a solution
+- If you make a mistake, be honest and open
 6. Facilitate a diverse environment
-- Be open to others perspectives, engage with them, and be willing to revise your own.
+- Be open to others perspectives, engage with them, and be willing to revise your own
 - Empathize - put yourself in others’ shoes
+- We commit to a discussion of an article written by Black, Indigenous, People-of-Color (BIPOC) authors at least once a semester during lab meetings
+    - All lab members are encouraged to lead a discussion
+- Prioritize the citation of BIPOC authors in our work, in order to amplify underrepresented science and voices
+- When attending a conference, please attend talk by BIPOC scientists
+    - please add the names of the speakers you enjoyed to [our spreadsheet](https://docs.google.com/spreadsheets/d/1gHCUjD8gw1N8tTPhWbM_sNoSaBKFHPLEs7gQ9MFpcAo/edit#gid=0) to use as inspiration for future seminar invitations and paper discussions
 7. Take calculated risks
 - Be willing to fail, and know that failure is accepted and expected - learn from your mistakes
 - Normalize mistakes and failure for you and your peers
 - Be patient and measured in your decisions (consider costs and benefits, and solicit advice and others opinions)
+8. Share your science & help others do science too!
+- Participate in or organize at least one community service/outreach event per semester
+    - If you are having trouble finding an opportunity please reach out to the EcoGSA Outreach Chair or others in the lab
+9. Contribute to the Friends of the Nanticoke Lenni-Lenape Organizational Membership Fee!
+- Suggested contribution is $10 per person
+- Please contact Malin if you would like to contribute
+- Annual membership will be renewed each September [click to learn more](https://nanticoke-lenape.info/friends.htm)
+10. Be aware of your blindspots and biases!
+- Be open to criticism
+- Speak out compassionately and respectfully on behalf of others and your own wellbeing
+- Make an effort to suggest imporovements to lab culture
+- This document is always in progress
+    - Please suggest changes where you see fit!
+    - We will revisit this document at the beginning of each Fall Semester
 ## Communication
 1. All ideas are valid
 - Don’t to be afraid to share your thoughts and opinions
@@ -61,6 +80,10 @@
 - Set and follow an agenda
 - Start on time; end on time
 - Check in regularly about the whole person (or career)
+- We will appoint a new lab "listener" each semester
+    - lab listener is expected to observe and promote healthy lab communication
+    - lab listener will schedule one 15 minute meeting with Malin at the beginning of each month   and as needed for issues and updates
+- We will have biannual lab meetings to discuss our progress/shortcomings in Diversity, Equity, Inclusion & Belonging, led by Malin
 2. Project management
 - Set realistic deadlines, revise them
 - Break projects into smaller pieces
@@ -68,6 +91,7 @@
 3. Problems
 - To report an issue please contact Malin Pinsky. All communication will be treated as confidential.
 - If you aren't comfortable speaking to Malin: 
+    - contact the lab listener
     - contact Marsha Morin, DEENR grad student coordinator
 - If the DEENR grad student coordinator does not sound like the correct point of contact, Rutgers has many resources available to you, including:
     - Counseling, Alcohol, & Other Drug Assistance Program & Psychiatric Services
