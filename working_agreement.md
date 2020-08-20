@@ -63,10 +63,10 @@
 - Be self-aware (read the room)
 - Speak up, but please don’t interrupt 
 - Be accessible and meet people where they are, regardless of their background or position
-6.Respect deep work
+6. Respect deep work
 - Our work often requires deep thought and concentration 
 - Please don’t interrupt others in these moments, and give yourself the time to do the same
-7.Be direct
+7. Be direct
 - Avoid being passive-aggressive 
 - Make an effort to be clear and concise - ambiguity causes confusion
 ## Process
