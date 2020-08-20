@@ -3,13 +3,13 @@
 ## Values
 1. Be nice and work hard. 
 - Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow community members.
-- Make time for others; respect other's time
-- Your “best” can change daily, but always try your best.
+- Make time for others; respect others' time
+- Try your best, while recognizing your best can change daily
 2. We love science and we love life outside science. 
 - Stay connected to what excites you about your work: explore and stay curious!
 - Make time for your personal life, so you can be your best self at work
 - Don’t push yourself to the point of exhaustion - if you do, your work will never be your best.
-3. Collaborate & share (add collaborate & open-minded?)
+3. Collaborate & share
 - We are a team: our colleagues are our resources, and you are a resource for our community 
 - Don’t be afraid to ask for help, and offer help generously
 4. Normalize "I don't know yet"
@@ -23,23 +23,19 @@
 6. Facilitate a diverse environment
 - Be open to others perspectives, engage with them, and be willing to revise your own
 - Empathize - put yourself in others’ shoes
-- We commit to a discussion of an article written by Black, Indigenous, People-of-Color (BIPOC) authors at least once a semester during lab meetings
-    - All lab members are encouraged to lead a discussion
-- Prioritize the citation of BIPOC authors in our work, in order to amplify underrepresented science and voices
-- When attending a conference, please attend talk by BIPOC scientists
-    - please add the names of the speakers you enjoyed to [our spreadsheet](https://docs.google.com/spreadsheets/d/1gHCUjD8gw1N8tTPhWbM_sNoSaBKFHPLEs7gQ9MFpcAo/edit#gid=0) to use as inspiration for future seminar invitations and paper discussions
+- To specifically amplify the work of Black, Indigenous, People-of-Color (BIPOC) researchers, we've committed to 
+    - Discussing an article written by a BIPOC author at least once a semester during lab meetings. Everyone is encouraged to lead a discussion
+    - Prioritize the citation of BIPOC authors in our writings
+    - Attend talks by BIPOC scientists at conferences and add the names of the speakers you enjoyed to [our spreadsheet](https://docs.google.com/spreadsheets/d/1gHCUjD8gw1N8tTPhWbM_sNoSaBKFHPLEs7gQ9MFpcAo/edit#gid=0) to use as inspiration for future seminar invitations and paper discussions
+     - Acknowledge our occupation of land historically used by the [Lenni-Lenape tribe](htts://nanticoke-lenape.info). Some of us are contributing as annual members of the Friends of the Nanticoke Lenni-Lenape.
+     - We will have biannual lab meetings to discuss our progress/shortcomings in Diversity, Equity, Inclusion & Belonging, led by Malin
 7. Take calculated risks
 - Be willing to fail, and know that failure is accepted and expected - learn from your mistakes
 - Normalize mistakes and failure for you and your peers
 - Be patient and measured in your decisions (consider costs and benefits, and solicit advice and others opinions)
 8. Share your science & help others do science too!
-- Participate in or organize at least one community service/outreach event per semester
-    - If you are having trouble finding an opportunity please reach out to the EcoGSA Outreach Chair or others in the lab
-9. Contribute to the Friends of the Nanticoke Lenni-Lenape Organizational Membership Fee!
-- Suggested contribution is $10 per person
-- Please contact Malin if you would like to contribute
-- Annual membership will be renewed each September [click to learn more](https://nanticoke-lenape.info/friends.htm)
-10. Be aware of your blindspots and biases!
+- Everyone is encouraged but not required to participate in a community service/outreach event each semester
+9. Be aware of your blindspots and biases!
 - Be open to criticism
 - Speak out compassionately and respectfully on behalf of others and your own wellbeing
 - Make an effort to suggest imporovements to lab culture
@@ -65,14 +61,13 @@
     - Provide alternatives and solutions 
 5. Step forward (if quiet); step back (if loud)
 - Be self-aware (read the room)
-- Speak up, but don’t interrupt 
-- Be accessible, and meet people where they are, regardless of their background, or position
+- Speak up, but please don’t interrupt 
+- Be accessible and meet people where they are, regardless of their background or position
 6.Respect deep work
-- Don’t be excessively distracting in the office
 - Our work often requires deep thought and concentration 
-- don’t interrupt others in these moments, and give yourself the time to do the same
+- Please don’t interrupt others in these moments, and give yourself the time to do the same
 7.Be direct
-- Never be passive-aggressive 
+- Avoid being passive-aggressive 
 - Make an effort to be clear and concise - ambiguity causes confusion
 ## Process
 1. Meetings
@@ -80,20 +75,19 @@
 - Set and follow an agenda
 - Start on time; end on time
 - Check in regularly about the whole person (or career)
-- We will appoint a new lab "listener" each semester
-    - lab listener is expected to observe and promote healthy lab communication
-    - lab listener will schedule one 15 minute meeting with Malin at the beginning of each month   and as needed for issues and updates
-- We will have biannual lab meetings to discuss our progress/shortcomings in Diversity, Equity, Inclusion & Belonging, led by Malin
+- We will appoint a "lab listener" each semester who will
+    - observe and promote healthy lab communication
+    - schedule meetings with Malin as needed for issues and updates
 2. Project management
 - Set realistic deadlines, revise them
 - Break projects into smaller pieces
 - Do science openly, transparently, and reproducibly
 3. Problems
-- To report an issue please contact Malin Pinsky. All communication will be treated as confidential.
+- To report an issue please contact Malin. All communication will be treated as confidential to the extent possible (sexual harrassment and related concerns have to be reported, per [university policy](https://uec.rutgers.edu/policies/title-ix/)
 - If you aren't comfortable speaking to Malin: 
     - contact the lab listener
-    - contact Marsha Morin, DEENR grad student coordinator
-- If the DEENR grad student coordinator does not sound like the correct point of contact, Rutgers has many resources available to you, including:
+    - contact Marsha Morin, E&E grad student coordinator
+- If the grad student coordinator does not sound like the correct point of contact, Rutgers has many resources available to you, including:
     - Counseling, Alcohol, & Other Drug Assistance Program & Psychiatric Services
     - Student of Concern Pathway
     - Student Conduct
