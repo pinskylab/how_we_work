@@ -15,7 +15,7 @@ To Do List
     -   Click the "Shared with Me" link on the left.
     -   Right click on the Pinsky Lab folder and select Add to My Drive. This will not affect the amount of storage available in your google drive.
 3.  Add your information to the Pinsky Lab Members google document (in the Pinsky Lab Google Drive folder)/
-4.  Read the [Lab Code of Conduct](https://docs.google.com/document/d/e/2PACX-1vSBKYZVmIAtyDjc7QiEbggeiVJmUmFw3P8Tf0HAB_VZuYMSzAQAR3CphP2bfrHWohW2oCDkDPFM7_oD/pub).
+4.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
 5.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
 6.  Write an [Independent Development Plan](https://myidp.sciencecareers.org) and share it with Malin.
 7.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
