@@ -87,7 +87,7 @@
     - contact the lab listener
     - contact Marsha Morin, E&E grad student coordinator
   - If the grad student coordinator does not sound like the correct point of contact, Rutgers has many resources available to you, including:
-    - Counseling, Alcohol, & Other Drug Assistance Program & Psychiatric Services
-    - Student of Concern Pathway
-    - Student Conduct
-    - Violence Prevention and Victim Assistance
+    - [Counseling, Alcohol, & Other Drug Assistance Program & Psychiatric Services](http://health.rutgers.edu/medical-counseling-services/counseling/)
+    - [Student of Concern Pathway](http://health.rutgers.edu/do-something-to-help/)
+    - [Student Conduct](http://studentconduct.rutgers.edu/)
+    - [Violence Prevention and Victim Assistance](https://oasa.rbhs.rutgers.edu/violence-prevention-victim-assistance/)
