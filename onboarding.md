@@ -26,14 +26,17 @@ Computing Resources
 
 There are several computing resources available to serve your research computing needs.
 
-| owner             | name       | number of cores | memory |
-|-------------------|------------|-----------------|--------|
-| Pinsky Lab        | amphiprion | 40              | 252G   |
-| SEBS              | annotate   | 72              | 500G   |
-| OARC-Pinsky node  | amarel     | 32              | 128G   |
-| OARC-Ecology node | amarel     | 28              | 128G   |
-| OARC              | amarel     | ?               | ?      |
-| RDII              | caliburn   | 256             | 768G   |
+| owner                        | name        | partition name | number of cores | memory |
+|------------------------------|-------------|----------------|-----------------|--------|
+| Pinsky Lab                   | amphiprion  | -              | 40              | 252G   |
+| SEBS                         | annotate    | -              | 72              | 500G   |
+| SEBS                         | annotate-win| -              | 18              | 500G   |
+| OARC-Pinsky node 1 (hal0181) | amarel      | p_mlp195       | 40              | 128G   |
+| OARC-Pinsky node 2 (hal0186) | amarel      | p_mlp195       | 40              | 128G   |
+| OARC-Ecology node            | amarel      | p_deenr        | 28              | 128G   |
+| OARC-EOAS node               | amarel      | ?              | ?               | 128G   |
+| OARC                         | amarel      | main           | ?               | ?      |
+| RDII                         | caliburn    | -              | 256             | 768G   |
 
 *Various lab members have differing levels of experience with each of these servers and can help you figure out what is best for your analysis.*
 **Amarel** is a condo system. You only have to wait in line with other Pinsky Lab folks for the Pinsky node, you have to wait in line with other Ecology folks for the DEENR node, you have to wait in line with all of Rutgers folks for the other nodes.
