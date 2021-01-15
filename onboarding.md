@@ -55,3 +55,10 @@ Guides and tutorials
 1. [Zotero Reference Manager Tutorial](https://www.youtube.com/watch?v=q6-YOPS1xY4)
 <!--1.  [Collaborative Writing Guide]()-->
 <!--1.  [Time Management Guide]()-->
+
+**Accessing the DEENR printer**
+- The black & white printer is located in the common area across from rm. 154
+- Add a new printer to your computer's devices:
+   -  IP Address: 172.20.154.92
+   -  Name: HP LaserJet Pro M404dn
+
