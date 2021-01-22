@@ -42,6 +42,21 @@ There are several computing resources available to serve your research computing
 **Amarel** is a condo system. You only have to wait in line with other Pinsky Lab folks for the Pinsky node, you have to wait in line with other Ecology folks for the DEENR node, you have to wait in line with all of Rutgers folks for the other nodes.
 **Caliburn** is a proposal system. Only people who have submitted proposals and been approved have access to the resources. At the time of this document creation, the Pinsky Lab had access.
 
+University Affiliated Listservs
+-------------------------------
+
+| Name                     | Listserv email                    | Contact Name| Contact email              |       
+|--------------------------|-----------------------------------|-------------|----------------------------|
+| Pinsky Lab               | pinsky-lab@googlegroups.com       | Dan Forrest | daniel.forrest@rutgers.edu |
+| Ecology All              | ecologyall@sebs.rutgers.edu       | ? | ? |
+| Eco-GSA Students         | ecogsa_students@email.rutgers.edu | ? | ? |
+| DEENR Staff              | deenr_staff@email.rutgers.edu     | ? | ? |
+| DEENR Faculty            | deenr_faculty@email.rutgers.edu   | ? | ? |
+| DMCS All                 | dmcs-all@grove.marine.rutgers.edu | Donna Napoli | napoli@marine.rutgers.edu |
+| Cook Personals           | personals@aesop.rutgers.edu       | ? | ? |
+
+
+
 Guides and tutorials
 --------------------
 
