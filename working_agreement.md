@@ -85,7 +85,7 @@
   - To report an issue please contact Malin. All communication will be treated as confidential to the extent possible (sexual harrassment and related concerns have to be reported, per [university policy](https://uec.rutgers.edu/policies/title-ix/)
   - If you aren't comfortable speaking to Malin: 
     - contact the lab listener
-    - contact Marsha Morin, E&E grad student coordinator
+    - contact Shaneika Nelson, E&E grad student coordinator
   - If the grad student coordinator does not sound like the correct point of contact, Rutgers has many resources available to you, including:
     - [Counseling, Alcohol, & Other Drug Assistance Program & Psychiatric Services](http://health.rutgers.edu/medical-counseling-services/counseling/)
     - [Student of Concern Pathway](http://health.rutgers.edu/do-something-to-help/)
