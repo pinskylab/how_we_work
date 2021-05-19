@@ -18,7 +18,7 @@
   - Assume competence in our community
 5. Give credit, take responsibility
   - Celebrate success, in yourself and the community.
-  - If you see a problem, be forthcoming and try t0 find a solution
+  - If you see a problem, be forthcoming and try to find a solution
   - If you make a mistake, be honest and open
 6. Facilitate a diverse environment
   - Be open to others perspectives, engage with them, and be willing to revise your own
@@ -38,7 +38,7 @@
 9. Be aware of your blindspots and biases!
   - Be open to criticism
   - Speak out compassionately and respectfully on behalf of others and your own wellbeing
-  - Make an effort to suggest imporovements to lab culture
+  - Make an effort to suggest improvements to lab culture
   - This document is always in progress
     - Please suggest changes where you see fit!
     - We will revisit this document at the beginning of each Fall Semester
