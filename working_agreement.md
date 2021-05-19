@@ -26,7 +26,7 @@
   - To specifically amplify the work of Black, Indigenous, People-of-Color (BIPOC) researchers, we've committed to 
     - Discussing an article written by a BIPOC author at least once a semester during lab meetings. Everyone is encouraged to lead a discussion
     - Prioritize the citation of BIPOC authors in our writings
-    - Attend talks by BIPOC scientists at conferences and add the names of the speakers you enjoyed to [our spreadsheet](https://docs.google.com/spreadsheets/d/1gHCUjD8gw1N8tTPhWbM_sNoSaBKFHPLEs7gQ9MFpcAo/edit#gid=0) to use as inspiration for future seminar invitations and paper discussions
+    - Attend talks by BIPOC scientists at conferences and add the names of the speakers you enjoyed to [our spreadsheet](https://docs.google.com/spreadsheets/d/1wxUETDO0x9af4i4NA8BVdnoNyFvqVSpYhtlJa0azPrU/edit#gid=0) to use as inspiration for future seminar invitations and paper discussions
      - Acknowledge our occupation of land historically used by the [Lenni-Lenape tribe](https://nanticoke-lenape.info). Our lab is a contributing member of the Friends of the Nanticoke Lenni-Lenape.
      - We will have biannual lab meetings to discuss our progress/shortcomings in Diversity, Equity, Inclusion & Belonging, led by Malin
 7. Take calculated risks
