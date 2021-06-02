@@ -2,13 +2,14 @@
 # Working Agreement
 ## Values
 1. Be nice and work hard. 
-  - Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow community members.
+  - Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries and experiences of fellow community members.
   - Make time for others; respect others' time
   - Try your best, while recognizing your best can change daily
 2. We love science and we love life outside science. 
   - Stay connected to what excites you about your work: explore and stay curious!
   - Make time for your personal life, so you can be your best self at work
   - Don’t push yourself to the point of exhaustion - if you do, your work will never be your best.
+  - Prioritize the physical and mental health of yourself and others
 3. Collaborate & share
   - We are a team: our colleagues are our resources, and you are a resource for our community 
   - Don’t be afraid to ask for help, and offer help generously
