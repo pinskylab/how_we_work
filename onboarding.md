@@ -11,15 +11,17 @@ To Do List
 ----------
 
 1.  Join the [Pinsky Lab Google Group](https://groups.google.com/forum/#!forum/pinsky-lab) mailing list, Teams, and google calendar.
-2.  Connect to the [Pinsky Lab Google Drive](https://drive.google.com/drive/u/0/my-drive).
+2.  Make a [GitHub](https://github.com/) account and join the [Pinsky Lab GitHub](https://github.com/pinskylab) organization (ask the lab coordinator)
+4.  Connect to the [Pinsky Lab Google Drive](https://drive.google.com/drive/u/0/my-drive).
     -   Click the "Shared with Me" link on the left.
     -   Right click on the Pinsky Lab folder and select Add to My Drive. This will not affect the amount of storage available in your google drive.
-3.  Add your information to the Pinsky Lab Members google document (in the Pinsky Lab Google Drive folder)/
-4.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
-5.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
-6.  Write an [Independent Development Plan](https://myidp.sciencecareers.org) and share it with Malin.
-7.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
-8.  When you are ready, sign up for a lab meeting this summer.  The easiest way to find the schedule for lab meetings is to search Teams for "lab meeting" and the linked google file should pop up.
+5.  Join [Rutgers Box](https://it.rutgers.edu/box/) and ask the Lab Coordinator and Peter Anderson to add you to the Pinsky Lab Box folders
+6.  Add your information to the Pinsky Lab Members google document (in the Pinsky Lab Google Drive folder)/
+7.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
+8.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
+9.  Write an [Independent Development Plan](https://myidp.sciencecareers.org) and share it with Malin.
+10.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
+11.  When you are ready, sign up for a lab meeting this summer.  The easiest way to find the schedule for lab meetings is to search Teams for "lab meeting" and the linked google file should pop up.
 
 Computing Resources
 -------------------
