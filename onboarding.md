@@ -56,9 +56,11 @@ University Affiliated Listservs
 | DEENR Faculty            | deenr_faculty@email.rutgers.edu   | ? | ? |
 | DMCS All                 | dmcs-all@grove.marine.rutgers.edu | Donna Napoli | napoli@marine.rutgers.edu |
 | Cook Personals           | personals@aesop.rutgers.edu       | ? | ? |
-| Rutgers Climate Institude|    ?      | Marjorie Kaplan | ? |
-| EOAS          | ?     | Lynn Travacino | ? |
+| Rutgers Climate Institude|    ?      | Marjorie Kaplan | ? [SIGN UP HERE](https://climatechange.rutgers.edu/keep-in-touch/mailing-list-social-media)|
+| EOAS          | ?     | Lynne Trabachino | lynne.trabachino@rutgers.edu |
 
+- Visit [here](https://mailman.marine.rutgers.edu/mailman/listinfo) for the full list of Rutgers Marine-related listservs 
+- Visit [here](https://email.rutgers.edu/mailman/listinfo/) for a broad list of Rutgers listservs
 
 
 Guides and tutorials
