@@ -82,5 +82,3 @@ Guides and tutorials
 - Add a new printer to your computer's devices:
    -  IP Address: 172.20.154.92
    -  Name: HP LaserJet Pro M404dn
-
-**This is a test line**
