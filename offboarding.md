@@ -30,6 +30,12 @@ Code used or developed in support of the project must be:
 1. Described in the README- what does each file do, what language was used, etc
 1. Tested! can at least one other person (but more is better) make your analysis go on a different computer?
 
+Other
+----
+1. Turn in keys
+1. Turn in computer or other equipment
+1. Return books
+
 Exit interview
 --------------
 Set up a time to talk with your mentor about:
