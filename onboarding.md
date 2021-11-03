@@ -17,11 +17,12 @@ To Do List
     -   Right click on the Pinsky Lab folder and select Add to My Drive. This will not affect the amount of storage available in your google drive.
 5.  Join [Rutgers Box](https://it.rutgers.edu/box/) and ask the Lab Coordinator and Peter Anderson to add you to the Pinsky Lab Box folders
 6.  Add your information to the Pinsky Lab Members google document (in the Pinsky Lab Google Drive folder)/
-7.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
-8.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
-9.  Write an [Independent Development Plan](https://myidp.sciencecareers.org) and share it with Malin.
-10.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
-11.  When you are ready, sign up for a lab meeting this summer.  The easiest way to find the schedule for lab meetings is to search Teams for "lab meeting" and the linked google file should pop up.
+7.  Send your contact information and photo to the lab coordinator (Mike Allen) to add to our lab webpage [here](https://pinsky.marine.rutgers.edu/people/)
+8.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
+9.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
+10.  Write an [Independent Development Plan](https://myidp.sciencecareers.org) and share it with Malin.
+11.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
+12.  When you are ready, sign up for a lab meeting this summer.  The easiest way to find the schedule for lab meetings is to search Teams for "lab meeting" and the linked google file should pop up.
 
 Computing Resources
 -------------------
