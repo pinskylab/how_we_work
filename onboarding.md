@@ -17,7 +17,7 @@ To Do List
     -   Right click on the Pinsky Lab folder and select Add to My Drive. This will not affect the amount of storage available in your google drive.
 5.  Join [Rutgers Box](https://it.rutgers.edu/box/) and ask the Lab Coordinator and Peter Anderson to add you to the Pinsky Lab Box folders
 6.  Add your information to the Pinsky Lab Members google document (in the Pinsky Lab Google Drive folder)/
-7.  Send your contact information and photo to the lab coordinator (Mike Allen) to add to our lab webpage [here](https://pinsky.marine.rutgers.edu/people/)
+7.  Send your contact information, photo, and web address to the lab coordinator (Mike Allen) to add to our lab webpage [here](https://pinsky.marine.rutgers.edu/people/). If you don't have  webpage, Mike can help you make a page on our website.
 8.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
 9.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
 10.  Write an [Independent Development Plan](https://myidp.sciencecareers.org) and share it with Malin.
