@@ -31,12 +31,12 @@ There are several computing resources available to serve your research computing
 
 | owner                        | name        | partition name | number of cores | memory |
 |------------------------------|-------------|----------------|-----------------|--------|
-| Pinsky Lab                   | amphiprion  | -              | 40              | 252G   |
 | SEBS                         | annotate    | -              | 72              | 500G   |
 | SEBS                         | annotate-win| -              | 18              | 500G   |
 | OARC-Pinsky node 1 (hal0181) | amarel      | p_mlp195       | 40              | 128G   |
 | OARC-Pinsky node 2 (hal0186) | amarel      | p_mlp195       | 40              | 128G   |
-| OARC-Ecology node            | amarel      | p_deenr_1      | 28              | 128G   |
+| OARC-Ecology node 1 (hal0280)| amarel      | p_deenr_1      | 64              | 256G   |
+| OARC-Ecology node 2 (hal0281)| amarel      | p_deenr_1      | 64              | 256G   |
 | OARC-EOAS node               | amarel      | p_eoas_1       | 40              | 128G   |
 | OARC                         | amarel      | main           | ?               | ?      |
 | RDII                         | caliburn    | -              | 256             | 768G   |
@@ -50,7 +50,7 @@ University Affiliated Listservs
 
 | Name                     | Listserv email                    | Contact Name| Contact email              |       
 |--------------------------|-----------------------------------|-------------|----------------------------|
-| Pinsky Lab               | pinsky-lab@googlegroups.com       | Dan Forrest | daniel.forrest@rutgers.edu |
+| Pinsky Lab               | pinsky-lab@googlegroups.com       | Mike Allen  | michael.allen@rutgers.edu  |
 | Ecology All              | ecologyall@sebs.rutgers.edu       | ? | ? |
 | Eco-GSA Students         | ecogsa_students@email.rutgers.edu | ? | ? |
 | DEENR Staff              | deenr_staff@email.rutgers.edu     | ? | ? |
