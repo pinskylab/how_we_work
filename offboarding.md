@@ -15,6 +15,7 @@ General project documentation
 7.  README should include links to relevant papers or preprints
 8.  README should include contact information for authors, and if data is proprietary, for data creators
 9.  If any data required to run the scripts are not hosted in the repo, links and descriptions for how to access, download, or otherwise add the data are required.
+10.  If the repo is included in a publication, please also archive it with a DOI on [Zenodo](https://www.zenodo.org) (see [here](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md#archiving-a-git-repo-with-zenodo-for-a-publication)).
 
 Data
 ----
