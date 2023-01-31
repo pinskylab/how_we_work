@@ -8,10 +8,13 @@ General project documentation
 
 1.  Project components are all hosted in a repository on Github in the pinskylab organization.
 2.  Declare a license in the README so people know how they can use your work (for example [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/))
-3.  README includes project abstract or description
-4.  README includes file navigation within repo, description of file contents
-5.  README includes links to papers, preprints
-6.  README Includes contact information for authors, and if data is proprietary, for data creators
+3.  README should include a project abstract or description
+4.  README should help viewers navigate the files and directories within the repo and describe file contents.
+5.  For scripts, include in the README the software and package versions used to run the scripts and the specifications of the computer(s) on which the scripts were run.
+6.  For data files, describe the contents of each file, the file format, and the description and units of each data column if relevant.
+7.  README should include links to relevant papers or preprints
+8.  README should include contact information for authors, and if data is proprietary, for data creators
+9.  If any data required to run the scripts are not hosted in the repo, links and descriptions for how to access, download, or otherwise add the data are required.
 
 Data
 ----
