@@ -24,6 +24,7 @@ Data used in support of the project must be:
 1. Saved in an appropriate, non-proprietary format with accompanying metadata
 1. In a public archive (e.g., the github repo or another public archive), or, if data is proprietary, a 'snapshot' version of the data used in the project must be saved in a private repository accessible to lab members
 1. Linked and briefly described in the project README
+2. See more guidelines in our [Data Management Policy](https://github.com/pinskylab/how_we_work/blob/master/data-management.md)
 
 Code
 ----
