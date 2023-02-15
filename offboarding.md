@@ -5,35 +5,14 @@ With thanks to the [Bahlai lab](https://github.com/BahlaiLab) for the model and 
 
 General project documentation
 -----------------------------
+Refer to guidelines in our [Data Management Policy](https://github.com/pinskylab/how_we_work/blob/master/data-management.md)
 
-1.  Project components are all hosted in a repository on Github in the pinskylab organization.
-2.  Declare a license in the README so people know how they can use your work (for example [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/))
-3.  README should include a project abstract or description
-4.  README should help viewers navigate the files and directories within the repo and describe file contents.
-5.  For scripts, include in the README the software and package versions used to run the scripts and the specifications of the computer(s) on which the scripts were run.
-6.  For data files, describe the contents of each file, the file format, and the description and units of each data column if relevant.
-7.  README should include links to relevant papers or preprints
-8.  README should include contact information for authors, and if data is proprietary, for data creators
-9.  If any data required to run the scripts are not hosted in the repo, links and descriptions for how to access, download, or otherwise add the data are required.
-10.  If the repo is included in a publication, please also archive it with a DOI on [Zenodo](https://www.zenodo.org) (see [here](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md#archiving-a-git-repo-with-zenodo-for-a-publication)).
-
-Data
-----
-
-Data used in support of the project must be:
-1. Saved in an appropriate, non-proprietary format with accompanying metadata
-1. In a public archive (e.g., the github repo or another public archive), or, if data is proprietary, a 'snapshot' version of the data used in the project must be saved in a private repository accessible to lab members
-1. Linked and briefly described in the project README
-2. See more guidelines in our [Data Management Policy](https://github.com/pinskylab/how_we_work/blob/master/data-management.md)
-
-Code
-----
-
-Code used or developed in support of the project must be:
-1. Well commented and complete
-1. On Github, in the public project repository
-1. Described in the README- what does each file do, what language was used, etc
-1. Tested! can at least one other person (but more is better) make your analysis go on a different computer?
+Data questions to consider
+--------------------------
+* Has the [Data Management Policy](https://github.com/pinskylab/how_we_work/blob/master/data-management.md) been taken into consideration?
+* Is all data backed up in locations accessible to the lab?
+* Is all metadata accessible?
+* Are all scripts well documented?
 
 Other
 ----
