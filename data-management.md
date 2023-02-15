@@ -2,8 +2,8 @@
 
 The Pinsky Lab perpetuates an open science policy to ensure accessible and reproducible science. To assist in achieving that aim:
 
+
 ## General project documentation
---------------------------------
 
 1. Lab notebooks are maintained each day; tracking progress, daily learnings, what was accomplished, and/or what goal was worked towards. These can be physical notebooks, text files, Evernote, Jupyter notebooks, etc.
 	* It is asked that the lab notebook is digitally backed up, in the event of a worse-case scenario
@@ -41,7 +41,6 @@ The Pinsky Lab perpetuates an open science policy to ensure accessible and repro
 
 
 ## Data
--------
 Data used in support of a project must be:
 
 1. Saved in an appropriate, non-proprietary format with accompanying metadata
@@ -52,7 +51,6 @@ Data used in support of a project must be:
 
 
 ## Code
--------
 Code used or developed in support of the project must be:
 
 1. Well commented and complete
