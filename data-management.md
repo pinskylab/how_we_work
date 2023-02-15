@@ -6,32 +6,32 @@ The Pinsky Lab perpetuates an open science policy to ensure accessible and repro
 --------------------------------
 
 1. Lab notebooks are maintained each day; tracking progress, daily learnings, what was accomplished, and/or what goal was worked towards. These can be physical notebooks, text files, Evernote, Jupyter notebooks, etc.
-	a. It is asked that the lab notebook is digitally backed up, in the event of a worse-case scenario
+	* It is asked that the lab notebook is digitally backed up, in the event of a worse-case scenario
 
 2. GitHub repositories are utilized for storage of project componenents
-	a. This facilitates of collaboration and sharing within the labs space
+	* This facilitates of collaboration and sharing within the labs space
 
 3. Raw data is stored in the GitHub repository associated with the project, when applicable
-	a. Typically raw data can be found in a folder titled "data" in the assocated repository
-	b. Metadata, a descriptor of the raw dataset, is stored with with the raw data
-	c. If data is manipulated, a new folder is created using the title method of "data-[manipulation technique]". The manipulated data is stored in this location for differentiation from its original form
-	d. If downloaded data from an external or public source is being used, it is stored in a folder titled "data_dl". Include the data sourcenin the ReadMe file for reproducibility purposes
+	* Typically raw data can be found in a folder titled "data" in the assocated repository
+	* Metadata, a descriptor of the raw dataset, is stored with with the raw data
+	* If data is manipulated, a new folder is created using the title method of "data-[manipulation technique]". The manipulated data is stored in this location for differentiation from its original form
+	* If downloaded data from an external or public source is being used, it is stored in a folder titled "data_dl". Include the data sourcenin the ReadMe file for reproducibility purposes
 
 4. Metadata should be included and kept with all relevant data. Accompanied by a README that describes the data and metadata in an interpretible manner
-	a. README should include links and/or DOI to relevant papers and preprints
-	b. README should include contact information for authors and data creators, as necessay
+	* README should include links and/or DOI to relevant papers and preprints
+	* README should include contact information for authors and data creators, as necessay
 
 5. Data is backed up in a *minimum* of two places (beyond personal computers and GitHub). This can be on an external hard drive, Rutgers Box, Amarel, or Annotate
 
 6. In a scenario in which the data is too large to be stored on GitHub, it is deposited in the Pinsky lab Box account
-	a. Additional back ups, such as through Amarel, Annotate, or an external hard drive are highly suggested
+	* Additional back ups, such as through Amarel, Annotate, or an external hard drive are highly suggested
 
 7. Data processing is accomplished through the use of computational scripts
-	a. Helps to verify the reproducibility of computational biological methods
-	b. 3rd-party data, not hosted by the Pinsky Lab, that is required to run scripts should be made accessible by providing links, descriptions for access/download, or otherwise add the data are required
+	* Helps to verify the reproducibility of computational biological methods
+	* 3rd-party data, not hosted by the Pinsky Lab, that is required to run scripts should be made accessible by providing links, descriptions for access/download, or otherwise add the data are required
 
 8. Git repositories are published through [Zenodo](https://www.zenodo.org) accompanying the publication of a manuscript
-	a. If the repo is included in a publication, please also archive it with a DOI on [Zenodo](https://www.zenodo.org) (see [here](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md#archiving-a-git-repo-with-zenodo-for-a-publication)).
+	* If the repo is included in a publication, please also archive it with a DOI on [Zenodo](https://www.zenodo.org) (see [here](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md#archiving-a-git-repo-with-zenodo-for-a-publication)).
 
 9. Collaborative manuscripts are written in Google Drive
 
