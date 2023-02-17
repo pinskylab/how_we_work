@@ -29,7 +29,7 @@ The Pinsky Lab strives for an open science policy that makes our science accessi
 ## Data
 Data used in support of a project is:
 
-1. Saved in an appropriate, non-proprietary format with accompanying metadata (e.g., csv rathern than Excel)
+1. Saved in an appropriate, non-proprietary format with accompanying metadata (e.g., csv rather than Excel)
 1. Raw data is stored in or linked from the GitHub repository associated with the project
    1. Raw data files under the Github file size limit (<100MB) are stored in a data/ directory
    1. Larger files are stored in a data_largefiles/ directory (not tracked by Git by using the .gitignore file) in at least two places: 1) where the analysis is occurring (e.g., scientific workstation), and 2) on the Pinsky Lab Box account in a directory whose name corresponds to the Git repo name. We document this clearly in the relevant data_largefiles/README.md file.
