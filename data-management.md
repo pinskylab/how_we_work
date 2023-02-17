@@ -1,62 +1,52 @@
 # Pinsky Lab Data Management Plan
 
-The Pinsky Lab perpetuates an open science policy to ensure accessible and reproducible science. To assist in achieving that aim:
+The Pinsky Lab strives for an open science policy that makes our science accessible and reproducible and that allows us to collaborate with our future selves and with our colleagues. To assist in achieving that aim, we use the following practices.
 
 
-## General project documentation
+## General project organization
 
 1. Lab notebooks are maintained each day; tracking progress, daily learnings, what was accomplished, and/or what goal was worked towards. These can be physical notebooks, text files, Evernote, Jupyter notebooks, etc.
-	* It is asked that the lab notebook is digitally backed up, in the event of a worse-case scenario
+   1. Lab notebooks are digitally backed up, regardless of initial format
 
-2. GitHub repositories are utilized for storage of project componenents
-	* This facilitates of collaboration and sharing within the labs space
-
-3. Raw data is stored in the GitHub repository associated with the project, when applicable
-	* Typically raw data can be found in a folder titled "data" in the assocated repository
-	* Metadata, a descriptor of the raw dataset, is stored with with the raw data
-	* If data is manipulated, a new folder is created using the title method of "data-[manipulation technique]". The manipulated data is stored in this location for differentiation from its original form
-	* If downloaded data from an external or public source is being used, it is stored in a folder titled "data_dl". Include the data sourcenin the ReadMe file for reproducibility purposes
-
-4. Metadata should be included and kept with all relevant data. Accompanied by a README that describes the data and metadata in an interpretible manner
-	* README should include links and/or DOI to relevant papers and preprints
-	* README should include contact information for authors and data creators, as necessay
-
-5. Data is backed up in a *minimum* of two places (beyond personal computers and GitHub). This can be on an external hard drive, Rutgers Box, Amarel, or Annotate
-
-6. In a scenario in which the data is too large to be stored on GitHub, it is deposited in the Pinsky lab Box account
-	* Additional back ups, such as through Amarel, Annotate, or an external hard drive are highly suggested
-
-7. Data processing is accomplished through the use of computational scripts
-	* Helps to verify the reproducibility of computational biological methods
-	* 3rd-party data, not hosted by the Pinsky Lab, that is required to run scripts should be made accessible by providing links, descriptions for access/download, or otherwise add the data are required
-
-8. Git repositories are published through [Zenodo](https://www.zenodo.org) accompanying the publication of a manuscript
-	* If the repo is included in a publication, please also archive it with a DOI on [Zenodo](https://www.zenodo.org) (see [here](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md#archiving-a-git-repo-with-zenodo-for-a-publication)).
-
-9. Collaborative manuscripts are written in Google Drive
-
-10. Presentations are typically made in Google Slides allowing lab members easy access to useful graphics
-
-11. During matriculation ensure all projects, code, data, papers, etc. are uploaded in the Pinsky Lab organization on GitHub
-
+1. Each new project gets a GitHub repository in the [pinskylab organization](https://github.com/pinskylab)
+   1. This practice facilitates collaboration, sharing, and maintenance of institutional knowledge
+   1. Repos can be public or private
+1. Data processing is accomplished through the use of scripts, not manual manipulation
+   1. This helps to verify the reproducibility of our methods
+1. A README.md in each directory (including the top directory) 
+   1. explains the purpose of each file and sub-directory
+   1. includes links to relevant papers and preprints
+   1. has contact information for authors and data creators, as necessary
+   1. defines data columns, including units, of any data files and basic methods used for data collection
+   1. has version numbers of any software or packages needed for running codes or scripts
+1. If the repo is included in a publication, we also archive it with a DOI on, for example, [Zenodo](https://www.zenodo.org) (see [here](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md#archiving-a-git-repo-with-zenodo-for-a-publication) for instructions).
+1. We write collaborative manuscripts in the Pinsky Lab Google Drive
+1. Presentations are typically made in Google Slides in the Pinsky Lab Google Drive (Presentations/) allowing lab members easy access to useful graphics
+   1. Name the file in the format YYYY-MM-DD_presentername_occasion, eg, 2023-01-07_Pinsky_AmNat
+1. Before matriculation, we ensure all projects, code, data, papers, etc. are uploaded and fully documented
 
 ## Data
-Data used in support of a project must be:
+Data used in support of a project is:
 
-1. Saved in an appropriate, non-proprietary format with accompanying metadata
-
-2. In a public archive (e.g., the github repository or another public archive), or, if data is proprietary, a 'snapshot' version of the data used in the project must be saved in a private repository accessible to lab members
-
-3. Linked and briefly described in the project README
+1. Saved in an appropriate, non-proprietary format with accompanying metadata (e.g., csv rathern than Excel)
+1. Raw data is stored in or linked from the GitHub repository associated with the project
+   1. Raw data files under the Github file size limit (<100MB) are stored in a data/ directory
+   1. Larger files are stored in a data_largefiles/ directory (not tracked by Git by using the .gitignore file) in at least two places: 1) where the analysis is occurring (e.g., scientific workstation), and 2) on the Pinsky Lab Box account in a directory whose name corresponds to the Git repo name. We document this clearly in the relevant data_largefiles/README.md file.
+   1. If data from an external or public source is being used, it is stored in a data_dl/ directory (not tracked by Git). We clearly and unambiguously describe the data source in the data_dl/README.md file by providing links, version numbers, descriptions for access/download, or other details to ensure reproducibility
+   1. Metadata is stored in the same directory as the raw data, typically in a README.md file that describes the data in each column, units, and other details needed to understand the file
+   1. Processed or cleaned data is stored in a separate directory, e.g., output/ or similar, to differentiate from raw data
 
 
 ## Code
-Code used or developed in support of the project must be:
+All code used or developed in support of the project is:
 
 1. Well commented and complete
+1. Versioned in the project's git repository
+1. Described in the README.md file to explain what each script does, what language was used, what software and package versions were used, etc.
+1. Tested! Can at least one other person (more is better) complete your analysis on a different computer?
 
-2. On Github, in the public project repository
+## Backups
+We store our raw data and scripts in at least two locations.
 
-3. Described in the README -> what does each file do, what language was used, what is the purpose of functions and parameters, etc.
-
-4. Tested! Can at least one other person (more is better) complete your analysis on a different computer?
+1. Most of our work is on Github or Google Drive. Both are backed up monthly to Box and to an external harddrive by a designated lab member.
+1. Raw data files too large for Github and Drive are stored on the scientific workstation on which they are being manipulated or posted on Figshare, then manually copied to Box by the researcher (use a directory with the same name as the parent Git repo and subdirectory named data_largefiles/). They are backed up from Box monthly to an external harddrive by a designated lab member.
