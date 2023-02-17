@@ -20,10 +20,11 @@ The Pinsky Lab strives for an open science policy that makes our science accessi
    1. defines data columns, including units, of any data files and basic methods used for data collection
    1. has version numbers of any software or packages needed for running codes or scripts
 1. If the repo is included in a publication, we also archive it with a DOI on, for example, [Zenodo](https://www.zenodo.org) (see [here](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md#archiving-a-git-repo-with-zenodo-for-a-publication) for instructions).
-1. We write collaborative manuscripts in the Pinsky Lab Google Drive
-1. Presentations are typically made in Google Slides in the Pinsky Lab Google Drive (Presentations/) allowing lab members easy access to useful graphics
+2. We add a license to each git repo, e.g., CC BY-NC 4.0
+3. We write collaborative manuscripts in the Pinsky Lab Google Drive
+4. Presentations are typically made in Google Slides in the Pinsky Lab Google Drive (Presentations/) allowing lab members easy access to useful graphics
    1. Name the file in the format YYYY-MM-DD_presentername_occasion, eg, 2023-01-07_Pinsky_AmNat
-1. Before matriculation, we ensure all projects, code, data, papers, etc. are uploaded and fully documented
+5. Before matriculation, we ensure all projects, code, data, papers, etc. are uploaded and fully documented
 
 ## Data
 Data used in support of a project is:
