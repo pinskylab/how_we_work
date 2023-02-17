@@ -5,7 +5,7 @@ With thanks to the [Bahlai lab](https://github.com/BahlaiLab) for the model and 
 
 General project documentation
 -----------------------------
-Refer to guidelines in our [Data Management Policy](https://github.com/pinskylab/how_we_work/blob/master/data-management.md)
+* Make sure each of your projects complies with our [Data Management Plan](https://github.com/pinskylab/how_we_work/blob/master/data-management.md)
 
 Data questions to consider
 --------------------------
