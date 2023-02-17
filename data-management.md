@@ -33,7 +33,7 @@ Data used in support of a project is:
 1. Raw data is stored in or linked from the GitHub repository associated with the project
    1. Raw data files under the Github file size limit (<100MB) are stored in a data/ directory
    1. Larger files are stored in a data_largefiles/ directory (not tracked by Git by using the .gitignore file) in at least two places: 1) where the analysis is occurring (e.g., scientific workstation), and 2) on the Pinsky Lab Box account in a directory whose name corresponds to the Git repo name. When we do this, we document this arrangement clearly in the relevant data_largefiles/README.md file.
-   1. If data from an external or public source is being used, it is stored in a data_dl/ directory (not tracked by Git). We clearly and unambiguously describe the data source in the data_dl/README.md file by providing links, version numbers, descriptions for access/download, or other details to ensure reproducibility
+   1. If data from an external or public source is being used, it is stored in a data_dl/ directory (not tracked by Git). We clearly and unambiguously describe the data source in the data_dl/README.md file by providing links, version numbers, descriptions for access/download, or other details to ensure reproducibility. If you're worried the data won't be available in the future, follow one of the two previous bullet point approaches.
    1. Metadata is stored in the same directory as the raw data, typically in a README.md file that describes the data in each column, units, and other details needed to understand the file
    1. Processed or cleaned data is stored in a separate directory, e.g., output/ or similar, to differentiate from raw data
 
