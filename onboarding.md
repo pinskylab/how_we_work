@@ -34,11 +34,11 @@ There are several computing resources available to serve your research computing
 |------------------------------|-------------|----------------|-----------------|--------|
 | SEBS                         | annotate    | -              | 72              | 500G   |
 | SEBS                         | annotate-win| -              | 18              | 500G   |
-| OARC-Pinsky node 1 (hal0181) | amarel      | p_mlp195       | 40              | 128G   |
-| OARC-Pinsky node 2 (hal0186) | amarel      | p_mlp195       | 40              | 128G   |
+| OARC-Pinsky node 1 (hal0181) | amarel      | p_mlp195       | 40              | 192G   |
+| OARC-Pinsky node 2 (hal0186) | amarel      | p_mlp195       | 40              | 192G   |
 | OARC-Ecology node 1 (hal0280)| amarel      | p_deenr_1      | 64              | 256G   |
 | OARC-Ecology node 2 (hal0281)| amarel      | p_deenr_1      | 64              | 256G   |
-| OARC-EOAS node               | amarel      | p_eoas_1       | 40              | 128G   |
+| OARC-EOAS node (hal0170)     | amarel      | p_eoas_1       | 40              | 192G   |
 | OARC                         | amarel      | main           | ?               | ?      |
 | RDII                         | caliburn    | -              | 256             | 768G   |
 
