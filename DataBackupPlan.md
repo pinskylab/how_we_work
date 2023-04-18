@@ -29,7 +29,7 @@ project. The repo name is then used as the name for the parent directory of the 
 Box and the RAID.
 
 ### Important files to backup
-Please review the Pinsky Lab Data Management Plan for more information.
+Please review the [Pinsky Lab Data Management Plan](https://github.com/pinskylab/how_we_work/blob/master/data-management.md) for more information.
 * Raw data
 * Scripts
 * Metadata
