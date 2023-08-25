@@ -15,7 +15,7 @@ To Do List
 1.  Write an [Independent Development Plan](https://myidp.sciencecareers.org), share it with Malin, and set up a time to discuss it.
 1.  Make a [GitHub](https://github.com/) account and a Google account if you don't have them yet.
 2.  Join our Teams group, our shared google calendar, our [Github Organization](https://github.com/pinskylab), and the [GCRG mailing list](https://groups.google.com/forum/#!forum/pinsky-lab) (talk to Ryan Snow).
-4.  Connect to the [Pinsky Lab Google Drive](https://drive.google.com/drive/u/0/my-drive) by asking Ryan to share it with you. Then:
+4.  Connect to the [GCRG Google Drive](https://drive.google.com/drive/u/0/my-drive) by asking Ryan to share it with you. Then:
     -   Click the "Shared with Me" link on the left.
     -   Right click on the Pinsky Lab folder and select Add to My Drive.
 5.  Join [Rutgers Box](https://it.rutgers.edu/box/) and ask Ryan Snow and Andrew Campbell to add you to the Pinsky Lab Box folders (to be updated for UCSC)
@@ -25,6 +25,7 @@ To Do List
 12.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
 13.  Block out our weekly lab meeting time on your calendar, and when you're ready, sign up for a lab meeting.  The easiest way to find the schedule for lab meetings is to search Teams for "lab meeting" and the linked google file should pop up.
 14.  Read through the relevant guides and tutorials below, depending on your experience.
+15.  Spend some time exploring the resources on the GCRG Google Drive and Github Organization. Ask questions about anything that's confusing so that we can make it easier for others in the future.
 
 Computing Resources
 -------------------
