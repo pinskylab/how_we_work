@@ -33,6 +33,7 @@ Computing Resources
 *This will be updated for UCSC*
 There are several computing resources available to serve your research computing needs.
 
+**Rutgers**
 | owner                        | name        | partition name | number of cores | memory |
 |------------------------------|-------------|----------------|-----------------|--------|
 | SEBS                         | annotate    | -              | 72              | 500G   |
@@ -45,13 +46,19 @@ There are several computing resources available to serve your research computing
 | OARC                         | amarel      | main           | ~19,000         | ?      |
 | RDII                         | caliburn    | -              | 256             | 768G   |
 
+**UCSC**
+| owner                        | name        | partition name | number of cores | memory |
+|------------------------------|-------------|----------------|-----------------|--------|
+| PBSci                         | Hummingbird    | -              | ?              | ?   |
+| Lux | Astrophyics | | | |
+
 *Various lab members have differing levels of experience with each of these servers and can help you figure out what is best for your analysis.*
 **Amarel** is a condo system. You only have to wait in line with other GCRG folks for the Pinsky node, you have to wait in line with other Ecology folks for the DEENR node, you have to wait in line with all of Rutgers folks for the other nodes.
 **Caliburn** is a proposal system. Only people who have submitted proposals and been approved have access to the resources. At the time of this document creation, the Pinsky Lab had access.
 
 University Affiliated Listservs 
 -------------------------------
-*This will be updated for UCSC*
+**Rutgers**
 | Name                          | Listserv email                    | Contact Name| Contact email              |       
 |-------------------------------|-----------------------------------|-------------|----------------------------|
 | Global Change Research Group  | pinsky-lab@googlegroups.com       | Ryan Snow  |   |
@@ -63,6 +70,12 @@ University Affiliated Listservs
 | Cook Personals                | personals@aesop.rutgers.edu       | ? | ? |
 | Rutgers Climate Institude     |    ?                              | Marjorie Kaplan | ? [SIGN UP HERE](https://climatechange.rutgers.edu/keep-in-touch/mailing-list-social-media)|
 | EOAS          | ?     | Lynne Trabachino | lynne.trabachino@rutgers.edu |
+
+**UCSC**
+| Name                          | Listserv email                    | Contact Name| Contact email              |       
+|-------------------------------|-----------------------------------|-------------|----------------------------|
+| Global Change Research Group  | pinsky-lab@googlegroups.com       | Ryan Snow  |   |
+| Fisheries Cooperative Program | ? | | |
 
 - Visit [here](https://mailman.marine.rutgers.edu/mailman/listinfo) for the full list of Rutgers Marine-related listservs 
 - Visit [here](https://email.rutgers.edu/mailman/listinfo/) for a broad list of Rutgers listservs
