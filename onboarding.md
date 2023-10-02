@@ -13,7 +13,7 @@ To Do List
 1.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
 1.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
 1.  Write an [Independent Development Plan](https://myidp.sciencecareers.org), share it with Malin, and set up a time to discuss it.
-1.  Make a [GitHub](https://github.com/) account and a Google account if you don't have them yet.
+1.  Make a [GitHub](https://github.com/) account and a Google account if you don't have them yet (note that a UCSC account is also a Google account).
 2.  Join our Teams group, our shared google calendar, our [Github Organization](https://github.com/pinskylab), and the [GCRG mailing list](https://groups.google.com/forum/#!forum/pinsky-lab) (talk to Ryan Snow).
 4.  Connect to the [GCRG Google Drive](https://drive.google.com/drive/u/0/my-drive) by asking Ryan to share it with you. Then:
     -   Click the "Shared with Me" link on the left.
@@ -22,7 +22,7 @@ To Do List
 6.  Add your information to the GCRG Members google document (in the GCRG Google Drive folder)/
 7.  Send your contact information, photo, and web address to the lab coordinator to add to our lab webpage [here](https://globalchange.sites.ucsc.edu/people/). If you don't have  webpage, they can help you make a page on our website.
 11.  If you will be doing lab work, complete the safety training (to be determined at UCSC).
-12.  Get your keys and ID card through UCSC (talk with the EEB Grad Program Coordinator and/or the EEB Department Administrator). Add CBB 139 for the GCRG Molecular lab, and a key for the CBB showers if you want.
+12.  Get your keys and ID card through UCSC (talk with the EEB Grad Program Coordinator and/or the EEB Assistant Administrator). Add CBB 139 for the GCRG Molecular lab, and a key for the CBB showers if you want. See the [EEB Resource Guide](https://sites.google.com/ucsc.edu/eeb/home) for other questions.
 13.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
 14.  Block out our weekly lab meeting time on your calendar, and when you're ready, sign up for a lab meeting.  The easiest way to find the schedule for lab meetings is to search Teams for "lab meeting" and the linked google file should pop up.
 15.  Read through the relevant guides and tutorials below, depending on your experience.
