@@ -10,23 +10,25 @@ There are a few items to take care of now that you have joined the lab.
 To Do List
 ----------
 
-1.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
+2.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
 1.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
 1.  Write an [Independent Development Plan](https://myidp.sciencecareers.org), share it with Malin, and set up a time to discuss it.
 1.  Make a [GitHub](https://github.com/) account and a Google account if you don't have them yet (note that a UCSC account is also a Google account).
-2.  Join our Teams group, our shared google calendar, our [Github Organization](https://github.com/pinskylab), and the [GCRG mailing list](https://groups.google.com/forum/#!forum/pinsky-lab) (talk to Ryan Snow).
-4.  Connect to the [GCRG Google Drive](https://drive.google.com/drive/u/0/my-drive) by asking Ryan to share it with you. Then:
+1.  Join our Teams group, our shared google calendar, our [Github Organization](https://github.com/pinskylab), and the [GCRG mailing list](https://groups.google.com/forum/#!forum/pinsky-lab) (talk to Ryan Snow).
+1.  Connect to the [GCRG Google Drive](https://drive.google.com/drive/u/0/my-drive) by asking Ryan to share it with you. Then:
     -   Click the "Shared with Me" link on the left.
     -   Right click on the Pinsky Lab folder and select Add to My Drive.
-5.  Join [Rutgers Box](https://it.rutgers.edu/box/) and ask Ryan Snow and Andrew Campbell to add you to the Pinsky Lab Box folders (to be updated for UCSC)
-6.  Add your information to the GCRG Members google document (in the GCRG Google Drive folder)/
-7.  Send your contact information, photo, and web address to the lab coordinator to add to our lab webpage [here](https://globalchange.sites.ucsc.edu/people/). If you don't have  webpage, they can help you make a page on our website.
-11.  If you will be doing lab work, complete the safety training [here](https://sites.google.com/ucsc.edu/eeb/About-Coastal-Campus/environmental-health-safety).
-12.  Get your keys and ID card through UCSC (talk with the EEB Grad Program Coordinator and/or the EEB Assistant Administrator). Add CBB 139 for the GCRG Molecular lab, and a key for the CBB showers if you want. See the [EEB Resource Guide](https://sites.google.com/ucsc.edu/eeb/home) for other questions.
-13.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
-14.  Block out our weekly lab meeting time on your calendar, and when you're ready, sign up for a lab meeting.  The easiest way to find the schedule for lab meetings is to search Teams for "lab meeting" and the linked google file should pop up.
-15.  Read through the relevant guides and tutorials below, depending on your experience.
-16.  Spend some time exploring the resources on the GCRG Google Drive and Github Organization. Ask questions about anything that's confusing so that we can make it easier for others in the future.
+1.  Join [Rutgers Box](https://it.rutgers.edu/box/) and ask Ryan Snow and Andrew Campbell to add you to the Pinsky Lab Box folders (to be updated for UCSC)
+1.  Add your information to the GCRG Members google document (in the GCRG Google Drive folder)/
+1.  Send your contact information, photo, and web address to the lab coordinator to add to our lab webpage [here](https://globalchange.sites.ucsc.edu/people/). If you don't have  webpage, they can help you make a page on our website.
+1.  If you will be doing lab work, complete the safety training [here](https://sites.google.com/ucsc.edu/eeb/About-Coastal-Campus/environmental-health-safety).
+1.  Get your keys and ID card through UCSC (talk with the EEB Grad Program Coordinator and/or the EEB Assistant Administrator). Add CBB 139 for the GCRG Molecular lab, a ley for the CBB analytical labs if you're doing pop gen lab work, and a key for the CBB showers if you want.
+1.  If you're at UCSC, also check out the [EEB resource guide](https://sites.google.com/ucsc.edu/eeb/home)
+1.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
+1.  Block out our weekly lab meeting time on your calendar, and when you're ready, sign up for a lab meeting.  The easiest way to find the schedule for lab meetings is to search Teams for "lab meeting" and the linked google file should pop up.
+2.  If you're a postdoc, grad student, or staff, talk to Malin if you need an external monitor, harddrive for backups, or external keyboard or trackpad. We can usually provide what you need.
+1.  Read through the relevant guides and tutorials below, depending on your experience.
+1.  Spend some time exploring the resources on the GCRG Google Drive and Github Organization. Ask questions about anything that's confusing so that we can make it easier for others in the future!
 
 Computing Resources
 -------------------
@@ -68,7 +70,7 @@ University Affiliated Listservs
 | DEENR Faculty                 | deenr_faculty@email.rutgers.edu   | ? | ? |
 | DMCS All                      | dmcs-all@grove.marine.rutgers.edu | Donna Napoli | napoli@marine.rutgers.edu |
 | Cook Personals                | personals@aesop.rutgers.edu       | ? | ? |
-| Rutgers Climate Institude     |    ?                              | Marjorie Kaplan | ? [SIGN UP HERE](https://climatechange.rutgers.edu/keep-in-touch/mailing-list-social-media)|
+| Rutgers Climate Institute     |    ?                              | Marjorie Kaplan | ? [SIGN UP HERE](https://climatechange.rutgers.edu/keep-in-touch/mailing-list-social-media)|
 | EOAS          | ?     | Lynne Trabachino | lynne.trabachino@rutgers.edu |
 
 **UCSC**
@@ -76,6 +78,8 @@ University Affiliated Listservs
 |-------------------------------|-----------------------------------|-------------|----------------------------|
 | Global Change Research Group  | pinsky-lab@googlegroups.com       | Ryan Snow  |   |
 | Fisheries Cooperative Program | ? | | |
+| Inst. for Marine Science | allmarsci@ucsc.edu | | |
+| EEB general announcements | eebmemo@ucsc.edu | | |
 
 - Visit [here](https://mailman.marine.rutgers.edu/mailman/listinfo) for the full list of Rutgers Marine-related listservs 
 - Visit [here](https://email.rutgers.edu/mailman/listinfo/) for a broad list of Rutgers listservs
@@ -91,7 +95,7 @@ Guides and tutorials
 1.  [Git and GitHub tutorial](https://classroom.udacity.com/courses/ud775) (Udacity)
 1.  [Happy Git with R tutorial](https://happygitwithr.com) (outside tutorial)  
 1. [Learn R with swirl](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&url=http%3A%2F%2Fswirlstats.com%2F&usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I)
-1. [Take R to the next level](https://r4ds.had.co.nz)
+1. [R For Data Science](https://r4ds.hadley.nz/) (a very useful introduction to R)
 1. [Zotero Reference Manager Tutorial](https://www.youtube.com/watch?v=q6-YOPS1xY4)
 <!--1.  [Collaborative Writing Guide]()-->
 <!--1.  [Time Management Guide]()-->
