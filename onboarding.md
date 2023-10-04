@@ -10,11 +10,11 @@ There are a few items to take care of now that you have joined the lab.
 To Do List
 ----------
 
-2.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
+1.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
 1.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
 1.  Write an [Independent Development Plan](https://myidp.sciencecareers.org), share it with Malin, and set up a time to discuss it.
 1.  Make a [GitHub](https://github.com/) account and a Google account if you don't have them yet (note that a UCSC account is also a Google account).
-1.  Join our Teams group, our shared google calendar, our [Github Organization](https://github.com/pinskylab), and the [GCRG mailing list](https://groups.google.com/forum/#!forum/pinsky-lab) (talk to Ryan Snow).
+1.  Join our Teams group, our shared google calendar, our [Github Organization](https://github.com/pinskylab), and the [GCRG mailing list (pinsky-lab@googlegroups.com)](https://groups.google.com/forum/#!forum/pinsky-lab) (talk to Ryan Snow).
 1.  Connect to the [GCRG Google Drive](https://drive.google.com/drive/u/0/my-drive) by asking Ryan to share it with you. Then:
     -   Click the "Shared with Me" link on the left.
     -   Right click on the Pinsky Lab folder and select Add to My Drive.
