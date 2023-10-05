@@ -52,7 +52,8 @@ There are several computing resources available to serve your research computing
 | owner                        | name        | partition name | number of cores | memory |
 |------------------------------|-------------|----------------|-----------------|--------|
 | PBSci                         | Hummingbird    | -              | ?              | ?   |
-| Lux | Astrophyics | | | |
+| Astrophysics | Lux | | | |
+| PBSci | Bishop [archived data] | GlobalChange-bio/ [10TB]| NA | NA |
 
 *Various lab members have differing levels of experience with each of these servers and can help you figure out what is best for your analysis.*
 **Amarel** is a condo system. You only have to wait in line with other GCRG folks for the Pinsky node, you have to wait in line with other Ecology folks for the DEENR node, you have to wait in line with all of Rutgers folks for the other nodes.
