@@ -89,7 +89,7 @@ University Affiliated Listservs
 Guides and tutorials
 --------------------
 
-1.  [The Openscapes Approach Guide](https://openscapes.github.io/approach-guide/): describes an approach to open science the underlies much our approach to science as well
+1.  [The Openscapes Lesson Series](https://openscapes.github.io/series/): describes an approach to collaborative, reproducible science and culture within teams that underlies much of our group's approach as well
 2.  [GCRG Cookbook](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md) is a resource of how to's put together by lab members to help you past the occasional obstacle that we all seem to run into.
 1.  [How to maintain a research notebook](https://github.com/pinskylab/pinskylab_methods/blob/master/labmgt/how_to_lab_notebook.md)
 1.  [Command line tutorial](https://www.udacity.com/wiki/ud775/command-line-instructions) and [more help with the command line](https://classroom.udacity.com/courses/ud595/lessons/4597278561/concepts/46968695970923) (Udacity)
