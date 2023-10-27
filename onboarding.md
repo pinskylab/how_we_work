@@ -78,9 +78,9 @@ University Affiliated Listservs
 | Name                          | Listserv email                    | Contact Name| Contact email              |       
 |-------------------------------|-----------------------------------|-------------|----------------------------|
 | Global Change Research Group  | pinsky-lab@googlegroups.com       | Ryan Snow  |   |
-| Fisheries Cooperative Program | ? | | |
 | Inst. for Marine Science | allmarsci@ucsc.edu | | |
-| EEB general announcements | eebmemo@ucsc.edu | | |
+| EEB general announcements | eebmemo@ucsc.edu | Eve Chudnow | echudnow@ucsc.edu |
+| [Fisheries Collaborative Program](https://fisheries.ucsc.edu/) | fcp-group@ucsc.edu | Liane Bauer | lybauer@ucsc.edu |
 
 - Visit [here](https://mailman.marine.rutgers.edu/mailman/listinfo) for the full list of Rutgers Marine-related listservs 
 - Visit [here](https://email.rutgers.edu/mailman/listinfo/) for a broad list of Rutgers listservs
