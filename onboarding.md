@@ -102,6 +102,22 @@ Guides and tutorials
 3. Two recommended stats books from economics:
     - Pindyck, R.S., Rubinfeld, D.L., 1998. Econometric Models and Economic Forecasts, 4th ed. McGraw-Hill New York, NY.
     - Cameron, A.C., Trivedi, P.K., 2005. Microeconometrics methods and applications. Cambridge University Press, New York.
+1. Resources for scientific writing
+    - Schimel, J. 2012. Writing science: how to write papers that get cited and proposals that get funded. Oxford University Press, Oxford
+	- Turbek, S. P., Chock, T. M., Donahue, K., Havrilla, C. A., Oliverio, A. M., Polutchko, S. K., … Vimercati, L. (2016). Scientific Writing Made Easy: A Step-by-Step Guide to Undergraduate Writing in the Biological Sciences. Ecology 101, (October), 417–426. https://doi.org/10.1002/bes2.1258
+	- Gopen, G., & Swan, J. (1990). The Science of Scientific Writing. American Scientist.
+	- Lafferty 2021 Writing a scientific paper, step by painful step
+	- How to read a scientific paper | Science | AAAS
+	- How to (seriously) read a scientific paper | Science | AAAS
+	- Authorship
+		- Ecology: https://www.esa.org/about/code-of-ethics/
+		- Evolution: https://onlinelibrary-wiley-com.proxy.libraries.rutgers.edu/page/journal/15585646/homepage/forauthors.html#authorship
+		- https://fisheries.org/books-journals/writing-tools/authorship-guidelines/. Two of:
+		- https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1540-9295%282006%294%5B435%3AAIEAAA%5D2.0.CO%3B2
+1. Data visualization resources
+    - Tufte books
+    - William Cleveland, The Elements of Graphing Data
+
 <!--1.  [Collaborative Writing Guide]()-->
 <!--1.  [Time Management Guide]()-->
 
