@@ -5,6 +5,7 @@ Welcome! This repo serves as a central hub for information on our values and how
 - [Working Agreement](working_agreement.md)
 - [Onboard Guide](onboarding.md) for new members
 - [Data Management Guide](data-management.md) for open science
+- [Notes on a Phd degree in the GCRG](phd_guide.md)
 - [Data Backup Plan](DataBackupPlan.md)
 - [Offboarding Guide](offboarding.md)
 
