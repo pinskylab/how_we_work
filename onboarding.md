@@ -98,6 +98,10 @@ Guides and tutorials
 1. [Learn R with swirl](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&url=http%3A%2F%2Fswirlstats.com%2F&usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I)
 1. [R For Data Science](https://r4ds.hadley.nz/) (a very useful introduction to R)
 1. [Zotero Reference Manager Tutorial](https://www.youtube.com/watch?v=q6-YOPS1xY4)
+2. [Biostats suggestions from Ecology](https://dynamicecology.wordpress.com/2021/07/28/stage-setting-readings-and-videos-to-kick-off-an-intro-biostats-course-here-are-mine-please-share-your-suggestions/)
+3. Two recommended stats books from economics:
+    - Pindyck, R.S., Rubinfeld, D.L., 1998. Econometric Models and Economic Forecasts, 4th ed. McGraw-Hill New York, NY.
+    - Cameron, A.C., Trivedi, P.K., 2005. Microeconometrics methods and applications. Cambridge University Press, New York.
 <!--1.  [Collaborative Writing Guide]()-->
 <!--1.  [Time Management Guide]()-->
 
