@@ -1,4 +1,4 @@
-# Pinsky Lab Policies
+# Pinsky Lab Guide
 
 Welcome! This repo serves as a central hub for information on our values and how we work together. In particular, please see our:
 
