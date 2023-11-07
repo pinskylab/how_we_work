@@ -117,6 +117,12 @@ Guides and tutorials
 1. Data visualization resources
     - Tufte books
     - William Cleveland, The Elements of Graphing Data
+1. Networking and collaboration skills
+   - Resources from the [ESA Early Career Ecologists section](http://esa.org/earlycareer/resources/), including [webinars](https://vimeo.com/esaearlycareerecologist)
+   - The [Project Biodiversify group](https://projectbiodiversify.org/) is working to make biology/ecology more inclusive.
+   - Lab notes on power in academia: http://sophiatintori.com/zine.html
+1. [Guide to publishing a scientific paper](https://docs.google.com/document/d/13vteuDK5kebjaW6GBUpV5ja0cuZhxStb83vnjjMq-Rg/edit?usp=sharing)
+
 
 <!--1.  [Collaborative Writing Guide]()-->
 <!--1.  [Time Management Guide]()-->
