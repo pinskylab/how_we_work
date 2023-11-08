@@ -190,12 +190,13 @@ At the end of the fall and spring, we take a meeting to step back from the detai
 	- Knauss Marine Policy Fellowship
 - https://asntech.github.io/postdoc-funding-schemes/
 
-## Training
+## Training suggestions
 - Leadership
 	- USFWS National Conservation Training Center
 - Communication
 	- COMPASS
-- TULIP
+- [TULIP](https://www.labex-tulip.fr/internet6_national_labex_tulip-eng/the-labex/training-and-higher-education) summer school on interdisciplinary ecology
+- [SIIECS](https://www.ices.dk/community/groups/Pages/SIIECS.aspx): early career society of ICES
 
 ## Jobs
 - ecoevojobs.net
