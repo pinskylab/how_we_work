@@ -104,20 +104,39 @@ Guides and tutorials
     - Cameron, A.C., Trivedi, P.K., 2005. Microeconometrics methods and applications. Cambridge University Press, New York.
 1. Resources for scientific writing
     - Schimel, J. 2012. Writing science: how to write papers that get cited and proposals that get funded. Oxford University Press, Oxford
-	- Turbek, S. P., Chock, T. M., Donahue, K., Havrilla, C. A., Oliverio, A. M., Polutchko, S. K., … Vimercati, L. (2016). Scientific Writing Made Easy: A Step-by-Step Guide to Undergraduate Writing in the Biological Sciences. Ecology 101, (October), 417–426. https://doi.org/10.1002/bes2.1258
-	- Gopen, G., & Swan, J. (1990). The Science of Scientific Writing. American Scientist.
-	- Lafferty 2021 Writing a scientific paper, step by painful step
-	- How to read a scientific paper | Science | AAAS
-	- How to (seriously) read a scientific paper | Science | AAAS
-	- Authorship
-		- Ecology: https://www.esa.org/about/code-of-ethics/
-		- Evolution: https://onlinelibrary-wiley-com.proxy.libraries.rutgers.edu/page/journal/15585646/homepage/forauthors.html#authorship
-		- https://fisheries.org/books-journals/writing-tools/authorship-guidelines/. Two of:
-		- https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1540-9295%282006%294%5B435%3AAIEAAA%5D2.0.CO%3B2
+    - Turbek, S. P., Chock, T. M., Donahue, K., Havrilla, C. A., Oliverio, A. M., Polutchko, S. K., … Vimercati, L. (2016). Scientific Writing Made Easy: A Step-by-Step Guide to Undergraduate Writing in the Biological Sciences. Ecology 101, (October), 417–426. https://doi.org/10.1002/bes2.1258
+    - Gopen, G., & Swan, J. (1990). The Science of Scientific Writing. American Scientist.
+    - Lafferty 2021 Writing a scientific paper, step by painful step
+    - How to read a scientific paper | Science | AAAS
+    - How to (seriously) read a scientific paper | Science | AAAS
+    - Authorship criteria
+    	- [Ecological Society of America ethics](https://www.esa.org/about/code-of-ethics/)
+     	- [Ecological authorship](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1540-9295%282006%294%5B435%3AAIEAAA%5D2.0.CO%3B2)
+     	- [Evolution](https://onlinelibrary-wiley-com.proxy.libraries.rutgers.edu/page/journal/15585646/homepage/forauthors.html#authorship)
+      	- [Fisheries](https://fisheries.org/books-journals/writing-tools/authorship-guidelines/)	
 1. Data visualization resources
     - Tufte books
     - William Cleveland, The Elements of Graphing Data
-1. Networking and collaboration skills
+1. Scientific presentation tips
+   - http://blog.ted.com/10-tips-for-better-slide-decks/
+   - How Bad Presentations Happen to Good Causes (booklet in the lab)
+   - Will Ratcliffe: https://twitter.com/wc_ratcliff/status/949315012472070145
+   - Clip art
+   		- http://ian.umces.edu/symbols/
+   		- https://thenounproject.com/
+   - https://www.nature.com/articles/d41586-023-00832-5
+   - Remember you're telling a story
+   		- Start where your audience is, explain why it matters/they should care
+   		- build suspense, and then resolve it
+   - Build with simple pieces
+   		- You know much more than your audience. Recognize they can only absorb information so fast.
+   		- Layer in points and pieces as you say them
+   		- Explain all parts of a figure
+   - Less is more
+   		- Few words, more pictures. Slides uncluttered
+   		- Less talking: say it clearly and move on
+   - Practice, practice, practice 
+3. Networking and collaboration skills
    - Resources from the [ESA Early Career Ecologists section](http://esa.org/earlycareer/resources/), including [webinars](https://vimeo.com/esaearlycareerecologist)
    - The [Project Biodiversify group](https://projectbiodiversify.org/) is working to make biology/ecology more inclusive.
    - Lab notes on power in academia: http://sophiatintori.com/zine.html
