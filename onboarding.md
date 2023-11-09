@@ -11,6 +11,7 @@ To Do List
 ----------
 
 1.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
+2.  If you're a PhD student, check out Malin's [Notes on a PhD Degree](phd_guide.md) (also has some useful postdoc-related resources)
 1.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
 1.  Write an [Independent Development Plan](https://myidp.sciencecareers.org), share it with Malin, and set up a time to discuss it.
 1.  Make a [GitHub](https://github.com/) account and a Google account if you don't have them yet (note that a UCSC account is also a Google account).
@@ -32,7 +33,6 @@ To Do List
 
 Computing Resources
 -------------------
-*This will be updated for UCSC*
 There are several computing resources available to serve your research computing needs.
 
 **Rutgers**
@@ -51,8 +51,8 @@ There are several computing resources available to serve your research computing
 **UCSC**
 | owner                        | name        | partition name | number of cores | memory |
 |------------------------------|-------------|----------------|-----------------|--------|
-| PBSci                         | Hummingbird    | -              | ?              | ?   |
-| Astrophysics | Lux | | | |
+| PBSci                         | [Hummingbird](https://hummingbird.ucsc.edu/)    | -              | 24-64/node              | up to 256GB/node   |
+| Astrophysics | Lux | - | many | less |
 | PBSci | Bishop [archived data] | GlobalChange-bio/ [10TB]| NA | NA |
 
 *Various lab members have differing levels of experience with each of these servers and can help you figure out what is best for your analysis.*
