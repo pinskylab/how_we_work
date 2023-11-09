@@ -133,7 +133,7 @@ At the end of the fall and spring, we take a meeting to step back from the detai
 	- Society for Study of Evolution: http://www.evolutionsociety.org/content/society-awards-and-prizes/graduate-research-excellence-grants.html
 		- Rosemary Grant awards, year 3+, up to $3500
 	- American Genetic Association EECG award (due Dec 15)
-	- AFS Steven Wilker Conservation Fellowship: also open to international students
+	- [AFS Steven Berkeley Marine Conservation Fellowship](https://mfs.fisheries.org/?page_id=155): also open to international students
 	- International Coral Reef Society student fellowship
 - Fellowships (stipend)
 	- GRFP
