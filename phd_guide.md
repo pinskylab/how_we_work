@@ -155,7 +155,7 @@ At the end of the fall and spring, we take a meeting to step back from the detai
 - Gordon Conference in Marine Global Change (July)
 - Ecological Society of America (August)
 - Evolution (June)
-- ECCWO
+- Effects of Climate Change on the World's Oceans (ECCWO) (ICES/PICES): next to be in 2027 or 2028
 - American Genetics Association
 - American Fisheries Society
 - Western Society of Naturalists
