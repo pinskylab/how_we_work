@@ -53,7 +53,10 @@ Notes written by Malin Pinsky, 2013-2023
     - Submit remaining papers
     - Defend dissertation
         - At least 6 weeks in advance of defense: last draft of dissertation chapter to Malin. Others must already be done.
-        - Defense date is tentative until full dissertation written and at least 2 chapters submitted for publication
+        - Defense date is tentative until
+        	- Full dissertation written
+         	- At least 2 chapters submitted for publication
+          	- All chapters comply with our [Data Management Plan](https://github.com/pinskylab/how_we_work/blob/master/data-management.md)
     - Attend a conference and present 
     - Apply for postdoc fellowships (fall) and contact potential mentors, or network and do informational interviews for non-academic opportunities 
 
