@@ -93,6 +93,11 @@ At the end of the fall and spring, we take a meeting to step back from the detai
 - Any other comments/suggestions?
 
 ## Course ideas
+- At UCSC
+	- Stats and applied math 
+		- Bayes class in STATS department
+ 		- STATS 203, 204, 206, or 206B
+  		- ENVS 280
 - Off campus
 	- https://www.statstree.org/
 	- Tyre, ecological statistics in R, online, University Nebraska Lincoln
