@@ -61,7 +61,9 @@ Notes written by Malin Pinsky, 2013-2023
     - Apply for postdoc fellowships (fall) and contact potential mentors, or network and do informational interviews for non-academic opportunities 
 
 ## 6-Month Check-ins
-At the end of the fall and spring, we take a meeting to step back from the details and think about big picture career trajectories. It’s a good chance to go back the goals you wrote for yourself, think about whether you’re meeting them, and think about whether they’re still the right goals for you. This is your meeting to use as you want, but I often find it useful to loosely structure the meeting like this: 
+At the end of the fall and spring, we take a meeting to step back from the details and think about big picture career trajectories. It’s a good chance to go back the goals you wrote for yourself, think about your progress, and think about whether they’re still the right goals for you. Please start a running document of your goals in our Google Drive (how_we_work/Group_member_goals/, make a copy of the template and add your name to the title) and share it with Malin.
+
+This is your meeting to use as you want, but I often find it useful to loosely structure the meeting like this: 
 
 - First 1/3: Highlights from the semester/last six months:
   - What have you done?
@@ -74,23 +76,6 @@ At the end of the fall and spring, we take a meeting to step back from the detai
   - How can I support you in that?
 - Also let me know if you want me to think about answers to any questions.
 - Funding plan during each end-of-year checkin
-
-### An alternative 6-Month Check-in approach
-- What do you think has been your biggest strength over the last 6 months?
-- What area has been your biggest weakness over the last 6 months?
-- How can we work together to strengthen your skills in this area?
-- What are your concrete research goals for the next 6 months? Describe them and what you think you need to do to achieve them.
-- At this point in time, what are your career goals? What can you do over the next 6 months to position yourself for this career? What can I do to help you prepare?
-- Do you feel your project is clearly defined? Are you confident explaining the background, goals, and results of your project? If not, how can we improve this?
-- Are you getting enough guidance for daily tasks?
-- Are you comfortable learning new approaches/techniques?
-- Do you feel you are given enough independence in directing your own work? Why or why not?
-- What would be your preferred way of coordinating talking with me about your research? (Scheduled/regular/informal/sporadic/etc.)
-- What do you think I have been doing well with regards to your mentoring? With regards to managing the lab?
-- What do you think I have been doing poorly with regards to your mentoring? With managing the lab? What could I do to improve on these aspects?
-- Do you feel the group is a good scientific and intellectual community? What works? What could be improved?
-- Are you having a positive experience in the lab? If not, why not? What could we change to improve that?
-- Any other comments/suggestions?
 
 ## Course ideas
 - At UCSC
