@@ -13,21 +13,18 @@ To Do List
 1.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
 2.  If you're a PhD student, check out Malin's [Notes on a PhD Degree](phd_guide.md) (also has some useful postdoc-related resources)
 1.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
-1.  Write an [Independent Development Plan](https://myidp.sciencecareers.org), share it with Malin, and set up a time to discuss it.
-1.  Make a [GitHub](https://github.com/) account and a Google account if you don't have them yet (note that a UCSC account is also a Google account).
-1.  Join our Teams group, our shared google calendar, our [Github Organization](https://github.com/pinskylab), and the [GCRG mailing list (pinsky-lab@googlegroups.com)](https://groups.google.com/forum/#!forum/pinsky-lab) (talk to Ryan Snow).
-1.  Connect to the [GCRG Google Drive](https://drive.google.com/drive/u/0/my-drive) by asking Ryan to share it with you. Then:
-    -   Click the "Shared with Me" link on the left.
-    -   Right click on the Pinsky Lab folder and select Add to My Drive.
-1.  Join [Rutgers Box](https://it.rutgers.edu/box/) and ask Ryan Snow and Andrew Campbell to add you to the Pinsky Lab Box folders (to be updated for UCSC)
+1.  Make a [GitHub](https://github.com/) account if you don't have one already.
+1.  Ask Roy to help you join our Google Spaces (General, Science Communication, DEIB, Climate Biogeography, Genomics, Random, Lab Meeting, Santa Cruz, Computing & Data, Conferences, Lab Website, Lab Space, and Help Coding) for messaging (a Slack equivalent), our shared google calendar, our [Github Organization](https://github.com/pinskylab), and the [GCRG mailing list (pinsky-lab@googlegroups.com)](https://groups.google.com/forum/#!forum/pinsky-lab) (talk to Roy Roberts).
+1.  Connect to the Global Change Research Group Shared Google Drive by asking Roy to share it with you.
 1.  Add your information to the GCRG Members google document (in the GCRG Google Drive folder)/
-1.  Send your contact information, photo, and web address to the lab coordinator to add to our lab webpage [here](https://globalchange.sites.ucsc.edu/people/). If you don't have  webpage, they can help you make a page on our website.
+1.  Send your contact information, photo, and web address to Roy to add to our lab webpage [here](https://globalchange.sites.ucsc.edu/people/). If you don't have  webpage, they can help you make a page on our website.
+1.  Write an [Independent Development Plan](https://myidp.sciencecareers.org), copy your IDP goals to a new google document in Shared Drive/How_we_work/Group_member_goals/ (see the template in the directory), share it with Malin, and set up a time to discuss it.
 1.  If you will be doing lab work, complete the safety training [here](https://sites.google.com/ucsc.edu/eeb/About-Coastal-Campus/environmental-health-safety).
 1.  Get your keys and ID card through UCSC (talk with the EEB Grad Program Coordinator and/or the EEB Assistant Administrator). Add CBB 139 for the GCRG Molecular lab, a ley for the CBB analytical labs if you're doing pop gen lab work, and a key for the CBB showers if you want.
 1.  If you're at UCSC, also check out the [EEB resource guide](https://sites.google.com/ucsc.edu/eeb/home)
 1.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
 1.  Block out our weekly lab meeting time on your calendar, and when you're ready, sign up for a lab meeting.  The easiest way to find the schedule for lab meetings is to search Teams for "lab meeting" and the linked google file should pop up.
-2.  If you're a postdoc, grad student, or staff, talk to Malin if you need an external monitor, harddrive for backups, or external keyboard or trackpad. We can usually provide what you need.
+2.  If you're a postdoc, grad student, or staff, talk to Malin if you need an external monitor, harddrive for backups, or external keyboard or trackpad. We can usually provide what you need (funding-dependent).
 1.  Read through the relevant guides and tutorials below, depending on your experience.
 1.  Spend some time exploring the resources on the GCRG Google Drive and Github Organization. Ask questions about anything that's confusing so that we can make it easier for others in the future!
 
