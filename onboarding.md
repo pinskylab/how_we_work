@@ -23,7 +23,7 @@ To Do List
 1.  Get your keys and ID card through UCSC (talk with the EEB Grad Program Coordinator and/or the EEB Assistant Administrator). Add CBB 139 for the GCRG Molecular lab, a ley for the CBB analytical labs if you're doing pop gen lab work, and a key for the CBB showers if you want.
 1.  If you're at UCSC, also check out the [EEB resource guide](https://sites.google.com/ucsc.edu/eeb/home)
 1.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
-1.  Block out our weekly lab meeting time on your calendar, and when you're ready, sign up for a lab meeting.  The easiest way to find the schedule for lab meetings is to search Teams for "lab meeting" and the linked google file should pop up.
+1.  Block out our weekly lab meeting time on your calendar, and when you're ready, sign up for a lab meeting.  The easiest way to find the schedule for lab meetings is to look at the GCRG Lab Meeting space under Tasks and the linked google file should pop up.
 2.  If you're a postdoc, grad student, or staff, talk to Malin if you need an external monitor, harddrive for backups, or external keyboard or trackpad. We can usually provide what you need (funding-dependent).
 1.  Read through the relevant guides and tutorials below, depending on your experience.
 1.  Spend some time exploring the resources on the GCRG Google Drive and Github Organization. Ask questions about anything that's confusing so that we can make it easier for others in the future!
