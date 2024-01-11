@@ -80,9 +80,12 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 ## Course ideas
 - At UCSC
 	- Stats and applied math 
-		- Bayes class in STATS department
- 		- STATS 203, 204, 206, or 206B
-  		- ENVS 280
+		- STATS 206 Applied Bayesian Stats (with David Draper) (can get permission to skip prereqs)
+ 		- STATS 203 Introduction to Probability Theory
+   		- STATS 204 Introduction to Statistical Data Analysis (includes some R)
+   		- STATS 206B Intermediate Bayesian Stats
+    		- EART125 - Statistics and Data Analysis in the Geosciences (Matthew Clapham)
+      		- OCEA 267 Applied Environmental Time Series Analysis (Claudie Beaulieu)
 - Off campus
 	- https://www.statstree.org/
 	- Tyre, ecological statistics in R, online, University Nebraska Lincoln
