@@ -118,8 +118,9 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- Journal of Marine Science and Engineering: http://www.mdpi.com/journal/jmse/awards
 - Research funding
 	- Internal
-		- UCSC COR $2000/year
+		- UCSC Committee On Research $2000/year (Malin can apply in ~May)
 		- UCSC EEB summer funding
+  		- [Keeley Coastal Scholars](https://socialsciences.ucsc.edu/support-us/awards/student-awards/keeley-coastal-scholars/index.html): $1000-$4000 for underrepresented undergraduates or grad students
 	- Women Divers Hall of Fame Scholarships and Training Grants, http://www.wdhof.org/wdhof-scholarshipDesc.aspx
 	- AMNH Lerner Grey
 	- Sigma Xi Explorers
