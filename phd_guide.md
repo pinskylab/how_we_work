@@ -133,16 +133,17 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- [AFS Steven Berkeley Marine Conservation Fellowship](https://mfs.fisheries.org/?page_id=155): also open to international students
 	- International Coral Reef Society student fellowship
 - Fellowships (stipend)
-	- GRFP
+	- NSF GRFP
 		- advice: https://ojs.library.queensu.ca/index.php/IEE/article/view/6349#.WG57HQnKFbg
-	- NDSEG
+	- NDSEG: read carefully to find the best match BAA category. We have been quite successful with this one.
+ 	- DOE Computational Science Graduate Fellowship
 	- HHMI Gilliam Fellowships (apply in 2nd or 3rd year as a advisor-mentee pair, due in early December)
-	- CA Sea Grant Graduate Fellowships
+	- CA Sea Grant Graduate Fellowships: has a focus on CA
 	- Smithsonian (post-qualifying): https://fellowships.si.edu/opportunity/big-ten-academic-alliance-smithsonian-fellowship
 	- EPA STAR
-	- NOAA Nancy Foster (with Sanctuary)
-	- NOAA Margaret Davidson (with NERR)
-	- NOAA Sea Grant Population or Ecosystem Dynamics
+	- NOAA Nancy Foster: with a National Marine Sanctuary
+	- NOAA Margaret Davidson: with a National Estuarine Research Reserve
+ 	- NMFS-Sea Grant Fellowship in Population and Ecosystem Dynamics: for more quantitative projects and students
    - DOE computational science (includes biomathematics)
 	
 ## Conference ideas
