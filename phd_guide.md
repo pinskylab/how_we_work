@@ -118,7 +118,8 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- Journal of Marine Science and Engineering: http://www.mdpi.com/journal/jmse/awards
 - Research funding
 	- Internal
-		- UCSC Committee On Research $2000/year (Malin can apply in ~May)
+		- UCSC Committee On Research $2000/year (Malin can apply in ~May). No proposal needed.
+  		- UCSC Committee on Research Large Grants Program: $12000 for two years. Malin can apply. 2 pp application.
 		- UCSC EEB summer funding
   		- [Keeley Coastal Scholars](https://socialsciences.ucsc.edu/support-us/awards/student-awards/keeley-coastal-scholars/index.html): $1000-$4000 for underrepresented undergraduates or grad students
 	- Women Divers Hall of Fame Scholarships and Training Grants, http://www.wdhof.org/wdhof-scholarshipDesc.aspx
@@ -126,6 +127,7 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- Sigma Xi Explorers
 	- Washington Biologists Field Club: Mid-Atlantic. https://www.pwrc.usgs.gov/resshow/perry/bios/WBFCHome.htm
 	- P.E.O. Scholar Award: women w/in 2 years of finishing a PhD
+ 	- Gloria Barron Wilderness Society Scholarship (Wilderness Society), $25000 scholarship for research supporting wilderness conservation.
 	- Rafe Sagarin Fund: http://www.rafeinnovativeecologyfund.org/
 	- Society for Study of Evolution: http://www.evolutionsociety.org/content/society-awards-and-prizes/graduate-research-excellence-grants.html
 		- Rosemary Grant awards, year 3+, up to $3500
