@@ -122,6 +122,7 @@ This is your meeting to use as you want, but I often find it useful to loosely s
   		- UCSC Committee on Research Large Grants Program: $12000 for two years. Malin can apply. 2 pp application.
 		- UCSC EEB summer funding
   		- [Keeley Coastal Scholars](https://socialsciences.ucsc.edu/support-us/awards/student-awards/keeley-coastal-scholars/index.html): $1000-$4000 for underrepresented undergraduates or grad students
+    		- UC Alianza MX Short-Term Research in Mexico: covers living expenses, travel, and other related expenses for up to three months to accomplish specific laboratory, library, or field research at partner institutions in Mexico. Calls often go out in February, due in March.
 	- Women Divers Hall of Fame Scholarships and Training Grants, http://www.wdhof.org/wdhof-scholarshipDesc.aspx
 	- AMNH Lerner Grey
 	- Sigma Xi Explorers
