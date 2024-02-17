@@ -105,9 +105,6 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 		- Note: Peng and Leek are collaborators, both at Johns Hopkins. They additionally teach the below but Rae Winfree has not found out more on these courses:
 			- R programming
 			- Getting and cleaning data
-	- Michigan State University Kellogg Biological Station
-		- Jennifer Hoey enjoyed them. Not offered every year?
-		- Part of CIC (Committee on Institutional Cooperation), so Rutgers students get an "in"
 
 ## Funding ideas
 - Travel funding
@@ -198,14 +195,17 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- COMPASS
 - [TULIP](https://www.labex-tulip.fr/internet6_national_labex_tulip-eng/the-labex/training-and-higher-education) summer school on interdisciplinary ecology
 - [SIIECS](https://www.ices.dk/community/groups/Pages/SIIECS.aspx): early career society of ICES
-
+- Michigan State University Kellogg Biological Station
+		- Jennifer Hoey enjoyed them. Not offered every year?
+		- Part of CIC (Committee on Institutional Cooperation), so Rutgers students get an "in"
+- [Santa Fe Institute's Complex Systems Summer School](https://www.santafe.edu/engage/learn/programs/sfi-complex-systems-summer-school)
 ## Jobs
-- ecoevojobs.net
+- [ecoevojobs.net](ecoevojobs.net) for academic jobs
 - https://sevenseasmedia.org/ocean-jobs/#s=1 
 - data science
 	- Insight Data Science Fellowship
-- ECOLOG-L
-- evoldir
+- [ECOLOG-L](https://www.esa.org/membership/ecolog/) for ecology
+- [evoldir](https://evol.mcmaster.ca/evoldir.html) for evolution
 - Oceanography jobs lists from Dalhousie: https://www.phys.ocean.dal.ca/hotlists/jobs.html
 - NOAA
   - At least some of the NOAA contract jobs are posted at http://www.oceanassoc.com/Jobs/jobslist.html
