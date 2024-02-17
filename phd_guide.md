@@ -77,6 +77,9 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 - Also let me know if you want me to think about answers to any questions.
 - Funding plan during each end-of-year checkin
 
+## Training resources
+-  Academic career development resources through the NCFDD. Activate your account through UCSC [here](https://senate.ucsc.edu/committees/cca-committee-on-career-advising/faculty-career-resources/facultydevelopmentdiversity.html), including resources for graduate students like (https://www.ncfdd.org/dissertation-success-members).
+
 ## Course ideas
 - At UCSC
 	- Stats and applied math 
