@@ -87,24 +87,29 @@ This is your meeting to use as you want, but I often find it useful to loosely s
     		- EART125 - Statistics and Data Analysis in the Geosciences (Matthew Clapham)
       		- OCEA 267 Applied Environmental Time Series Analysis (Claudie Beaulieu)
 - Off campus
-	- https://www.statstree.org/
-	- Tyre, ecological statistics in R, online, University Nebraska Lincoln
-	- Coursera
-		- Brian Caffo, Mathematical biostatistics boot camp 1 and 2
-			- 7 weeks, taught several times per year
-			- Recommended by: Columbia Univ PhD student: The teacher and format are very good. But it is pretty elementary; covers what you would learn in a rigorous basic stats course (comment on boot camp 1)
-		- Roger Peng, Computing for data analysis
-			- in R, generally taught Sept, 4 weeks
-			- Recommended by: Tia-Lynn Ashman lab member says excellent, pretty hard, 10-15 hrs per week, covers both data management and stats
-		- Jeff Leek, Data analysis
-			- in R, generally taught Oct, 8 weeks
-			- Recommended by: Brian Caffo read his statistics blog http://simplystatistics.org
-		- John McGready, Statistical Reasoning
-			- seems to be not available every time I check. aimed at public health
-			- Recommended by: Brian Caffo, fantastic course
-		- Note: Peng and Leek are collaborators, both at Johns Hopkins. They additionally teach the below but Rae Winfree has not found out more on these courses:
-			- R programming
-			- Getting and cleaning data
+	- Stats
+   		- https://www.statstree.org/
+		- Tyre, ecological statistics in R, online, University Nebraska Lincoln
+  		- [Biostats suggestions from Ecology](https://dynamicecology.wordpress.com/2021/07/28/stage-setting-readings-and-videos-to-kick-off-an-intro-biostats-course-here-are-mine-please-share-your-suggestions/)
+		- Two recommended stats books from economics
+  			- Pindyck, R.S., Rubinfeld, D.L., 1998. Econometric Models and Economic Forecasts, 4th ed. McGraw-Hill New York, NY
+     		- Cameron, A.C., Trivedi, P.K., 2005. Microeconometrics methods and applications. Cambridge University Press, NY
+		- Coursera
+			- Brian Caffo, Mathematical biostatistics boot camp 1 and 2
+				- 7 weeks, taught several times per year
+				- Recommended by: Columbia Univ PhD student: The teacher and format are very good. But it is pretty elementary; covers what you would learn in a rigorous basic stats course (comment on boot camp 1)
+			- Roger Peng, Computing for data analysis
+				- in R, generally taught Sept, 4 weeks
+				- Recommended by: Tia-Lynn Ashman lab member says excellent, pretty hard, 10-15 hrs per week, covers both data management and stats
+			- Jeff Leek, Data analysis
+				- in R, generally taught Oct, 8 weeks
+				- Recommended by: Brian Caffo read his statistics blog http://simplystatistics.org
+			- John McGready, Statistical Reasoning
+				- seems to be not available every time I check. aimed at public health
+				- Recommended by: Brian Caffo, fantastic course
+			- Note: Peng and Leek are collaborators, both at Johns Hopkins. They additionally teach the below but Rae Winfree has not found out more on these courses:
+				- R programming
+				- Getting and cleaning data
 
 ## Funding ideas
 - Travel funding
