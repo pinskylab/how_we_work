@@ -54,7 +54,6 @@ There are several computing resources available to serve your research computing
 
 *Various lab members have differing levels of experience with each of these servers and can help you figure out what is best for your analysis.*
 **Amarel** is a condo system. You only have to wait in line with other GCRG folks for the Pinsky node, you have to wait in line with other Ecology folks for the DEENR node, you have to wait in line with all of Rutgers folks for the other nodes.
-**Caliburn** is a proposal system. Only people who have submitted proposals and been approved have access to the resources. At the time of this document creation, the Pinsky Lab had access.
 
 University Affiliated Listservs 
 -------------------------------
@@ -89,21 +88,20 @@ Guides and tutorials
 1.  [The Openscapes Lesson Series](https://openscapes.github.io/series/): describes an approach to collaborative, reproducible science and culture within teams that underlies much of our group's approach as well
 2.  [GCRG Cookbook](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md) is a resource of how to's put together by lab members to help you past the occasional obstacle that we all seem to run into.
 1.  [How to maintain a research notebook](https://github.com/pinskylab/pinskylab_methods/blob/master/labmgt/how_to_lab_notebook.md)
+2.  Academic career development resources through the NCFDD. Activate your account through UCSC [here](https://senate.ucsc.edu/committees/cca-committee-on-career-advising/faculty-career-resources/facultydevelopmentdiversity.html), including resources for [graduate students](https://www.ncfdd.org/dissertation-success-members).
 1.  [Command line tutorial](https://www.udacity.com/wiki/ud775/command-line-instructions) and [more help with the command line](https://classroom.udacity.com/courses/ud595/lessons/4597278561/concepts/46968695970923) (Udacity)
-1.  [Git and GitHub tutorial](https://classroom.udacity.com/courses/ud775) (Udacity)
-1.  [Happy Git with R tutorial](https://happygitwithr.com) (outside tutorial)  
-1. [Learn R with swirl](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&url=http%3A%2F%2Fswirlstats.com%2F&usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I)
-1. [R For Data Science](https://r4ds.hadley.nz/) (a very useful introduction to R)
+1. R
+    1. [Learn R with swirl](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&url=http%3A%2F%2Fswirlstats.com%2F&usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I)
+    1. [R For Data Science](https://r4ds.hadley.nz/) (a very useful introduction to R)
+1.  Git and GitHub
+    1.  [Udacity Git and GitHub tutorial](https://classroom.udacity.com/courses/ud775)
+    2.  [Happy Git with R tutorial](https://happygitwithr.com) (outside tutorial)
 1. [Zotero Reference Manager Tutorial](https://www.youtube.com/watch?v=q6-YOPS1xY4)
-2. [Biostats suggestions from Ecology](https://dynamicecology.wordpress.com/2021/07/28/stage-setting-readings-and-videos-to-kick-off-an-intro-biostats-course-here-are-mine-please-share-your-suggestions/)
-3. Two recommended stats books from economics:
-    - Pindyck, R.S., Rubinfeld, D.L., 1998. Econometric Models and Economic Forecasts, 4th ed. McGraw-Hill New York, NY.
-    - Cameron, A.C., Trivedi, P.K., 2005. Microeconometrics methods and applications. Cambridge University Press, New York.
 1. Resources for scientific writing
     - Schimel, J. 2012. Writing science: how to write papers that get cited and proposals that get funded. Oxford University Press, Oxford
     - Turbek, S. P., Chock, T. M., Donahue, K., Havrilla, C. A., Oliverio, A. M., Polutchko, S. K., … Vimercati, L. (2016). Scientific Writing Made Easy: A Step-by-Step Guide to Undergraduate Writing in the Biological Sciences. Ecology 101, (October), 417–426. https://doi.org/10.1002/bes2.1258
     - Gopen, G., & Swan, J. (1990). The Science of Scientific Writing. American Scientist.
-    - Lafferty 2021 Writing a scientific paper, step by painful step
+    - [Lafferty 2021 Writing a scientific paper, step by painful step](https://trophiccascades.forestry.oregonstate.edu/sites/trophic/files/Lafferty_WritingScientificPaper.pdf)
     - How to read a scientific paper | Science | AAAS
     - How to (seriously) read a scientific paper | Science | AAAS
     - Authorship criteria
@@ -137,15 +135,8 @@ Guides and tutorials
    - Resources from the [ESA Early Career Ecologists section](http://esa.org/earlycareer/resources/), including [webinars](https://vimeo.com/esaearlycareerecologist)
    - The [Project Biodiversify group](https://projectbiodiversify.org/) is working to make biology/ecology more inclusive.
    - Lab notes on power in academia: http://sophiatintori.com/zine.html
-1. [Guide to publishing a scientific paper](https://docs.google.com/document/d/13vteuDK5kebjaW6GBUpV5ja0cuZhxStb83vnjjMq-Rg/edit?usp=sharing)
+1. [Our Guide to publishing a scientific paper](https://docs.google.com/document/d/13vteuDK5kebjaW6GBUpV5ja0cuZhxStb83vnjjMq-Rg/edit?usp=sharing)
 
 
 <!--1.  [Collaborative Writing Guide]()-->
 <!--1.  [Time Management Guide]()-->
-
-**Accessing the DEENR printer**
-*To be updated for UCSC*
-- The black & white printer is located in the common area across from rm. 154
-- Add a new printer to your computer's devices:
-   -  IP Address: 172.20.154.92
-   -  Name: HP LaserJet Pro M404dn
