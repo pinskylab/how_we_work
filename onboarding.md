@@ -96,14 +96,17 @@ Guides and tutorials
 1.  Git and GitHub
     1.  [Udacity Git and GitHub tutorial](https://classroom.udacity.com/courses/ud775)
     2.  [Happy Git with R tutorial](https://happygitwithr.com) (outside tutorial)
-1. [Zotero Reference Manager Tutorial](https://www.youtube.com/watch?v=q6-YOPS1xY4)
-1. Resources for scientific writing
+1. Field work
+    - National Association of Marine Laboratories [Best Practices in Field Safety and Accessibility](https://www.naml.org/resources/reports/Best%20Practices%20in%20Field%20Trip%20Safety%20and%20Accessibility.pdf)
+3. Resources for scientific writing
     - Schimel, J. 2012. Writing science: how to write papers that get cited and proposals that get funded. Oxford University Press, Oxford
     - Turbek, S. P., Chock, T. M., Donahue, K., Havrilla, C. A., Oliverio, A. M., Polutchko, S. K., … Vimercati, L. (2016). Scientific Writing Made Easy: A Step-by-Step Guide to Undergraduate Writing in the Biological Sciences. Ecology 101, (October), 417–426. https://doi.org/10.1002/bes2.1258
     - Gopen, G., & Swan, J. (1990). The Science of Scientific Writing. American Scientist.
     - [Lafferty 2021 Writing a scientific paper, step by painful step](https://trophiccascades.forestry.oregonstate.edu/sites/trophic/files/Lafferty_WritingScientificPaper.pdf)
-    - How to read a scientific paper | Science | AAAS
-    - How to (seriously) read a scientific paper | Science | AAAS
+    - [Our Guide to publishing a scientific paper](https://docs.google.com/document/d/13vteuDK5kebjaW6GBUpV5ja0cuZhxStb83vnjjMq-Rg/edit?usp=sharing)
+    - [How to read a scientific paper](https://www.science.org/content/article/how-read-scientific-paper-rev2), Science
+    - [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper), Science
+    - [Zotero Reference Manager Tutorial](https://www.youtube.com/watch?v=q6-YOPS1xY4)
     - Authorship criteria
     	- [Ecological Society of America ethics](https://www.esa.org/about/code-of-ethics/)
      	- [Ecological authorship](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1540-9295%282006%294%5B435%3AAIEAAA%5D2.0.CO%3B2)
@@ -135,7 +138,6 @@ Guides and tutorials
    - Resources from the [ESA Early Career Ecologists section](http://esa.org/earlycareer/resources/), including [webinars](https://vimeo.com/esaearlycareerecologist)
    - The [Project Biodiversify group](https://projectbiodiversify.org/) is working to make biology/ecology more inclusive.
    - Lab notes on power in academia: http://sophiatintori.com/zine.html
-1. [Our Guide to publishing a scientific paper](https://docs.google.com/document/d/13vteuDK5kebjaW6GBUpV5ja0cuZhxStb83vnjjMq-Rg/edit?usp=sharing)
 
 
 <!--1.  [Collaborative Writing Guide]()-->
