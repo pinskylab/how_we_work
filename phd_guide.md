@@ -144,10 +144,11 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- NSF GRFP
 		- advice: https://ojs.library.queensu.ca/index.php/IEE/article/view/6349#.WG57HQnKFbg
 	- NDSEG: read carefully to find the best match BAA category. We have been quite successful with this one.
- 	- DOE Computational Science Graduate Fellowship
+ 	- DOE Computational Science Graduate Fellowship (4 years)
 	- HHMI Gilliam Fellowships (apply in 2nd or 3rd year as a advisor-mentee pair, due in early December)
 	- CA Sea Grant Graduate Fellowships: has a focus on CA
 	- Smithsonian (post-qualifying): https://fellowships.si.edu/opportunity/big-ten-academic-alliance-smithsonian-fellowship
+ 	- [ACM SIGHPC Computational & Data Science Fellowships](https://www.sighpc.org/for-your-career/fellowships) 	
 	- EPA STAR
 	- NOAA Nancy Foster: with a National Marine Sanctuary
 	- NOAA Margaret Davidson: with a National Estuarine Research Reserve
