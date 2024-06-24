@@ -1,6 +1,6 @@
-# Pinsky Lab Data Management Plan
+# GCRG Lab Data Management Plan
 
-The Pinsky Lab strives for an open science policy that makes our science accessible and reproducible and that allows us to collaborate with our future selves and with our colleagues. To assist in achieving that aim, we use the following practices.
+The Global Change Research Group strives for an open science policy that makes our science accessible and reproducible and that allows us to collaborate with our future selves and with our colleagues. To assist in achieving that aim, we use the following practices.
 
 
 ## General project organization
@@ -22,8 +22,8 @@ The Pinsky Lab strives for an open science policy that makes our science accessi
    1. has version numbers of any software or packages needed for running codes or scripts
 1. If the repo is included in a publication, we also archive it with a DOI on, for example, [Zenodo](https://www.zenodo.org) (see [here](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md#archiving-a-git-repo-with-zenodo-for-a-publication) for instructions).
 2. We add a license to each git repo, e.g., MIT or CC BY-NC 4.0, to clarify how the material can be reused. See guidance from [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) and [Github](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
-3. We write collaborative manuscripts in the Pinsky Lab Google Drive
-4. Presentations are typically made in Google Slides in the Pinsky Lab Google Drive (Presentations/) allowing lab members easy access to useful graphics
+3. We write collaborative manuscripts in the GCRG Shared Google Drive
+4. Presentations are typically made in Google Slides in the GCRG Google Drive (Presentations/) allowing lab members easy access to useful graphics
    1. Name the file in the format YYYY-MM-DD_presentername_occasion, eg, 2023-01-07_Pinsky_AmNat
 5. Before matriculation, we ensure all projects, code, data, papers, etc. are uploaded and fully documented
 
@@ -35,7 +35,7 @@ Data used in support of a project is:
    1. Raw data files under the Github file size limit (<100MB) are stored in a data/ directory
    1. Larger files are stored in a data_largefiles/ directory (not tracked by Git by using the .gitignore file) in at least two places 
          - where the analysis is occurring (e.g., scientific workstation), and
-         - on the Pinsky Lab Box account in the data_largefiles/ directory in a subdirectory whose name matches the Git repo name. When we do this, we document this arrangement clearly in the relevant data_largefiles/README.md file of the git repo.
+         - on the UCSC PbSci Bishop data server in GCRG directory, in the data_largefiles/ directory, in a subdirectory whose name matches the Git repo name. When we do this, we document this arrangement clearly in the relevant data_largefiles/README.md file of the git repo.
    1. If data from an external or public source is being used, it is stored in a data_dl/ directory (not tracked by Git). We clearly and unambiguously describe the data source in the data_dl/README.md file by providing links, version numbers, descriptions for access/download, or other details to ensure reproducibility. If you're worried the data won't be available in the future, follow one of the two previous bullet point approaches.
    2. Sequencing data is something of a special case. We upload our raw reads to NCBI soon after receiving them, possibly with an embargo, with the accession numbers documented in the relevant README.md. If this is not possible, we keep a copy of the reads on Box in data_largefiles/ in addition to the copy on the scientific workstation where the files are being processed. 
    3. Metadata is stored in the same directory as the raw data, typically in a README.md file that describes the data in each column, units, coordinate reference system (CRS, for GIS data), and other details needed to understand the file
