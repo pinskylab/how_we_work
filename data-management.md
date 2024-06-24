@@ -11,6 +11,7 @@ The Pinsky Lab strives for an open science policy that makes our science accessi
 1. Each new project gets a GitHub repository in the [pinskylab organization](https://github.com/pinskylab)
    1. This practice facilitates collaboration, sharing, and maintenance of institutional knowledge
    1. Repos can be public or private
+   2. A [CITATION.cff](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) clarifies how to cite the repo. We apply authorship criteria similarly as for papers (e.g., first author is the lead).
 1. Data processing is accomplished through the use of scripts, not manual manipulation
    1. This helps to verify the reproducibility of our methods
 1. A README.md in each directory (including the top directory) 
@@ -20,7 +21,7 @@ The Pinsky Lab strives for an open science policy that makes our science accessi
    1. defines data columns, including units, of any data files and basic methods used for data collection
    1. has version numbers of any software or packages needed for running codes or scripts
 1. If the repo is included in a publication, we also archive it with a DOI on, for example, [Zenodo](https://www.zenodo.org) (see [here](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md#archiving-a-git-repo-with-zenodo-for-a-publication) for instructions).
-2. We add a license to each git repo, e.g., CC BY-NC 4.0
+2. We add a license to each git repo, e.g., MIT or CC BY-NC 4.0, to clarify how the material can be reused. See guidance from [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) and [Github](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 3. We write collaborative manuscripts in the Pinsky Lab Google Drive
 4. Presentations are typically made in Google Slides in the Pinsky Lab Google Drive (Presentations/) allowing lab members easy access to useful graphics
    1. Name the file in the format YYYY-MM-DD_presentername_occasion, eg, 2023-01-07_Pinsky_AmNat
