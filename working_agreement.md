@@ -45,7 +45,8 @@
 2. Group meetings
 - We have weekly group meetings and expect everyone in the group to attend.
 1. Lab listener
-  - Appointed each semester to observe and promote healthy lab communication
+  - A volunteer group member each quarter who observes and promotes healthy lab dynamics
+  - An unofficial contact for concerns within the research group
   - Will schedule meetings with Malin as needed for issues and updates
 3. 1. This document
   - This document is always in progress: please suggest changes where you see fit!
