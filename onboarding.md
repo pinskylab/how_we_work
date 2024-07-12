@@ -35,7 +35,7 @@ There are several computing resources available to serve your research computing
 **Rutgers**
 | owner                        | name        | partition name | number of cores | memory |
 |------------------------------|-------------|----------------|-----------------|--------|
-| SEBS                         | annotate    | -              | 72              | 500G   |
+| SEBS                         | annotate2   | -              | 112 + 8200 GPU  | 1T   |
 | SEBS                         | annotate-win| -              | 18              | 500G   |
 | OARC-Pinsky node 1 (hal0181) | amarel      | p_mlp195       | 40              | 192G   |
 | OARC-Pinsky node 2 (hal0186) | amarel      | p_mlp195       | 40              | 192G   |
