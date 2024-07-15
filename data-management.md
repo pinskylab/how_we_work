@@ -21,7 +21,7 @@ The Global Change Research Group strives for an open science policy that makes o
    1. defines data columns, including units, of any data files and basic methods used for data collection
    1. has version numbers of any software or packages needed for running codes or scripts
 1. If the repo is included in a publication, we also archive it with a DOI on, for example, [Zenodo](https://www.zenodo.org) (see [here](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md#archiving-a-git-repo-with-zenodo-for-a-publication) for instructions).
-2. We add a license to each git repo, e.g., MIT or CC BY-NC 4.0, to clarify how the material can be reused. See guidance from [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) and [Github](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
+2. We add a license to each git repo, e.g., MIT or CC BY-NC 4.0, to clarify how the material can be reused. See guidance from [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/), [Github](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository), and [R Packages book](https://r-pkgs.org/license.html#code-you-write).
 3. We write collaborative manuscripts in the GCRG Shared Google Drive
 4. Presentations are typically made in Google Slides in the GCRG Google Drive (Presentations/) allowing lab members easy access to useful graphics
    1. Name the file in the format YYYY-MM-DD_presentername_occasion, eg, 2023-01-07_Pinsky_AmNat
