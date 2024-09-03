@@ -52,7 +52,7 @@
     - Will schedule meetings with Malin as needed for issues and updates
 1. This document
     - This document is always in progress: please suggest changes where you see fit!
-    - We will revisit this document at the beginning of each Fall Semester
+    - We will revisit this document at the beginning of each Fall quarter
 1. Project management
     - Please set realistic deadlines, then revise them in communication with others
     - It helps to break projects into smaller pieces
