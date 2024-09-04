@@ -16,6 +16,7 @@
     - We aim to be clear and concise - ambiguity causes confusion
 1. Being present
     - We prioritize working in person and showing up at group events to help build our community and to support each other
+    - We know extra effort is needed to help remote group members be included
     - We pay attention when others speak
     - We work to step forward if we're quiet, and step back if we're loud
 1. Normalizing "I don't know yet"
@@ -28,14 +29,14 @@
 1. Building a diverse environment
     - Please be open to others perspectives, engage with them, and be willing to revise your own
     - We work to vocally support diverse perspectives
-    - To specifically amplify the work of Black, Indigenous, People-of-Color (BIPOC) researchers, we've committed to 
-      - Discussing an article written by a BIPOC author at least once a semester during lab meetings. Everyone is encouraged to lead a discussion
-      - Prioritize the citation of BIPOC authors in our writings
-      - Attend talks by BIPOC scientists at conferences and add the names of the speakers you enjoyed to [our spreadsheet](https://docs.google.com/spreadsheets/d/1wxUETDO0x9af4i4NA8BVdnoNyFvqVSpYhtlJa0azPrU/edit#gid=0) to use as inspiration for future seminar invitations and paper discussions
+    - To specifically amplify the work of researchers from underrepresented groups, we've committed to 
+      - Discussing an article about systemic barriers or racism at least twice a year during lab meetings. Everyone is encouraged to lead a discussion
+      - Prioritize the citation of underrepresented authors in our writings
+      - Attend talks by underrepresented scientists at conferences and share the names of the speakers you enjoyed to use as inspiration for future seminar invitations and paper discussions
        - Acknowledge our occupation of land that is the unceded territory of the Awaswas-speaking Uypi Tribe. 
-       - We will have biannual lab meetings to discuss our progress and future work in Diversity, Equity, Inclusion & Belonging, led by Malin
-1. Sharing our science
-    - Everyone is encouraged but not required to participate in a community service/outreach event each semester
+       - We will have biannual lab meetings to discuss our progress and future work in Diversity, Equity, Inclusion & Belonging
+1. Sharing our science outside of science
+    - We value community service, outreach to non-scientists, and mentorsing early-career researchers
 
 ## Process
 
