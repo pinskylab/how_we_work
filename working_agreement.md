@@ -26,7 +26,7 @@
     - We celebrate our own successes and those around us!
     - We all make mistakes. Please be honest and open when it happens.
     - If you see a problem, please speak up so that we all can try to find a solution.
-1. Building a diverse environment
+1. Supporting a diverse environment
     - Please be open to others perspectives, engage with them, and be willing to revise your own
     - We work to vocally support diverse perspectives
     - To specifically amplify the work of researchers from underrepresented groups, we've committed to 
@@ -38,7 +38,7 @@
        - We will have biannual lab meetings to discuss our progress and future work in Diversity, Equity, Inclusion & Belonging
     - We will be aware and acknowledge our positionalities and privileges that we hold.
 1. Sharing our science outside of academia
-    - We value community service, outreach to non-scientists audiences, and mentorsing of early-career scientists
+    - We value community service, outreach to non-scientists audiences, and mentoring of early-career scientists
 
 ## Process
 
