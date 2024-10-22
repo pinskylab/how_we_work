@@ -26,6 +26,7 @@ To Do List
 1.  Block out our weekly lab meeting time on your calendar, and when you're ready, sign up for a lab meeting.  The easiest way to find the schedule for lab meetings is to look at the GCRG Lab Meeting space under Tasks and the linked google file should pop up.
 2.  If you're a postdoc, grad student, or staff, talk to Malin if you need an external monitor, harddrive for backups, or external keyboard or trackpad. We can usually provide what you need (funding-dependent).
 1.  Read through the relevant guides and tutorials below, depending on your experience.
+2.  Join the CBB Coffee Club (2nd floor kitchen) if that's relevant to you.
 1.  Spend some time exploring the resources on the GCRG Google Drive and Github Organization. Ask questions about anything that's confusing so that we can make it easier for others in the future!
 
 Computing Resources
@@ -57,19 +58,6 @@ There are several computing resources available to serve your research computing
 
 University Affiliated Listservs 
 -------------------------------
-**Rutgers**
-| Name                          | Listserv email                    | Contact Name| Contact email              |       
-|-------------------------------|-----------------------------------|-------------|----------------------------|
-| Global Change Research Group  | pinsky-lab@googlegroups.com       | Ryan Snow  |   |
-| Ecology All                   | ecologyall@sebs.rutgers.edu       | ? | ? |
-| Eco-GSA Students              | ecogsa_students@email.rutgers.edu | ? | ? |
-| DEENR Staff                   | deenr_staff@email.rutgers.edu     | ? | ? |
-| DEENR Faculty                 | deenr_faculty@email.rutgers.edu   | ? | ? |
-| DMCS All                      | dmcs-all@grove.marine.rutgers.edu | Donna Napoli | napoli@marine.rutgers.edu |
-| Cook Personals                | personals@aesop.rutgers.edu       | ? | ? |
-| Rutgers Climate Institute     |    ?                              | Marjorie Kaplan | ? [SIGN UP HERE](https://climatechange.rutgers.edu/keep-in-touch/mailing-list-social-media)|
-| EOAS          | ?     | Lynne Trabachino | lynne.trabachino@rutgers.edu |
-
 **UCSC**
 | Name                          | Listserv email                    | Contact Name| Contact email              |       
 |-------------------------------|-----------------------------------|-------------|----------------------------|
