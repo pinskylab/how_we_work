@@ -128,6 +128,7 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 		- UCSC EEB summer funding
   		- [Keeley Coastal Scholars](https://socialsciences.ucsc.edu/support-us/awards/student-awards/keeley-coastal-scholars/index.html): $1000-$4000 for underrepresented undergraduates or grad student
   		- UC Alianza MX Short-Term Research in Mexico: covers living expenses, travel, and other related expenses for up to three months to accomplish specific laboratory, library, or field research at partner institutions in Mexico. Calls often go out in February, due in March.
+    	- [Sooy Fellowship](https://science.ucsc.edu/research-opportunities/rebecca-and-steve-sooy-graduate-fellowship-in-marine-mammals/) for marine mammals
 	- Women Divers Hall of Fame Scholarships and Training Grants, http://www.wdhof.org/wdhof-scholarshipDesc.aspx
 	- AMNH Lerner Grey
 	- Sigma Xi Explorers
@@ -141,6 +142,10 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- [AFS Steven Berkeley Marine Conservation Fellowship](https://mfs.fisheries.org/?page_id=155): also open to international students
 	- International Coral Reef Society student fellowship
 - Fellowships (stipend)
+	- Internal
+ 		- Dissertation Year Fellowship
+   		- Pedagogy fellowships
+     	- [Sooy Fellowship](https://science.ucsc.edu/research-opportunities/rebecca-and-steve-sooy-graduate-fellowship-in-marine-mammals/) for marine mammals
 	- NSF GRFP
 		- advice: https://ojs.library.queensu.ca/index.php/IEE/article/view/6349#.WG57HQnKFbg
 	- NDSEG: read carefully to find the best match BAA category. We have been quite successful with this one.
