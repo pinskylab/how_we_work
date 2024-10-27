@@ -1,7 +1,9 @@
 # Some notes for a Ph.D.
-Notes written by Malin Pinsky, 2013-2023
+Notes written by Malin Pinsky, 2013-2024
 
 ## Skills to develop
+My goal is to help you understand and succeed in our discipline as it is now, while also empowering you with the agency to reshape it in the image of all of us.
+
 - project design
 - data analysis and interpretation
 - oral presentation: see Scientific presentation tips (to add)
