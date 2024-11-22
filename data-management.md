@@ -35,7 +35,9 @@ Data used in support of a project is:
    1. Raw data files under the Github file size limit (<100MB) are stored in a data/ directory
    1. Larger files are stored in a data_largefiles/ directory (not tracked by Git by using the .gitignore file) in at least two places 
          - where the analysis is occurring (e.g., scientific workstation), and
-         - on the UCSC PbSci Bishop data server in GCRG directory, in the data_largefiles/ directory, in a subdirectory whose name matches the Git repo name. When we do this, we document this arrangement clearly in the relevant data_largefiles/README.md file of the git repo.
+         - either one of (we document this arrangement clearly in the relevant data_largefiles/README.md file of the git repo):
+            - on the UCSC PbSci Bishop data server in the GCRG directory, in the data_largefiles/ directory, in a subdirectory whose name matches the Git repo name.
+            - on [FigShare](https://figshare.com/), linked from the relevant GitHub readme.
    1. If data from an external or public source is being used, it is stored in a data_dl/ directory (not tracked by Git). We clearly and unambiguously describe the data source in the data_dl/README.md file by providing links, version numbers, descriptions for access/download, or other details to ensure reproducibility. If you're worried the data won't be available in the future, follow one of the two previous bullet point approaches.
    2. Sequencing data is something of a special case. We upload our raw reads to NCBI soon after receiving them, possibly with an embargo, with the accession numbers documented in the relevant README.md. If this is not possible, we keep a copy of the reads on Box in data_largefiles/ in addition to the copy on the scientific workstation where the files are being processed. 
    3. Metadata is stored in the same directory as the raw data, typically in a README.md file that describes the data in each column, units, coordinate reference system (CRS, for GIS data), and other details needed to understand the file
