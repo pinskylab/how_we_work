@@ -73,10 +73,13 @@ University Affiliated Listservs
 Guides and tutorials
 --------------------
 
-1.  [The Openscapes Lesson Series](https://openscapes.github.io/series/): describes an approach to collaborative, reproducible science and culture within teams that underlies much of our group's approach as well
-2.  [GCRG Cookbook](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md) is a resource of how to's put together by lab members to help you past the occasional obstacle that we all seem to run into.
-1.  [How to maintain a research notebook](https://github.com/pinskylab/pinskylab_methods/blob/master/labmgt/how_to_lab_notebook.md)
-2.  Academic career development resources through the NCFDD. Activate your account through UCSC [here](https://senate.ucsc.edu/committees/cca-committee-on-career-advising/faculty-career-resources/facultydevelopmentdiversity.html), including resources for [graduate students](https://www.ncfdd.org/dissertation-success-members).
+1.  Research practice
+    - [The Openscapes Lesson Series](https://openscapes.github.io/series/): describes an approach to collaborative, reproducible science and culture within teams that underlies much of our group's approach as well
+    - [GCRG Cookbook](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md) is a resource of how to's put together by lab members to help you past the occasional obstacle that we all seem to run into.
+    - [How to maintain a research notebook](https://github.com/pinskylab/pinskylab_methods/blob/master/labmgt/how_to_lab_notebook.md)
+2.  Career development and time management
+    - The NCFDD has very good advice on time management, developmenta, and more. Activate your account through UCSC [here](https://senate.ucsc.edu/committees/cca-committee-on-career-advising/faculty-career-resources/facultydevelopmentdiversity.html), including resources for [graduate students](https://www.ncfdd.org/dissertation-success-members).
+    - Our internal guide to career exploration through informational interviews [here](https://docs.google.com/document/d/1a9fugAIbOm7FOpVz20j6yqjanqHpD-qDq6aK99iUGzQ/edit?usp=sharing)
 1.  [Command line tutorial](https://www.udacity.com/wiki/ud775/command-line-instructions) and [more help with the command line](https://classroom.udacity.com/courses/ud595/lessons/4597278561/concepts/46968695970923) (Udacity)
 1. R
     1. [Learn R with swirl](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&url=http%3A%2F%2Fswirlstats.com%2F&usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I)
@@ -86,6 +89,7 @@ Guides and tutorials
     2.  [Happy Git with R tutorial](https://happygitwithr.com) (outside tutorial)
 1. Field work
     - National Association of Marine Laboratories [Best Practices in Field Safety and Accessibility](https://www.naml.org/resources/reports/Best%20Practices%20in%20Field%20Trip%20Safety%20and%20Accessibility.pdf)
+    - [Safe fieldwork strategies for at-risk individuals, their supervisors and institutions](https://doi.org/10.1038/s41559-020-01328-5)
 3. Resources for scientific writing
     - Schimel, J. 2012. Writing science: how to write papers that get cited and proposals that get funded. Oxford University Press, Oxford
     - Turbek, S. P., Chock, T. M., Donahue, K., Havrilla, C. A., Oliverio, A. M., Polutchko, S. K., … Vimercati, L. (2016). Scientific Writing Made Easy: A Step-by-Step Guide to Undergraduate Writing in the Biological Sciences. Ecology 101, (October), 417–426. https://doi.org/10.1002/bes2.1258
