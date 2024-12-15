@@ -91,7 +91,7 @@ Guides and tutorials
     - National Association of Marine Laboratories [Best Practices in Field Safety and Accessibility](https://www.naml.org/resources/reports/Best%20Practices%20in%20Field%20Trip%20Safety%20and%20Accessibility.pdf)
     - [Safe fieldwork strategies for at-risk individuals, their supervisors and institutions](https://doi.org/10.1038/s41559-020-01328-5)
 3. Resources for scientific writing
-    - Our [informal guide to getting ready to publish](https://docs.google.com/document/d/15q_Qw06gNehdCAzu22vJ1iVoOiz6w6kt05WYgOSiCjw/edit?usp=sharing)
+    - Our [informal guide to getting ready to publish](https://docs.google.com/document/d/15q_Qw06gNehdCAzu22vJ1iVoOiz6w6kt05WYgOSiCjw/edit?usp=sharing), including a focus on publishing in society-owned and non-profit journals
     - Schimel, J. 2012. Writing science: how to write papers that get cited and proposals that get funded. Oxford University Press, Oxford
     - Turbek, S. P., Chock, T. M., Donahue, K., Havrilla, C. A., Oliverio, A. M., Polutchko, S. K., … Vimercati, L. (2016). Scientific Writing Made Easy: A Step-by-Step Guide to Undergraduate Writing in the Biological Sciences. Ecology 101, (October), 417–426. https://doi.org/10.1002/bes2.1258
     - Gopen, G., & Swan, J. (1990). The Science of Scientific Writing. American Scientist.
