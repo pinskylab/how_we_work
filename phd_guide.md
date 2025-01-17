@@ -127,16 +127,23 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- Internal
 		- UCSC Committee On Research $2000/year (Malin can apply in ~May). No proposal needed.
   		- UCSC Committee on Research Large Grants Program: $12000 for two years. Malin can apply. 2 pp application.
+    		- Inst. of Marine Science Student Research & Education Award
 		- UCSC EEB summer funding
+  		- UCSC Activating Innovative Graduate Research Award (AIGRA)
   		- [Keeley Coastal Scholars](https://socialsciences.ucsc.edu/support-us/awards/student-awards/keeley-coastal-scholars/index.html): $1000-$4000 for underrepresented undergraduates or grad student
+    		- [Hammett Awards through ENVS](https://envs.ucsc.edu/about/awards/index.html)
   		- UC Alianza MX Short-Term Research in Mexico: covers living expenses, travel, and other related expenses for up to three months to accomplish specific laboratory, library, or field research at partner institutions in Mexico. Calls often go out in February, due in March.
     	- Daniel Briggs Memorial Award for summer research or policy work related to coastal sustainability. Due ~ March. $500-$1000.
     	- [Sooy Fellowship](https://science.ucsc.edu/research-opportunities/rebecca-and-steve-sooy-graduate-fellowship-in-marine-mammals/) for marine mammals
-	- Women Divers Hall of Fame Scholarships and Training Grants, http://www.wdhof.org/wdhof-scholarshipDesc.aspx
+	- [Women Divers Hall of Fame Scholarships and Training Grants](http://www.wdhof.org/wdhof-scholarshipDesc.aspx)
 	- AMNH Lerner Grey
 	- Sigma Xi Explorers
+ 	- Explorers Club [Stephenson Explorers Advancement Program](https://www.explorers.org/grants/the-stephenson-explorers-advancement-program/) and [Kensington Conservation Grant](https://www.explorers.org/grants/kensington-explorers-club-grant/)
+  	- American Philosophical Society’s Lewis and Clark Fund for Exploration and Field Research
+	- Dr. Earl H. Myers and Ethel M. Myers Oceanographic & Marine Biology Trust ($2600 in 2024)
 	- Washington Biologists Field Club: Mid-Atlantic. https://www.pwrc.usgs.gov/resshow/perry/bios/WBFCHome.htm
 	- P.E.O. Scholar Award: women w/in 2 years of finishing a PhD
+ 	- [Graduate Women in Science National Fellowship Program](https://www.gwis.org/page/fellowship_program)
  	- Gloria Barron Wilderness Society Scholarship (Wilderness Society), $25000 scholarship for research supporting wilderness conservation.
 	- Rafe Sagarin Fund: http://www.rafeinnovativeecologyfund.org/
 	- Society for Study of Evolution: http://www.evolutionsociety.org/content/society-awards-and-prizes/graduate-research-excellence-grants.html
@@ -144,10 +151,11 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- American Genetic Association EECG award (due Dec 15)
 	- [AFS Steven Berkeley Marine Conservation Fellowship](https://mfs.fisheries.org/?page_id=155): also open to international students
 	- International Coral Reef Society student fellowship
+ 	- [Beneath the Sea Scholarship](https://beneaththesea.us/scholarships/)
 - Fellowships (stipend)
 	- Internal
  		- Dissertation Year Fellowship
-   		- Pedagogy fellowships
+   		- Pedagogy fellowships through The Learning Center
      	- [Sooy Fellowship](https://science.ucsc.edu/research-opportunities/rebecca-and-steve-sooy-graduate-fellowship-in-marine-mammals/) for marine mammals
 	- NSF GRFP
 		- advice: https://ojs.library.queensu.ca/index.php/IEE/article/view/6349#.WG57HQnKFbg
@@ -162,6 +170,9 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- NOAA Margaret Davidson: with a National Estuarine Research Reserve
  	- NMFS-Sea Grant Fellowship in Population and Ecosystem Dynamics: for more quantitative projects and students
    - DOE computational science (includes biomathematics)
+   - [The Hertz Foundation Graduate Fellowships](https://www.hertzfoundation.org/the-fellowship/)
+   - [Quad Fellowship](https://www.quadfellowship.org/)
+   - Paul & Daisy Soros Fellowship for New Americans
 	
 ## Conference ideas
 - American Society of Naturalist (January)
