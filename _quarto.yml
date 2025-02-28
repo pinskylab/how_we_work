@@ -1,0 +1,33 @@
+project: 
+  type: book
+  output-dir: _book
+  
+book:
+  title: "Global Change Research Group How We Work"
+  author: ""
+  date: last-modified 
+  description: "This is the lab manual for the Global Change Research Group at the University of California Santa Cruz" 
+  
+  page-footer:
+    left: |
+      <a href="https://globalchange.sites.ucsc.edu/">Global Change Research Group</a>
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  site-url: https://pinskylab.github.io/how_we_work/ Change this when we have a name  
+  repo-url: https://github.com/pinskylab/how_we_work/ Change this when we have a name
+  repo-actions: [edit,issue]
+
+  chapters: 
+    - index.qmd
+    - working_agreement.md
+    - onboarding.qmd
+    - data-management.qmd
+    - phd_guide.qmd
+    - DataBackupPlan.qmd
+    - offboarding.qmd
+
+
+
+# not sure what the following line does; those files are present
+bibliography: [references.bib, book.bib]
+

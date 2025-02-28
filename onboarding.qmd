@@ -127,7 +127,7 @@ Guides and tutorials
    - Less is more
    		- Few words, more pictures. Slides uncluttered
    		- Less talking: say it clearly and move on
-   - Practice, practice, practice 
+   - Practice, practice, practice
 3. Networking and collaboration skills
    - Resources from the [ESA Early Career Ecologists section](http://esa.org/earlycareer/resources/), including [webinars](https://vimeo.com/esaearlycareerecologist)
    - The [Project Biodiversify group](https://projectbiodiversify.org/) is working to make biology/ecology more inclusive.

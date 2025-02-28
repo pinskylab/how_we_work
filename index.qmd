@@ -1,0 +1,12 @@
+# Welcome!
+
+<br> 
+This is the lab manual for the Global Change Research Group at the University of California, Santa Cruz. We study how species adapt to rapidly changing environments to inform global stewardship and train the next generation of scientific leaders. More about our group's research can be found on our [website](https://globalchange.sites.ucsc.edu/){target="_blank"}.
+
+This lab manual resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. Lab protocol and methods can be found in a separate book [Pinsky Lab Methods](https://github.com/pinskylab/pinskylab_methods){target="_blank"}.
+
+This book is based on the [Feylab Lab Manual](https://thefaylab.github.io/lab-manual/){target="_blank"}. Because this repo existed proir, the Feylab Lab Manual repo was not forked and instead the structure and format were imitated. If interested in creating a similar please visit the [Feylab Lab Manual Repo](https://github.com/thefaylab/lab-manual){target="_blank"} or see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it){target="_blank"}!
+
+------------------------------------------------------------------------
+
+[![](img/creative_commons.png)](http://creativecommons.org/licenses/by/4.0/){fig-alt="Creative Commons License"}This lab is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/){target="_blank"}

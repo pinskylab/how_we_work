@@ -6,27 +6,27 @@
     - We work to be considerate in our speech and actions, and to actively acknowledge and respect the boundaries and experiences of fellow community members.
     - We work to make time for others while also respecting others' time
     - We try our best, while recognizing that our best can change daily
-1. We love science and we love life outside science
+2. We love science and we love life outside science
     - We encourage everyone to stay connected to what excites you about your work: explore and stay curious!
     - We value taking time for personal life so we can be our best self at work
     - We work to prioritize the physical and mental health of ourselves and others
-1. Collaboration & sharing
+3. Collaboration & sharing
     - We are a team: our colleagues are our resources, and in return, we are resources for our colleagues
     - We work to normalize asking for help and to offer help generously
     - We aim to be clear and concise - ambiguity causes confusion
-1. Being present
+4. Being present
     - We prioritize working in person and showing up at group events to help build our community and to support each other
     - We know extra effort is needed to help remote group members be included
     - We pay attention when others speak
     - We work to step forward if we're quiet, and step back if we're loud
-1. Normalizing "I don't know yet"
+5. Normalizing "I don't know yet"
     - Don’t know? That’s okay! We’re all here to learn, no matter what our career stage.
     - At the same time, we assume competence and actively recognize the wide range of expertise we each bring
-1. Credit and responsibility
+6. Credit and responsibility
     - We celebrate our own successes and those around us!
     - We all make mistakes. Please be honest and open when it happens.
     - If you see a problem, please speak up so that we all can try to find a solution.
-1. Supporting a diverse environment
+7. Supporting a diverse environment
     - Please be open to others perspectives, engage with them, and be willing to revise your own
     - We work to vocally support diverse perspectives
     - To specifically amplify the work of researchers from underrepresented groups, we've committed to 
@@ -37,7 +37,7 @@
        - Acknowledge our occupation of land that is the unceded territory of the Awaswas-speaking Uypi Tribe. 
        - We will have biannual lab meetings to discuss our progress and future work in Diversity, Equity, Inclusion & Belonging
     - We will be aware and acknowledge our positionalities and privileges that we hold.
-1. Sharing our science outside of academia
+8. Sharing our science outside of academia
     - We value community service, outreach to non-scientists audiences, and mentoring of early-career scientists
 
 ## Process
@@ -47,20 +47,20 @@
     - Please set and follow an agenda
     - Please start and end on time
     - Check in regularly about the whole person
-1. Group meetings
+2. Group meetings
     - We have weekly group meetings and expect everyone in the group to attend.
-1. Lab listener
+3. Lab listener
     - A volunteer group member each quarter who observes and promotes healthy lab dynamics
     - An unofficial contact for concerns within the research group
     - Will schedule meetings with Malin as needed for issues and updates
-1. This document
+4. This document
     - This document is always in progress: please suggest changes where you see fit!
     - We will revisit this document at the beginning of each Fall quarter
-1. Project management
+5. Project management
     - Please set realistic deadlines, then revise them in communication with others
     - It helps to break projects into smaller pieces
     - We do science openly, transparently, and reproducibly (see OpenScapes guides and [our data management plan](https://github.com/pinskylab/how_we_work/blob/master/data-management.md))
-1. Problems
+6. Problems
     - To report an issue please contact Malin. All communication will be treated as confidential to the extent possible (sexual harrassment and related concerns have to be reported, per [university policy](https://titleix.ucsc.edu/reporting/index.html)
     - If you aren't comfortable speaking to Malin: 
       - contact the Lab Listener
