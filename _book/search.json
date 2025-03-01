@@ -1,0 +1,332 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Global Change Research Group How We Work",
+    "section": "",
+    "text": "1 Welcome!\n This is the lab manual for the Global Change Research Group at the University of California, Santa Cruz. We study how species adapt to rapidly changing environments to inform global stewardship and train the next generation of scientific leaders. More about our group’s research can be found on our website.\nThis lab manual resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. Lab protocol and methods can be found in a separate book Pinsky Lab Methods.\nThis book is based on the Feylab Lab Manual. Because this repo existed proir, the Feylab Lab Manual repo was not forked and instead the structure and format were imitated. If interested in creating a similar please visit the Feylab Lab Manual Repo or see Quick steps to making a copy of the lab manual and publishing it!\n\nThis lab is licensed under a Creative Commons Attribution 4.0 International License.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome!</span>"
+    ]
+  },
+  {
+    "objectID": "working_agreement.html",
+    "href": "working_agreement.html",
+    "title": "2  Working Agreement",
+    "section": "",
+    "text": "2.1 Values",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Working Agreement</span>"
+    ]
+  },
+  {
+    "objectID": "working_agreement.html#values",
+    "href": "working_agreement.html#values",
+    "title": "2  Working Agreement",
+    "section": "",
+    "text": "Being nice and working hard\n\nWe work to be considerate in our speech and actions, and to actively acknowledge and respect the boundaries and experiences of fellow community members.\nWe work to make time for others while also respecting others’ time\nWe try our best, while recognizing that our best can change daily\n\nWe love science and we love life outside science\n\nWe encourage everyone to stay connected to what excites you about your work: explore and stay curious!\nWe value taking time for personal life so we can be our best self at work\nWe work to prioritize the physical and mental health of ourselves and others\n\nCollaboration & sharing\n\nWe are a team: our colleagues are our resources, and in return, we are resources for our colleagues\nWe work to normalize asking for help and to offer help generously\nWe aim to be clear and concise - ambiguity causes confusion\n\nBeing present\n\nWe prioritize working in person and showing up at group events to help build our community and to support each other\nWe know extra effort is needed to help remote group members be included\nWe pay attention when others speak\nWe work to step forward if we’re quiet, and step back if we’re loud\n\nNormalizing “I don’t know yet”\n\nDon’t know? That’s okay! We’re all here to learn, no matter what our career stage.\nAt the same time, we assume competence and actively recognize the wide range of expertise we each bring\n\nCredit and responsibility\n\nWe celebrate our own successes and those around us!\nWe all make mistakes. Please be honest and open when it happens.\nIf you see a problem, please speak up so that we all can try to find a solution.\n\nSupporting a diverse environment\n\nPlease be open to others perspectives, engage with them, and be willing to revise your own\nWe work to vocally support diverse perspectives\nTo specifically amplify the work of researchers from underrepresented groups, we’ve committed to\n\nDiscussing an article about systemic barriers or racism at least twice a year during lab meetings. Everyone is encouraged to lead a discussion\nEngaging in a lab discussion regarding systemic problems within the field of ecology and evolutionary biology or within graduate school (i.e., decolonizing conservation, systemic barriers and racism within the field of ecology, history of racism against BIPOC communities in genomics)\nPrioritize the citation of underrepresented authors in our writings\nAttend talks by underrepresented scientists at conferences and share the names of the speakers you enjoyed to use as inspiration for future seminar invitations and paper discussions\nAcknowledge our occupation of land that is the unceded territory of the Awaswas-speaking Uypi Tribe.\nWe will have biannual lab meetings to discuss our progress and future work in Diversity, Equity, Inclusion & Belonging\n\nWe will be aware and acknowledge our positionalities and privileges that we hold.\n\nSharing our science outside of academia\n\nWe value community service, outreach to non-scientists audiences, and mentoring of early-career scientists",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Working Agreement</span>"
+    ]
+  },
+  {
+    "objectID": "working_agreement.html#process",
+    "href": "working_agreement.html#process",
+    "title": "2  Working Agreement",
+    "section": "2.2 Process",
+    "text": "2.2 Process\n\nMeetings\n\nPlease come prepared and take notes (we often use shared Google docs)\nPlease set and follow an agenda\nPlease start and end on time\nCheck in regularly about the whole person\n\nGroup meetings\n\nWe have weekly group meetings and expect everyone in the group to attend.\n\nLab listener\n\nA volunteer group member each quarter who observes and promotes healthy lab dynamics\nAn unofficial contact for concerns within the research group\nWill schedule meetings with Malin as needed for issues and updates\n\nThis document\n\nThis document is always in progress: please suggest changes where you see fit!\nWe will revisit this document at the beginning of each Fall quarter\n\nProject management\n\nPlease set realistic deadlines, then revise them in communication with others\nIt helps to break projects into smaller pieces\nWe do science openly, transparently, and reproducibly (see OpenScapes guides and our data management plan)\n\nProblems\n\nTo report an issue please contact Malin. All communication will be treated as confidential to the extent possible (sexual harrassment and related concerns have to be reported, per university policy\nIf you aren’t comfortable speaking to Malin:\n\ncontact the Lab Listener\ncontact the graduate program coordinator: Judy Straub (UCSC) or Shaneika Nelson (Rutgers)\n\nIf the grad student coordinator does not sound like the correct point of contact, UCSC has many resources available to you, including:\n\nCounseling & Psychological Services\nSlug Support\nStudent Conduct\nCARE",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Working Agreement</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html",
+    "href": "onboarding.html",
+    "title": "3  Welcome to the Global Change Research Group!",
+    "section": "",
+    "text": "3.1 To Do List\nThere are a few items to take care of now that you have joined the lab.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Welcome to the Global Change Research Group!</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#to-do-list",
+    "href": "onboarding.html#to-do-list",
+    "title": "3  Welcome to the Global Change Research Group!",
+    "section": "",
+    "text": "Read the Lab Working Agreement.\nIf you’re a PhD student, check out Malin’s Notes on a PhD Degree (also has some useful postdoc-related resources)\nRead the Lab Data Management Policy.\nMake a GitHub account if you don’t have one already.\nAsk Roy to help you join our Google Spaces (General, Science Communication, DEIB, Climate Biogeography, Genomics, Random, Lab Meeting, Santa Cruz, Computing & Data, Conferences, Lab Website, Lab Space, and Help Coding) for messaging (a Slack equivalent), our shared google calendar, our Github Organization, and the GCRG mailing list (pinsky-lab@googlegroups.com) (talk to Roy Roberts).\nConnect to the Global Change Research Group Shared Google Drive by asking Roy to share it with you.\nAdd your information to the GCRG Members google document (in the GCRG Google Drive folder)/\nSend your contact information, photo, and web address to Roy to add to our lab webpage here. If you don’t have webpage, they can help you make a page on our website.\nWrite an Independent Development Plan, copy your IDP goals to a new google document in Shared Drive/How_we_work/Group_member_goals/ (see the template in the directory), share it with Malin, and set up a time to discuss it.\nIf you will be doing lab work, complete the safety training here.\nGet your keys and ID card through UCSC (talk with the EEB Grad Program Coordinator and/or the EEB Assistant Administrator). Add CBB 139 for the GCRG Molecular lab, a ley for the CBB analytical labs if you’re doing pop gen lab work, and a key for the CBB showers if you want.\nIf you’re at UCSC, also check out the EEB resource guide\nDownload and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin here.\n\nBlock out our weekly lab meeting time on your calendar, and when you’re ready, sign up for a lab meeting. The easiest way to find the schedule for lab meetings is to look at the GCRG Lab Meeting space under Tasks and the linked google file should pop up.\nIf you’re a postdoc, grad student, or staff, talk to Malin if you need an external monitor, harddrive for backups, or external keyboard or trackpad. We can usually provide what you need (funding-dependent).\nRead through the relevant guides and tutorials below, depending on your experience.\nJoin the CBB Coffee Club (2nd floor kitchen) if that’s relevant to you.\nSpend some time exploring the resources on the GCRG Google Drive and Github Organization. Ask questions about anything that’s confusing so that we can make it easier for others in the future!",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Welcome to the Global Change Research Group!</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#computing-resources",
+    "href": "onboarding.html#computing-resources",
+    "title": "3  Welcome to the Global Change Research Group!",
+    "section": "3.2 Computing Resources",
+    "text": "3.2 Computing Resources\nThere are several computing resources available to serve your research computing needs.\nRutgers | owner | name | partition name | number of cores | memory | |——————————|————-|—————-|—————–|——–| | SEBS | annotate2 | - | 112 + 8200 GPU | 1T | | SEBS | annotate-win| - | 18 | 500G | | OARC-Pinsky node 1 (hal0181) | amarel | p_mlp195 | 40 | 192G | | OARC-Pinsky node 2 (hal0186) | amarel | p_mlp195 | 40 | 192G | | OARC-Ecology node 1 (hal0280)| amarel | p_deenr_1 | 64 | 256G | | OARC-Ecology node 2 (hal0281)| amarel | p_deenr_1 | 64 | 256G | | OARC-EOAS node (hal0170) | amarel | p_eoas_1 | 40 | 192G | | OARC | amarel | main | ~19,000 | ? | | RDII | caliburn | - | 256 | 768G |\nUCSC | owner | name | partition name | number of cores | memory | |——————————|————-|—————-|—————–|——–| | PBSci | Hummingbird | - | 24-64/node | up to 256GB/node | | Astrophysics | Lux | - | many | less | | PBSci | Bishop [archived data] | GlobalChange-bio/ [10TB]| NA | NA |\nVarious lab members have differing levels of experience with each of these servers and can help you figure out what is best for your analysis. Amarel is a condo system. You only have to wait in line with other GCRG folks for the Pinsky node, you have to wait in line with other Ecology folks for the DEENR node, you have to wait in line with all of Rutgers folks for the other nodes.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Welcome to the Global Change Research Group!</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#university-affiliated-listservs",
+    "href": "onboarding.html#university-affiliated-listservs",
+    "title": "3  Welcome to the Global Change Research Group!",
+    "section": "3.3 University Affiliated Listservs",
+    "text": "3.3 University Affiliated Listservs\nUCSC | Name | Listserv email | Contact Name| Contact email |\n|——————————-|———————————–|————-|—————————-| | Global Change Research Group | pinsky-lab@googlegroups.com | Ryan Snow | | | Inst. for Marine Science | allmarsci@ucsc.edu | | | | EEB general announcements | eebmemo@ucsc.edu | Eve Chudnow | echudnow@ucsc.edu | | Fisheries Collaborative Program | fcp-group@ucsc.edu | Liane Bauer | lybauer@ucsc.edu |\n\nVisit here for the full list of Rutgers Marine-related listservs\nVisit here for a broad list of Rutgers listservs",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Welcome to the Global Change Research Group!</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#guides-and-tutorials",
+    "href": "onboarding.html#guides-and-tutorials",
+    "title": "3  Welcome to the Global Change Research Group!",
+    "section": "3.4 Guides and tutorials",
+    "text": "3.4 Guides and tutorials\n\nResearch practice\n\nThe Openscapes Lesson Series: describes an approach to collaborative, reproducible science and culture within teams that underlies much of our group’s approach as well\nGCRG Cookbook is a resource of how to’s put together by lab members to help you past the occasional obstacle that we all seem to run into.\nHow to maintain a research notebook\n\nCareer development and time management\n\nThe NCFDD has very good advice on time management, developmenta, and more. Activate your account through UCSC here, including resources for graduate students.\nOur internal guide to career exploration through informational interviews here\n\nCommand line tutorial and more help with the command line (Udacity)\nR\n\nLearn R with swirl\nR For Data Science (a very useful introduction to R)\n\nGit and GitHub\n\nUdacity Git and GitHub tutorial\nHappy Git with R tutorial (outside tutorial)\n\nField work\n\nNational Association of Marine Laboratories Best Practices in Field Safety and Accessibility\nSafe fieldwork strategies for at-risk individuals, their supervisors and institutions\n\nResources for scientific writing\n\nOur informal guide to getting ready to publish, including a focus on publishing in society-owned and non-profit journals\nThe UCSC Writing Center\nSchimel, J. 2012. Writing science: how to write papers that get cited and proposals that get funded. Oxford University Press, Oxford\nTurbek, S. P., Chock, T. M., Donahue, K., Havrilla, C. A., Oliverio, A. M., Polutchko, S. K., … Vimercati, L. (2016). Scientific Writing Made Easy: A Step-by-Step Guide to Undergraduate Writing in the Biological Sciences. Ecology 101, (October), 417–426. https://doi.org/10.1002/bes2.1258\nGopen, G., & Swan, J. (1990). The Science of Scientific Writing. American Scientist.\nLafferty 2021 Writing a scientific paper, step by painful step\nOur Guide to publishing a scientific paper\nHow to read a scientific paper, Science\nHow to (seriously) read a scientific paper, Science\nZotero Reference Manager Tutorial\nAuthorship criteria\n\nEcological Society of America ethics\nEcological authorship\nEvolution\nFisheries\n\n\n\nData visualization resources\n\nTufte books\nWilliam Cleveland, The Elements of Graphing Data\n\nScientific presentation tips\n\nhttp://blog.ted.com/10-tips-for-better-slide-decks/\nHow Bad Presentations Happen to Good Causes (booklet in the lab)\nWill Ratcliffe: https://twitter.com/wc_ratcliff/status/949315012472070145\nClip art\n\nhttp://ian.umces.edu/symbols/\nhttps://thenounproject.com/\n\nhttps://www.nature.com/articles/d41586-023-00832-5\nRemember you’re telling a story\n\nStart where your audience is, explain why it matters/they should care\nbuild suspense, and then resolve it\n\nBuild with simple pieces\n\nYou know much more than your audience. Recognize they can only absorb information so fast.\nLayer in points and pieces as you say them\nExplain all parts of a figure\n\nLess is more\n\nFew words, more pictures. Slides uncluttered\nLess talking: say it clearly and move on\n\nPractice, practice, practice\n\nNetworking and collaboration skills\n\nResources from the ESA Early Career Ecologists section, including webinars\nThe Project Biodiversify group is working to make biology/ecology more inclusive.\nLab notes on power in academia: http://sophiatintori.com/zine.html",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Welcome to the Global Change Research Group!</span>"
+    ]
+  },
+  {
+    "objectID": "data-management.html",
+    "href": "data-management.html",
+    "title": "4  GCRG Lab Data Management Plan",
+    "section": "",
+    "text": "4.1 General project organization\nThe Global Change Research Group strives for an open science policy that makes our science accessible and reproducible and that allows us to collaborate with our future selves and with our colleagues. To assist in achieving that aim, we use the following practices.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+    ]
+  },
+  {
+    "objectID": "data-management.html#general-project-organization",
+    "href": "data-management.html#general-project-organization",
+    "title": "4  GCRG Lab Data Management Plan",
+    "section": "",
+    "text": "Lab notebooks are maintained each day; tracking progress, daily learnings, what was accomplished, and/or what goal was worked towards. These can be physical notebooks, text files, Evernote, Jupyter notebooks, etc.\n\nLab notebooks are digitally backed up, regardless of initial format\n\nEach new project gets a GitHub repository in the pinskylab organization\n\nThis practice facilitates collaboration, sharing, and maintenance of institutional knowledge\nRepos can be public or private\nA CITATION.cff clarifies how to cite the repo. We apply authorship criteria similarly as for papers (e.g., first author is the lead).\n\nData processing is accomplished through the use of scripts, not manual manipulation\n\nThis helps to verify the reproducibility of our methods\n\nA README.md in each directory (including the top directory)\n\nexplains the purpose of each file and sub-directory\nincludes links to relevant papers and preprints\nhas contact information for authors and data creators, as necessary\ndefines data columns, including units, of any data files and basic methods used for data collection\nhas version numbers of any software or packages needed for running codes or scripts\n\nIf the repo is included in a publication, we also archive it with a DOI on, for example, Zenodo (see here for instructions).\nWe add a license to each git repo, e.g., MIT or CC BY-NC 4.0, to clarify how the material can be reused. See guidance from Creative Commons, Github, and R Packages book.\nWe write collaborative manuscripts in the GCRG Shared Google Drive\nPresentations are typically made in Google Slides in the GCRG Google Drive (Presentations/) allowing lab members easy access to useful graphics\n\nName the file in the format YYYY-MM-DD_presentername_occasion, eg, 2023-01-07_Pinsky_AmNat\n\nBefore matriculation, we ensure all projects, code, data, papers, etc. are uploaded and fully documented",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+    ]
+  },
+  {
+    "objectID": "data-management.html#data",
+    "href": "data-management.html#data",
+    "title": "4  GCRG Lab Data Management Plan",
+    "section": "4.2 Data",
+    "text": "4.2 Data\nData used in support of a project is:\n\nSaved in an appropriate, non-proprietary format with accompanying metadata (e.g., csv rather than Excel)\nRaw data is stored in or linked from the GitHub repository associated with the project\n\nRaw data files under the Github file size limit (&lt;100MB) are stored in a data/ directory\nLarger files are stored in a data_largefiles/ directory (not tracked by Git by using the .gitignore file) in at least two places\n\nwhere the analysis is occurring (e.g., scientific workstation), and\neither one of (we document this arrangement clearly in the relevant data_largefiles/README.md file of the git repo):\n\non the UCSC PbSci Bishop data server in the GCRG directory, in the data_largefiles/ directory, in a subdirectory whose name matches the Git repo name.\non FigShare, linked from the relevant GitHub readme.\n\n\nIf data from an external or public source is being used, it is stored in a data_dl/ directory (not tracked by Git). We clearly and unambiguously describe the data source in the data_dl/README.md file by providing links, version numbers, descriptions for access/download, or other details to ensure reproducibility. If you’re worried the data won’t be available in the future, follow one of the two previous bullet point approaches.\nSequencing data is something of a special case. We upload our raw reads to NCBI soon after receiving them, possibly with an embargo, with the accession numbers documented in the relevant README.md. If this is not possible, we keep a copy of the reads on Box in data_largefiles/ in addition to the copy on the scientific workstation where the files are being processed.\nMetadata is stored in the same directory as the raw data, typically in a README.md file that describes the data in each column, units, coordinate reference system (CRS, for GIS data), and other details needed to understand the file\nProcessed or cleaned data is stored in a separate directory, e.g., output/ or similar, to differentiate from raw data",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+    ]
+  },
+  {
+    "objectID": "data-management.html#code",
+    "href": "data-management.html#code",
+    "title": "4  GCRG Lab Data Management Plan",
+    "section": "4.3 Code",
+    "text": "4.3 Code\nAll code used or developed in support of the project is:\n\nWell commented and complete\nVersioned in the project’s git repository\nDescribed in the README.md file to explain what each script does, what language was used, what software and package versions were used, etc.\nTested! Can at least one other person (more is better) complete your analysis on a different computer?",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+    ]
+  },
+  {
+    "objectID": "data-management.html#backups",
+    "href": "data-management.html#backups",
+    "title": "4  GCRG Lab Data Management Plan",
+    "section": "4.4 Backups",
+    "text": "4.4 Backups\nWe store our raw data and scripts in at least two locations.\n\nMost of our work is on Github or Google Drive. Both are backed up monthly to Box and to an external harddrive by a designated lab member.\nRaw data files too large for Github and Drive are stored on the scientific workstation on which they are being manipulated or posted on Figshare, then manually copied to Box by the researcher (use a directory with the same name as the parent Git repo and subdirectory named data_largefiles/). They are backed up from Box monthly to an external harddrive by a designated lab member.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+    ]
+  },
+  {
+    "objectID": "phd_guide.html",
+    "href": "phd_guide.html",
+    "title": "5  Some notes for a Ph.D.",
+    "section": "",
+    "text": "5.1 Skills to develop\nNotes written by Malin Pinsky, 2013-2024\nMy goal is to help you understand and succeed in our discipline as it is now, while also empowering you with the agency to reshape it in the image of all of us.\n(see our onboarding guide for resources)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Some notes for a Ph.D.</span>"
+    ]
+  },
+  {
+    "objectID": "phd_guide.html#skills-to-develop",
+    "href": "phd_guide.html#skills-to-develop",
+    "title": "5  Some notes for a Ph.D.",
+    "section": "",
+    "text": "project design\ndata analysis and interpretation\noral presentation: see Scientific presentation tips (to add)\ngrant-writing\nmanuscript writing\ncollaborating and networking in academia\nteaching\npeer reviewing",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Some notes for a Ph.D.</span>"
+    ]
+  },
+  {
+    "objectID": "phd_guide.html#expectationsmilestones",
+    "href": "phd_guide.html#expectationsmilestones",
+    "title": "5  Some notes for a Ph.D.",
+    "section": "5.2 Expectations/Milestones",
+    "text": "5.2 Expectations/Milestones\n\nThroughout\n\nParticipate in the community and build your professional network\n\nattend all seminars, meet most or all speakers, come to lab meetings, work from CBB\n\nContribute to the community: clean up after yourself, do maintenance, do chores, etc.\n\nReproducibility for collaboration with future self, with others in lab, with others outside lab (see the Data Management Guide)\nPractice any talks and present any posters to the lab, before you take them to a conference\n\nThis is will be substantially more work than a 9-5 job or taking classes as an undergraduate or MS student\n\nFirst year\n\nFirst meeting topics\n\nExpectations for me from you\nExpectations for you from me\nYour expectations for the PhD experience\n\nWhat you want to learn from the PhD\n\nWhere your are tentatively heading\nFirst year project?\nIf you have fears, concerns, questions, or just want to talk, please come find me. If you’re upset with me, please tell me.\n\nApply to fellowships (fall)\nFirst year talk (lab meeting or other venue)\nStart and perhaps finish a first year project that is publishable (begin and perhaps finish writing)\nAttend a conference, present a poster or tal\nComprehensive exam on the first-year courses\n\nSecond year\n\nWrite draft dissertation proposal by January\nFirst year paper submitted\nAttend a conference, present\nWrite dissertation proposal and defend it, “Qualifying exam”\n\nThird year\n\nIf not done, finish dissertation proposal and defend it, “Qualifying exam”\nContinue research\nAttend a conference and present\n\nFourth year\n\nContinue research\nSubmit papers\nAttend a conference and present\n\nFifth year\n\nFinish research\nSubmit remaining papers\nDefend dissertation\n\nAt least 6 weeks in advance of defense: last draft of dissertation chapter to Malin. Others must already be done.\nDefense date is tentative until\n\nFull dissertation written\nAt least 2 chapters submitted for publication\nAll chapters comply with our Data Management Plan\n\n\nAttend a conference and present\nApply for postdoc fellowships (fall) and contact potential mentors, or network and do informational interviews for non-academic opportunities",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Some notes for a Ph.D.</span>"
+    ]
+  },
+  {
+    "objectID": "phd_guide.html#month-check-ins",
+    "href": "phd_guide.html#month-check-ins",
+    "title": "5  Some notes for a Ph.D.",
+    "section": "5.3 6-Month Check-ins",
+    "text": "5.3 6-Month Check-ins\nAt the end of the fall and spring, we take a meeting to step back from the details and think about big picture career trajectories. It’s a good chance to go back the goals you wrote for yourself, think about your progress, and think about whether they’re still the right goals for you. Please start a running document of your goals in our Google Drive (how_we_work/Group_member_goals/, make a copy of the template and add your name to the title) and share it with Malin.\nThis is your meeting to use as you want, but I often find it useful to loosely structure the meeting like this:\n\nFirst 1/3: Highlights from the semester/last six months:\n\nWhat have you done?\nWhat have you learned?\nWhat connections have you made?\n\nLast 2/3: Plans for the next six months:\n\nWhat do you want to do?\nWhat do you want to learn?\nWhat connections do you want to make?\nHow can I support you in that?\n\nAlso let me know if you want me to think about answers to any questions.\nFunding plan during each end-of-year checkin",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Some notes for a Ph.D.</span>"
+    ]
+  },
+  {
+    "objectID": "phd_guide.html#training-resources",
+    "href": "phd_guide.html#training-resources",
+    "title": "5  Some notes for a Ph.D.",
+    "section": "5.4 Training resources",
+    "text": "5.4 Training resources\n\nAcademic career development resources through the NCFDD. Activate your account through UCSC here, including resources for graduate students like (https://www.ncfdd.org/dissertation-success-members).",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Some notes for a Ph.D.</span>"
+    ]
+  },
+  {
+    "objectID": "phd_guide.html#course-ideas",
+    "href": "phd_guide.html#course-ideas",
+    "title": "5  Some notes for a Ph.D.",
+    "section": "5.5 Course ideas",
+    "text": "5.5 Course ideas\n\nAt UCSC\n\nStats and applied math\n\nSTATS 206 Applied Bayesian Stats (with David Draper) (can get permission to skip prereqs)\nSTATS 203 Introduction to Probability Theory\nSTATS 204 Introduction to Statistical Data Analysis (includes some R)\nSTATS 206B Intermediate Bayesian Stats\n\nEART125 - Statistics and Data Analysis in the Geosciences (Matthew Clapham)\nOCEA 267 Applied Environmental Time Series Analysis (Claudie Beaulieu)\n\n\n\nOff campus\n\nStats\n\nhttps://www.statstree.org/\nTyre, ecological statistics in R, online, University Nebraska Lincoln\nBiostats suggestions from Ecology\nTwo recommended stats books from economics\n\nPindyck, R.S., Rubinfeld, D.L., 1998. Econometric Models and Economic Forecasts, 4th ed. McGraw-Hill New York, NY\nCameron, A.C., Trivedi, P.K., 2005. Microeconometrics methods and applications. Cambridge University Press, NY\n\nCoursera\n\nBrian Caffo, Mathematical biostatistics boot camp 1 and 2\n\n7 weeks, taught several times per year\nRecommended by: Columbia Univ PhD student: The teacher and format are very good. But it is pretty elementary; covers what you would learn in a rigorous basic stats course (comment on boot camp 1)\n\nRoger Peng, Computing for data analysis\n\nin R, generally taught Sept, 4 weeks\nRecommended by: Tia-Lynn Ashman lab member says excellent, pretty hard, 10-15 hrs per week, covers both data management and stats\n\nJeff Leek, Data analysis\n\nin R, generally taught Oct, 8 weeks\nRecommended by: Brian Caffo read his statistics blog http://simplystatistics.org\n\nJohn McGready, Statistical Reasoning\n\nseems to be not available every time I check. aimed at public health\nRecommended by: Brian Caffo, fantastic course\n\nNote: Peng and Leek are collaborators, both at Johns Hopkins. They additionally teach the below but Rae Winfree has not found out more on these courses:\n\nR programming\nGetting and cleaning data",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Some notes for a Ph.D.</span>"
+    ]
+  },
+  {
+    "objectID": "phd_guide.html#funding-ideas",
+    "href": "phd_guide.html#funding-ideas",
+    "title": "5  Some notes for a Ph.D.",
+    "section": "5.6 Funding ideas",
+    "text": "5.6 Funding ideas\n\nTravel funding\n\nAmerican Society of Naturalists: regional conference funding; workshop funding\nUCSC EEB\nICRS travel funding\nTravel funding for ECRs\nJournal of Marine Science and Engineering: http://www.mdpi.com/journal/jmse/awards\n\nResearch funding\n\nInternal\n\nUCSC Committee On Research $2000/year (Malin can apply in ~May). No proposal needed.\nUCSC Committee on Research Large Grants Program: $12000 for two years. Malin can apply. 2 pp application.\n\nInst. of Marine Science Student Research & Education Award\n\nUCSC EEB summer funding\nUCSC Activating Innovative Graduate Research Award (AIGRA)\nKeeley Coastal Scholars: $1000-$4000 for underrepresented undergraduates or grad student\n\nHammett Awards through ENVS\n\nUC Alianza MX Short-Term Research in Mexico: covers living expenses, travel, and other related expenses for up to three months to accomplish specific laboratory, library, or field research at partner institutions in Mexico. Calls often go out in February, due in March.\nDaniel Briggs Memorial Award for summer research or policy work related to coastal sustainability. Due ~ March. $500-$1000.\nSooy Fellowship for marine mammals\n\nWomen Divers Hall of Fame Scholarships and Training Grants\nAMNH Lerner Grey\nSigma Xi Explorers\nExplorers Club Stephenson Explorers Advancement Program and Kensington Conservation Grant\nAmerican Philosophical Society’s Lewis and Clark Fund for Exploration and Field Research\nDr. Earl H. Myers and Ethel M. Myers Oceanographic & Marine Biology Trust ($2600 in 2024)\nWashington Biologists Field Club: Mid-Atlantic. https://www.pwrc.usgs.gov/resshow/perry/bios/WBFCHome.htm\nP.E.O. Scholar Award: women w/in 2 years of finishing a PhD\nGraduate Women in Science National Fellowship Program\nGloria Barron Wilderness Society Scholarship (Wilderness Society), $25000 scholarship for research supporting wilderness conservation.\nRafe Sagarin Fund: http://www.rafeinnovativeecologyfund.org/\nSociety for Study of Evolution: http://www.evolutionsociety.org/content/society-awards-and-prizes/graduate-research-excellence-grants.html\n\nRosemary Grant awards, year 3+, up to $3500\n\nAmerican Genetic Association EECG award (due Dec 15)\nAFS Steven Berkeley Marine Conservation Fellowship: also open to international students\nInternational Coral Reef Society student fellowship\nBeneath the Sea Scholarship\n\nFellowships (stipend)\n\nInternal\n\nDissertation Year Fellowship\nPedagogy fellowships through The Learning Center\nSooy Fellowship for marine mammals\n\nNSF GRFP\n\nadvice: https://ojs.library.queensu.ca/index.php/IEE/article/view/6349#.WG57HQnKFbg\n\nNDSEG: read carefully to find the best match BAA category. We have been quite successful with this one.\nDOE Computational Science Graduate Fellowship (4 years)\nHHMI Gilliam Fellowships (apply in 2nd or 3rd year as a advisor-mentee pair, due in early December)\nCA Sea Grant Graduate Fellowships: has a focus on CA\nSmithsonian (post-qualifying): https://fellowships.si.edu/opportunity/big-ten-academic-alliance-smithsonian-fellowship\nACM SIGHPC Computational & Data Science Fellowships\n\nEPA STAR\nNOAA Nancy Foster: with a National Marine Sanctuary\nNOAA Margaret Davidson: with a National Estuarine Research Reserve\nNMFS-Sea Grant Fellowship in Population and Ecosystem Dynamics: for more quantitative projects and students\nDOE computational science (includes biomathematics)\nThe Hertz Foundation Graduate Fellowships\nQuad Fellowship\nPaul & Daisy Soros Fellowship for New Americans",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Some notes for a Ph.D.</span>"
+    ]
+  },
+  {
+    "objectID": "phd_guide.html#conference-ideas",
+    "href": "phd_guide.html#conference-ideas",
+    "title": "5  Some notes for a Ph.D.",
+    "section": "5.7 Conference ideas",
+    "text": "5.7 Conference ideas\n\nAmerican Society of Naturalist (January)\nSpecies on the Move\nInternational Biogeography Society Meeting\nGordon Conference in Marine Global Change (July)\nEcological Society of America (August)\nEvolution (June)\nEffects of Climate Change on the World’s Oceans (ECCWO) (ICES/PICES): next to be in 2027 or 2028\nAmerican Genetics Association\nAmerican Fisheries Society\nWestern Society of Naturalists\nBenthics\nspecialized\n\nWestern Indian Ocean Marine Science Assoc (WIOMSA)\nAsian Pacific Coral Reef Society (APCRS)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Some notes for a Ph.D.</span>"
+    ]
+  },
+  {
+    "objectID": "phd_guide.html#awards",
+    "href": "phd_guide.html#awards",
+    "title": "5  Some notes for a Ph.D.",
+    "section": "5.8 Awards",
+    "text": "5.8 Awards\n\nASN Jasper Loftus-Hills, &lt;3yrs from PhD, Jan 31\nESA Early Career Fellow\nICRS Awards (Feb. 15)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Some notes for a Ph.D.</span>"
+    ]
+  },
+  {
+    "objectID": "phd_guide.html#postdoc-funding",
+    "href": "phd_guide.html#postdoc-funding",
+    "title": "5  Some notes for a Ph.D.",
+    "section": "5.9 Postdoc funding",
+    "text": "5.9 Postdoc funding\n\nLife Sciences Research Foundation: open to non-US citizens, 3 years, network-building\nNSF\nDavid H. Smith\nLiber Ero\nFulbright\niDiv fellowships\nHIFMB (Helmut Hillebrand center in Germany)\nSESYNC postdocs\nInstitutional fellowships\n\nUT Austin integration biology\nU Michigan\nUC Berkeley\nHarvard sustainability\nUVM Voss Postdoctoral Fellows\n\nothers…\n\n\nPolicy\n\nAAAS Science-Policy Fellowship\nKnauss Marine Policy Fellowship\n\nhttps://asntech.github.io/postdoc-funding-schemes/",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Some notes for a Ph.D.</span>"
+    ]
+  },
+  {
+    "objectID": "phd_guide.html#training-suggestions",
+    "href": "phd_guide.html#training-suggestions",
+    "title": "5  Some notes for a Ph.D.",
+    "section": "5.10 Training suggestions",
+    "text": "5.10 Training suggestions\n\nLeadership\n\nUSFWS National Conservation Training Center\n\nCommunication\n\nCOMPASS\n\nTULIP summer school on interdisciplinary ecology\nSIIECS: early career society of ICES\nMichigan State University Kellogg Biological Station - Jennifer Hoey enjoyed them. Not offered every year? - Part of CIC (Committee on Institutional Cooperation), so Rutgers students get an “in”\nSanta Fe Institute’s Complex Systems Summer School ## Jobs\necoevojobs.net for academic jobs\nhttps://sevenseasmedia.org/ocean-jobs/#s=1\ndata science\n\nInsight Data Science Fellowship\n\nECOLOG-L for ecology\nevoldir for evolution\nICRS SECC job board for coral reef jobs\nOceanography jobs lists from Dalhousie: https://www.phys.ocean.dal.ca/hotlists/jobs.html\nNOAA\n\nAt least some of the NOAA contract jobs are posted at http://www.oceanassoc.com/Jobs/jobslist.html\nRecently filled jobs are listed here: http://www.oceanassoc.com/Jobs/jobslistrecentlyfilled.html\nget to know NOAA colleagues through the Fisheries Cooperative Program at UCSC (FCP)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Some notes for a Ph.D.</span>"
+    ]
+  },
+  {
+    "objectID": "DataBackupPlan.html",
+    "href": "DataBackupPlan.html",
+    "title": "6  Data Backup Plan",
+    "section": "",
+    "text": "6.0.1 v1.0.0",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Backup Plan</span>"
+    ]
+  },
+  {
+    "objectID": "DataBackupPlan.html#projected-backup-schedule",
+    "href": "DataBackupPlan.html#projected-backup-schedule",
+    "title": "6  Data Backup Plan",
+    "section": "6.1 Projected Backup Schedule",
+    "text": "6.1 Projected Backup Schedule\n\n6.1.1 Daily\n\nPersonal upload of current scripts to GitHub\nPersonal upload of working files to GitHub and/or Box\n\nLess than 25MB to GitHub\nGreater than or equal to 25MB to Box in reponame/data_largefiles\n\nPersonal update the README files\n\n\n\n6.1.2 Monthly\n\nIn the “Backups” dir on Box, create a new dir with the date of the scheduled backup\nDownload and upload to aforementioned dir\n\nLab Google Drive\nLab Website\nLab GitHub repos with new commits within the past month\n\nDownload the dir to the RAID\n\n\n\n6.1.3 Biannually\n\nDownload all repos from the lab group GitHub\n\nStore in Backups/GitHub dir on Box\n\nTalk with lab members about temporary files or intermediate files on cluster\nDo any files on the cluster need to be backed up?\nCan any files be deleted to ensure there is sufficient storage space?\n\n\n\n6.1.4 Yearly\n\nClean up backups\nRemove unwanted backups over a year old",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Backup Plan</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html",
+    "href": "offboarding.html",
+    "title": "7  Offboarding",
+    "section": "",
+    "text": "7.1 General project documentation\nWith thanks to the Bahlai lab for the model and inspiration.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#general-project-documentation",
+    "href": "offboarding.html#general-project-documentation",
+    "title": "7  Offboarding",
+    "section": "",
+    "text": "Make sure each of your projects complies with our Data Management Plan",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#data-questions-to-consider",
+    "href": "offboarding.html#data-questions-to-consider",
+    "title": "7  Offboarding",
+    "section": "7.2 Data questions to consider",
+    "text": "7.2 Data questions to consider\n\nHas the Data Management Policy been taken into consideration?\nIs all data backed up in locations accessible to the lab?\nIs all metadata accessible?\nAre all scripts well documented?",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#other",
+    "href": "offboarding.html#other",
+    "title": "7  Offboarding",
+    "section": "7.3 Other",
+    "text": "7.3 Other\n\nTurn in keys\nTurn in computer or other equipment\nReturn books",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#exit-interview",
+    "href": "offboarding.html#exit-interview",
+    "title": "7  Offboarding",
+    "section": "7.4 Exit interview",
+    "text": "7.4 Exit interview\nSet up a time to talk with your mentor about: 1. What was the best part of being here? 1. What did you learn while you were here? 1. Did you get the support you needed, or could we have been better at it? 1. What can we improve for mentoring someone in your position in the future?",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#write-up-for-undergrads",
+    "href": "offboarding.html#write-up-for-undergrads",
+    "title": "7  Offboarding",
+    "section": "7.5 Write-up (for undergrads)",
+    "text": "7.5 Write-up (for undergrads)\nWrite up a summary of your work with the following components: 1. Goals of the project 1. Methods * detailed enough that someone could replicate your work * explain any decisions you made and why * link to and describe the input data for the project * link to the project outputs * include descriptions of metadata, any column headers in data sheets 1. Summary of findings 1. Potential next steps (could be a starting point for you at a later point or someone else) The write-up can be a markdown document within your repository or a Google Doc. If you use a Google Doc, please link to it from the README within the repository, make sure the settings are such that anyone with the link can access it, and upload a saved pdf version to the repository.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  }
+]

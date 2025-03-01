@@ -1,3 +1,6 @@
+execute:
+  freeze: auto
+
 project: 
   type: book
   output-dir: _book
@@ -19,7 +22,7 @@ book:
 
   chapters: 
     - index.qmd
-    - working_agreement.md
+    - working_agreement.qmd
     - onboarding.qmd
     - data-management.qmd
     - phd_guide.qmd

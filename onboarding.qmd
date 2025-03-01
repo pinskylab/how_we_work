@@ -11,7 +11,7 @@ To Do List
 ----------
 
 1.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
-2.  If you're a PhD student, check out Malin's [Notes on a PhD Degree](phd_guide.md) (also has some useful postdoc-related resources)
+2.  If you're a PhD student, check out Malin's [Notes on a PhD Degree](phd_guide.qmd) (also has some useful postdoc-related resources)
 1.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
 1.  Make a [GitHub](https://github.com/) account if you don't have one already.
 1.  Ask Roy to help you join our Google Spaces (General, Science Communication, DEIB, Climate Biogeography, Genomics, Random, Lab Meeting, Santa Cruz, Computing & Data, Conferences, Lab Website, Lab Space, and Help Coding) for messaging (a Slack equivalent), our shared google calendar, our [Github Organization](https://github.com/pinskylab), and the [GCRG mailing list (pinsky-lab@googlegroups.com)](https://groups.google.com/forum/#!forum/pinsky-lab) (talk to Roy Roberts).
