@@ -1,0 +1,27 @@
+---
+title: "Chemicals in the Lab"
+format: html
+editor: visual
+---
+Welcome!
+==========
+  This page has information regarding chemicals that can be found within the Pinsky Lab.
+
+A.1 Chemical Recipes
+----------
+  Everything you should need will be found in the 
+[Chemical Recipe Google Doc](https://docs.google.com/document/d/1icJzzbUOlbbLN221T4c9fG3M7Rr6MUjOG8mMEJoAjzA/edit?usp=sharing)
+
+A.2 Recycling Silica Beads
+----------
+1. One bag at a time pour beads into strainer
+2. Pick through with forceps and remove anything that isn’t silica gel and silica with residue
+3. Slowly transfer beads from strainer to baking pan or box, still working on that, and while pouring scan for missed debris
+4. Take care not to over fill pan
+5. After filling, place a paper towel over the beads and move the pan to the drying oven set at 75 C. Let dry overnight.
+6. Based on testing 75 C for a longer period of time is fine. All the beads go back to the nice orange color
+7. Remove the tray of beads from the drying oven and place into the “Used Not Sterilized” bead container. If left out they will start to collect moisture immediately
+8. When ready to make sampling kits weigh out 40 g of beads and place into a ziploc bag. 
+9. Do not put hot beads in ziploc bags they will melt straight through it
+10. Perform UV sterilization for each bag making sure that beads are not overlapping
+---
