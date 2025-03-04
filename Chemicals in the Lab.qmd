@@ -7,12 +7,24 @@ Welcome!
 ==========
   This page has information regarding chemicals that can be found within the Pinsky Lab.
 
-A.1 Chemical Recipes
+A.1 Chemical Safety
+----------
+[Chemical Spill information](https://ehs.ucsc.edu/programs/research-safety/lab-emergency-guidelines.html#chemical)
+
+[Personal Injury Response with Chemical Spills](https://ehs.ucsc.edu/programs/research-safety/lab-emergency-guidelines.html#personal-injury)
+
+[Injury Response and Management](https://ehs.ucsc.edu/lab-safety-manual/exp-acc-emerg.html#Injury)
+
+If an accident or near-miss happens, please report it using the [UCSC EH&S Incident Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSfZj7xQVDT_UArCsGQHkMi30q2qj3MLUE1-1e9TjvmWKavJ0g/viewform)
+
+As per CalOSHA regulations, we have [Safety Data Sheets](https://ehs.ucop.edu/sds/#/) readily available
+
+A.2 Chemical Recipes
 ----------
   Everything you should need will be found in the 
 [Chemical Recipe Google Doc](https://docs.google.com/document/d/1icJzzbUOlbbLN221T4c9fG3M7Rr6MUjOG8mMEJoAjzA/edit?usp=sharing)
 
-A.2 Recycling Silica Beads
+A.3 Recycling Silica Beads
 ----------
 1. One bag at a time pour beads into strainer
 2. Pick through with forceps and remove anything that isn’t silica gel and silica with residue
@@ -24,4 +36,4 @@ A.2 Recycling Silica Beads
 8. When ready to make sampling kits weigh out 40 g of beads and place into a ziploc bag. 
 9. Do not put hot beads in ziploc bags they will melt straight through it
 10. Perform UV sterilization for each bag making sure that beads are not overlapping
----
+----------
