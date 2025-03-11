@@ -224,14 +224,166 @@ ul.task-list li input[type="checkbox"] {
 <section id="computing-resources" class="level2" data-number="3.2">
 <h2 data-number="3.2" class="anchored" data-anchor-id="computing-resources"><span class="header-section-number">3.2</span> Computing Resources</h2>
 <p>There are several computing resources available to serve your research computing needs.</p>
-<p><strong>Rutgers</strong> | owner | name | partition name | number of cores | memory | |——————————|————-|—————-|—————–|——–| | SEBS | annotate2 | - | 112 + 8200 GPU | 1T | | SEBS | annotate-win| - | 18 | 500G | | OARC-Pinsky node 1 (hal0181) | amarel | p_mlp195 | 40 | 192G | | OARC-Pinsky node 2 (hal0186) | amarel | p_mlp195 | 40 | 192G | | OARC-Ecology node 1 (hal0280)| amarel | p_deenr_1 | 64 | 256G | | OARC-Ecology node 2 (hal0281)| amarel | p_deenr_1 | 64 | 256G | | OARC-EOAS node (hal0170) | amarel | p_eoas_1 | 40 | 192G | | OARC | amarel | main | ~19,000 | ? | | RDII | caliburn | - | 256 | 768G |</p>
-<p><strong>UCSC</strong> | owner | name | partition name | number of cores | memory | |——————————|————-|—————-|—————–|——–| | PBSci | <a href="https://hummingbird.ucsc.edu/">Hummingbird</a> | - | 24-64/node | up to 256GB/node | | Astrophysics | Lux | - | many | less | | PBSci | Bishop [archived data] | GlobalChange-bio/ [10TB]| NA | NA |</p>
+<p><strong>Rutgers</strong></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 35%">
+<col style="width: 15%">
+<col style="width: 19%">
+<col style="width: 20%">
+<col style="width: 9%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>owner</th>
+<th>name</th>
+<th>partition name</th>
+<th>number of cores</th>
+<th>memory</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>SEBS</td>
+<td>annotate2</td>
+<td>-</td>
+<td>112 + 8200 GPU</td>
+<td>1T</td>
+</tr>
+<tr class="even">
+<td>SEBS</td>
+<td>annotate-win</td>
+<td>-</td>
+<td>18</td>
+<td>500G</td>
+</tr>
+<tr class="odd">
+<td>OARC-Pinsky node 1 (hal0181)</td>
+<td>amarel</td>
+<td>p_mlp195</td>
+<td>40</td>
+<td>192G</td>
+</tr>
+<tr class="even">
+<td>OARC-Pinsky node 2 (hal0186)</td>
+<td>amarel</td>
+<td>p_mlp195</td>
+<td>40</td>
+<td>192G</td>
+</tr>
+<tr class="odd">
+<td>OARC-Ecology node 1 (hal0280)</td>
+<td>amarel</td>
+<td>p_deenr_1</td>
+<td>64</td>
+<td>256G</td>
+</tr>
+<tr class="even">
+<td>OARC-Ecology node 2 (hal0281)</td>
+<td>amarel</td>
+<td>p_deenr_1</td>
+<td>64</td>
+<td>256G</td>
+</tr>
+<tr class="odd">
+<td>OARC-EOAS node (hal0170)</td>
+<td>amarel</td>
+<td>p_eoas_1</td>
+<td>40</td>
+<td>192G</td>
+</tr>
+<tr class="even">
+<td>OARC</td>
+<td>amarel</td>
+<td>main</td>
+<td>~19,000</td>
+<td>?</td>
+</tr>
+<tr class="odd">
+<td>RDII</td>
+<td>caliburn</td>
+<td>-</td>
+<td>256</td>
+<td>768G</td>
+</tr>
+</tbody>
+</table>
+<p><strong>UCSC</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>owner</th>
+<th>name</th>
+<th>partition name</th>
+<th>number of cores</th>
+<th>memory</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>PBSci</td>
+<td><a href="https://hummingbird.ucsc.edu/">Hummingbird</a></td>
+<td>-</td>
+<td>24-64/node</td>
+<td>up to 256GB/node</td>
+</tr>
+<tr class="even">
+<td>Astrophysics</td>
+<td>Lux</td>
+<td>-</td>
+<td>many</td>
+<td>less</td>
+</tr>
+<tr class="odd">
+<td>PBSci</td>
+<td>Bishop [archived data]</td>
+<td>GlobalChange-bio/ [10TB]</td>
+<td>NA</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
 <p><em>Various lab members have differing levels of experience with each of these servers and can help you figure out what is best for your analysis.</em> <strong>Amarel</strong> is a condo system. You only have to wait in line with other GCRG folks for the Pinsky node, you have to wait in line with other Ecology folks for the DEENR node, you have to wait in line with all of Rutgers folks for the other nodes.</p>
 </section>
 <section id="university-affiliated-listservs" class="level2" data-number="3.3">
 <h2 data-number="3.3" class="anchored" data-anchor-id="university-affiliated-listservs"><span class="header-section-number">3.3</span> University Affiliated Listservs</h2>
-<p><strong>UCSC</strong> | Name | Listserv email | Contact Name| Contact email |<br>
-|——————————-|———————————–|————-|—————————-| | Global Change Research Group | pinsky-lab@googlegroups.com | Ryan Snow | | | Inst. for Marine Science | allmarsci@ucsc.edu | | | | EEB general announcements | eebmemo@ucsc.edu | Eve Chudnow | echudnow@ucsc.edu | | <a href="https://fisheries.ucsc.edu/">Fisheries Collaborative Program</a> | fcp-group@ucsc.edu | Liane Bauer | lybauer@ucsc.edu |</p>
+<p><strong>UCSC</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Name</th>
+<th>Listserv email</th>
+<th>Contact Name</th>
+<th>Contact email</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Global Change Research Group</td>
+<td>pinsky-lab@googlegroups.com</td>
+<td>Ryan Snow</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Inst. for Marine Science</td>
+<td>allmarsci@ucsc.edu</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>EEB general announcements</td>
+<td>eebmemo@ucsc.edu</td>
+<td>Eve Chudnow</td>
+<td>echudnow@ucsc.edu</td>
+</tr>
+<tr class="even">
+<td><a href="https://fisheries.ucsc.edu/">Fisheries Collaborative Program</a></td>
+<td>fcp-group@ucsc.edu</td>
+<td>Liane Bauer</td>
+<td>lybauer@ucsc.edu</td>
+</tr>
+</tbody>
+</table>
 <ul>
 <li>Visit <a href="https://mailman.marine.rutgers.edu/mailman/listinfo">here</a> for the full list of Rutgers Marine-related listservs</li>
 <li>Visit <a href="https://email.rutgers.edu/mailman/listinfo/">here</a> for a broad list of Rutgers listservs</li>
@@ -254,6 +406,7 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://www.udacity.com/wiki/ud775/command-line-instructions">Command line tutorial</a> and <a href="https://classroom.udacity.com/courses/ud595/lessons/4597278561/concepts/46968695970923">more help with the command line</a> (Udacity)</li>
 <li>R
 <ol type="1">
+<li><a href="https://rstudio-education.github.io/hopr/starting.html">Installing R and RStudio</a></li>
 <li><a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&amp;url=http%3A%2F%2Fswirlstats.com%2F&amp;usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I">Learn R with swirl</a></li>
 <li><a href="https://r4ds.hadley.nz/">R For Data Science</a> (a very useful introduction to R)</li>
 </ol></li>
