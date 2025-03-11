@@ -64,7 +64,7 @@
     "href": "onboarding.html#computing-resources",
     "title": "3  Welcome to the Global Change Research Group!",
     "section": "3.2 Computing Resources",
-    "text": "3.2 Computing Resources\nThere are several computing resources available to serve your research computing needs.\nRutgers | owner | name | partition name | number of cores | memory | |——————————|————-|—————-|—————–|——–| | SEBS | annotate2 | - | 112 + 8200 GPU | 1T | | SEBS | annotate-win| - | 18 | 500G | | OARC-Pinsky node 1 (hal0181) | amarel | p_mlp195 | 40 | 192G | | OARC-Pinsky node 2 (hal0186) | amarel | p_mlp195 | 40 | 192G | | OARC-Ecology node 1 (hal0280)| amarel | p_deenr_1 | 64 | 256G | | OARC-Ecology node 2 (hal0281)| amarel | p_deenr_1 | 64 | 256G | | OARC-EOAS node (hal0170) | amarel | p_eoas_1 | 40 | 192G | | OARC | amarel | main | ~19,000 | ? | | RDII | caliburn | - | 256 | 768G |\nUCSC | owner | name | partition name | number of cores | memory | |——————————|————-|—————-|—————–|——–| | PBSci | Hummingbird | - | 24-64/node | up to 256GB/node | | Astrophysics | Lux | - | many | less | | PBSci | Bishop [archived data] | GlobalChange-bio/ [10TB]| NA | NA |\nVarious lab members have differing levels of experience with each of these servers and can help you figure out what is best for your analysis. Amarel is a condo system. You only have to wait in line with other GCRG folks for the Pinsky node, you have to wait in line with other Ecology folks for the DEENR node, you have to wait in line with all of Rutgers folks for the other nodes.",
+    "text": "3.2 Computing Resources\nThere are several computing resources available to serve your research computing needs.\nRutgers\n\n\n\n\n\n\n\n\n\n\nowner\nname\npartition name\nnumber of cores\nmemory\n\n\n\n\nSEBS\nannotate2\n-\n112 + 8200 GPU\n1T\n\n\nSEBS\nannotate-win\n-\n18\n500G\n\n\nOARC-Pinsky node 1 (hal0181)\namarel\np_mlp195\n40\n192G\n\n\nOARC-Pinsky node 2 (hal0186)\namarel\np_mlp195\n40\n192G\n\n\nOARC-Ecology node 1 (hal0280)\namarel\np_deenr_1\n64\n256G\n\n\nOARC-Ecology node 2 (hal0281)\namarel\np_deenr_1\n64\n256G\n\n\nOARC-EOAS node (hal0170)\namarel\np_eoas_1\n40\n192G\n\n\nOARC\namarel\nmain\n~19,000\n?\n\n\nRDII\ncaliburn\n-\n256\n768G\n\n\n\nUCSC\n\n\n\nowner\nname\npartition name\nnumber of cores\nmemory\n\n\n\n\nPBSci\nHummingbird\n-\n24-64/node\nup to 256GB/node\n\n\nAstrophysics\nLux\n-\nmany\nless\n\n\nPBSci\nBishop [archived data]\nGlobalChange-bio/ [10TB]\nNA\nNA\n\n\n\nVarious lab members have differing levels of experience with each of these servers and can help you figure out what is best for your analysis. Amarel is a condo system. You only have to wait in line with other GCRG folks for the Pinsky node, you have to wait in line with other Ecology folks for the DEENR node, you have to wait in line with all of Rutgers folks for the other nodes.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Welcome to the Global Change Research Group!</span>"
     ]
@@ -74,7 +74,7 @@
     "href": "onboarding.html#university-affiliated-listservs",
     "title": "3  Welcome to the Global Change Research Group!",
     "section": "3.3 University Affiliated Listservs",
-    "text": "3.3 University Affiliated Listservs\nUCSC | Name | Listserv email | Contact Name| Contact email |\n|——————————-|———————————–|————-|—————————-| | Global Change Research Group | pinsky-lab@googlegroups.com | Ryan Snow | | | Inst. for Marine Science | allmarsci@ucsc.edu | | | | EEB general announcements | eebmemo@ucsc.edu | Eve Chudnow | echudnow@ucsc.edu | | Fisheries Collaborative Program | fcp-group@ucsc.edu | Liane Bauer | lybauer@ucsc.edu |\n\nVisit here for the full list of Rutgers Marine-related listservs\nVisit here for a broad list of Rutgers listservs",
+    "text": "3.3 University Affiliated Listservs\nUCSC\n\n\n\nName\nListserv email\nContact Name\nContact email\n\n\n\n\nGlobal Change Research Group\npinsky-lab@googlegroups.com\nRyan Snow\n\n\n\nInst. for Marine Science\nallmarsci@ucsc.edu\n\n\n\n\nEEB general announcements\neebmemo@ucsc.edu\nEve Chudnow\nechudnow@ucsc.edu\n\n\nFisheries Collaborative Program\nfcp-group@ucsc.edu\nLiane Bauer\nlybauer@ucsc.edu\n\n\n\n\nVisit here for the full list of Rutgers Marine-related listservs\nVisit here for a broad list of Rutgers listservs",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Welcome to the Global Change Research Group!</span>"
     ]
@@ -135,6 +135,16 @@
     "title": "4  GCRG Lab Data Management Plan",
     "section": "4.4 Backups",
     "text": "4.4 Backups\nWe store our raw data and scripts in at least two locations.\n\nMost of our work is on Github or Google Drive. Both are backed up monthly to Box and to an external harddrive by a designated lab member.\nRaw data files too large for Github and Drive are stored on the scientific workstation on which they are being manipulated or posted on Figshare, then manually copied to Box by the researcher (use a directory with the same name as the parent Git repo and subdirectory named data_largefiles/). They are backed up from Box monthly to an external harddrive by a designated lab member.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+    ]
+  },
+  {
+    "objectID": "data-management.html#hummingbird",
+    "href": "data-management.html#hummingbird",
+    "title": "4  GCRG Lab Data Management Plan",
+    "section": "4.5 Hummingbird",
+    "text": "4.5 Hummingbird\n\n4.5.1 Accessing Humminbird\n\nYour Hummingbird information is your CruzID and your Gold password\n\nssh CRUZID@hb.ucsc.edu\n\nother stuff",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
     ]
@@ -327,16 +337,6 @@
     "text": "7.5 Write-up (for undergrads)\nWrite up a summary of your work with the following components: 1. Goals of the project 1. Methods * detailed enough that someone could replicate your work * explain any decisions you made and why * link to and describe the input data for the project * link to the project outputs * include descriptions of metadata, any column headers in data sheets 1. Summary of findings 1. Potential next steps (could be a starting point for you at a later point or someone else) The write-up can be a markdown document within your repository or a Google Doc. If you use a Google Doc, please link to it from the README within the repository, make sure the settings are such that anyone with the link can access it, and upload a saved pdf version to the repository.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
-    ]
-  },
-  {
-    "objectID": "data-management.html#hummingbird",
-    "href": "data-management.html#hummingbird",
-    "title": "4  GCRG Lab Data Management Plan",
-    "section": "4.5 Hummingbird",
-    "text": "4.5 Hummingbird\n\n4.5.1 Accessing Humminbird\n\nYour Hummingbird information is your CruzID and your Gold password\n\nssh CRUZID@hb.ucsc.edu\n\nother stuff",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
     ]
   }
 ]

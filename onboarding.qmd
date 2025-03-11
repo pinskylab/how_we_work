@@ -34,6 +34,7 @@ Computing Resources
 There are several computing resources available to serve your research computing needs.
 
 **Rutgers**
+
 | owner                        | name        | partition name | number of cores | memory |
 |------------------------------|-------------|----------------|-----------------|--------|
 | SEBS                         | annotate2   | -              | 112 + 8200 GPU  | 1T   |
@@ -46,7 +47,9 @@ There are several computing resources available to serve your research computing
 | OARC                         | amarel      | main           | ~19,000         | ?      |
 | RDII                         | caliburn    | -              | 256             | 768G   |
 
+
 **UCSC**
+
 | owner                        | name        | partition name | number of cores | memory |
 |------------------------------|-------------|----------------|-----------------|--------|
 | PBSci                         | [Hummingbird](https://hummingbird.ucsc.edu/)    | -              | 24-64/node              | up to 256GB/node   |
@@ -59,6 +62,7 @@ There are several computing resources available to serve your research computing
 University Affiliated Listservs 
 -------------------------------
 **UCSC**
+
 | Name                          | Listserv email                    | Contact Name| Contact email              |       
 |-------------------------------|-----------------------------------|-------------|----------------------------|
 | Global Change Research Group  | pinsky-lab@googlegroups.com       | Ryan Snow  |   |
@@ -82,6 +86,7 @@ Guides and tutorials
     - Our internal guide to career exploration through informational interviews [here](https://docs.google.com/document/d/1a9fugAIbOm7FOpVz20j6yqjanqHpD-qDq6aK99iUGzQ/edit?usp=sharing)
 1.  [Command line tutorial](https://www.udacity.com/wiki/ud775/command-line-instructions) and [more help with the command line](https://classroom.udacity.com/courses/ud595/lessons/4597278561/concepts/46968695970923) (Udacity)
 1. R
+    1. [Installing R and RStudio](https://rstudio-education.github.io/hopr/starting.html)
     1. [Learn R with swirl](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&url=http%3A%2F%2Fswirlstats.com%2F&usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I)
     1. [R For Data Science](https://r4ds.hadley.nz/) (a very useful introduction to R)
 1.  Git and GitHub
