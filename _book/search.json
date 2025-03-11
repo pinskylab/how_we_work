@@ -328,5 +328,15 @@
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
     ]
+  },
+  {
+    "objectID": "data-management.html#hummingbird",
+    "href": "data-management.html#hummingbird",
+    "title": "4  GCRG Lab Data Management Plan",
+    "section": "4.5 Hummingbird",
+    "text": "4.5 Hummingbird\n\n4.5.1 Accessing Humminbird\n\nYour Hummingbird information is your CruzID and your Gold password\n\nssh CRUZID@hb.ucsc.edu\n\nother stuff",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+    ]
   }
 ]

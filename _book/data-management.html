@@ -21,6 +21,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -166,6 +200,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#data" id="toc-data" class="nav-link" data-scroll-target="#data"><span class="header-section-number">4.2</span> Data</a></li>
   <li><a href="#code" id="toc-code" class="nav-link" data-scroll-target="#code"><span class="header-section-number">4.3</span> Code</a></li>
   <li><a href="#backups" id="toc-backups" class="nav-link" data-scroll-target="#backups"><span class="header-section-number">4.4</span> Backups</a></li>
+  <li><a href="#hummingbird" id="toc-hummingbird" class="nav-link" data-scroll-target="#hummingbird"><span class="header-section-number">4.5</span> Hummingbird</a>
+  <ul class="collapse">
+  <li><a href="#accessing-humminbird" id="toc-accessing-humminbird" class="nav-link" data-scroll-target="#accessing-humminbird"><span class="header-section-number">4.5.1</span> Accessing Humminbird</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/pinskylab/how_we_work/ Change this when we have a name/edit/main/data-management.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/pinskylab/how_we_work/ Change this when we have a name/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -268,8 +306,21 @@ ul.task-list li input[type="checkbox"] {
 <li>Most of our work is on Github or Google Drive. Both are backed up monthly to Box and to an external harddrive by a designated lab member.</li>
 <li>Raw data files too large for Github and Drive are stored on the scientific workstation on which they are being manipulated or posted on Figshare, then manually copied to Box by the researcher (use a directory with the same name as the parent Git repo and subdirectory named data_largefiles/). They are backed up from Box monthly to an external harddrive by a designated lab member.</li>
 </ol>
+</section>
+<section id="hummingbird" class="level2" data-number="4.5">
+<h2 data-number="4.5" class="anchored" data-anchor-id="hummingbird"><span class="header-section-number">4.5</span> Hummingbird</h2>
+<section id="accessing-humminbird" class="level3" data-number="4.5.1">
+<h3 data-number="4.5.1" class="anchored" data-anchor-id="accessing-humminbird"><span class="header-section-number">4.5.1</span> Accessing Humminbird</h3>
+<ol type="1">
+<li>Your Hummingbird information is your CruzID and your Gold password</li>
+</ol>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ssh</span> CRUZID@hb.ucsc.edu</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<ol type="1">
+<li>other stuff</li>
+</ol>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
