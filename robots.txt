@@ -1,1 +1,1 @@
-Sitemap: https://pinskylab.github.io/how_we_work/ Change this when we have a name/sitemap.xml
+Sitemap: https://pinskylab.github.io/how_we_work/sitemap.xml
