@@ -4,7 +4,7 @@ project:
   
 book:
   title: "Global Change Research Group How We Work"
-  author: ""
+  author: "Roy Roberts"
   date: last-modified 
   description: "This is the lab manual for the Global Change Research Group at the University of California Santa Cruz" 
   
@@ -13,8 +13,8 @@ book:
       <a href="https://globalchange.sites.ucsc.edu/">Global Change Research Group</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  site-url: https://pinskylab.github.io/how_we_work/ Change this when we have a name  
-  repo-url: https://github.com/pinskylab/how_we_work/ Change this when we have a name
+  site-url: https://pinskylab.github.io/how_we_work/
+  repo-url: https://github.com/pinskylab/how_we_work/
   repo-actions: [edit,issue]
 
   chapters: 
