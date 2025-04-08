@@ -1,5 +1,6 @@
-Welcome to the Global Change Research Group!
+Onboarding
 ================
+Welcome to the Global Change Research Group!
 
 -   [To Do List](#to-do-list)
 -   [Computing Resources](#computing-resources)
