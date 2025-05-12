@@ -93,6 +93,9 @@ Guides and tutorials
 1.  Git and GitHub
     1.  [Udacity Git and GitHub tutorial](https://classroom.udacity.com/courses/ud775)
     2.  [Happy Git with R tutorial](https://happygitwithr.com) (outside tutorial)
+    3. Ted Laderas and Chris Lo [course on git/GitHub](https://hutchdatascience.org/intro_git/#/title-slide)
+    4. OpenScapes [GitHub Illustrated series](https://openscapes.org/blog/2022-05-27-github-illustrated-series/)
+    5. Software Carpentries [git introduction](https://swcarpentry.github.io/git-novice/aio.html)
 1. Field work
     - National Association of Marine Laboratories [Best Practices in Field Safety and Accessibility](https://www.naml.org/resources/reports/Best%20Practices%20in%20Field%20Trip%20Safety%20and%20Accessibility.pdf)
     - [Safe fieldwork strategies for at-risk individuals, their supervisors and institutions](https://doi.org/10.1038/s41559-020-01328-5)
