@@ -21,6 +21,9 @@ jobs:
       
       # add software dependencies here
 
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
+  
       - name: Publish to GitHub Pages (and render)
         uses: quarto-dev/quarto-actions/publish@v2
         with:
