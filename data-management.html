@@ -77,7 +77,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8794f1bb68ce0c274a62f8ee4781bd8a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e2583f664a58758a6ea081c07fb0995b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -285,7 +285,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </ul></li>
 </ul></li>
 <li>If data from an external or public source is being used, it is stored in a data_dl/ directory (not tracked by Git). We clearly and unambiguously describe the data source in the data_dl/README.md file by providing links, version numbers, descriptions for access/download, or other details to ensure reproducibility. If you’re worried the data won’t be available in the future, follow one of the two previous bullet point approaches.</li>
-<li>Sequencing data is something of a special case. We upload our raw reads to NCBI soon after receiving them, possibly with an embargo, with the accession numbers documented in the relevant README.md. If this is not possible, we keep a copy of the reads on Box in data_largefiles/ in addition to the copy on the scientific workstation where the files are being processed.</li>
+<li>Sequencing data is something of a special case. We upload our raw reads to NCBI soon after receiving them, possibly with an embargo, with the accession numbers documented in the relevant README.md. If this is not possible, we keep a copy of the reads on Bishop in data_largefiles/ in addition to the copy on the scientific workstation where the files are being processed.</li>
 <li>Metadata is stored in the same directory as the raw data, typically in a README.md file that describes the data in each column, units, coordinate reference system (CRS, for GIS data), and other details needed to understand the file</li>
 <li>Processed or cleaned data is stored in a separate directory, e.g., output/ or similar, to differentiate from raw data</li>
 </ol></li>
@@ -305,8 +305,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h2 data-number="4.4" class="anchored" data-anchor-id="backups"><span class="header-section-number">4.4</span> Backups</h2>
 <p>We store our raw data and scripts in at least two locations.</p>
 <ol type="1">
-<li>Most of our work is on Github or Google Drive. Both are backed up monthly to Box and to an external harddrive by a designated lab member.</li>
-<li>Raw data files too large for Github and Drive are stored on the scientific workstation on which they are being manipulated or posted on Figshare, then manually copied to Box by the researcher (use a directory with the same name as the parent Git repo and subdirectory named data_largefiles/). They are backed up from Box monthly to an external harddrive by a designated lab member.</li>
+<li>Most of our work is on Github or Google Drive. Both are backed up monthly to the UCSC PbSci Bishop file server.</li>
+<li>Raw data files too large for Github and Drive are stored on the scientific workstation on which they are being manipulated or posted on Figshare, then manually copied to Bishop by the researcher (use a directory with the same name as the parent Git repo and subdirectory named data_largefiles/).</li>
 </ol>
 </section>
 <section id="hummingbird" class="level2" data-number="4.5">
