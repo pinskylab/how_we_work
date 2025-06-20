@@ -23,7 +23,6 @@ book:
     - onboarding.qmd
     - data-management.qmd
     - phd_guide.qmd
-    - DataBackupPlan.qmd
     - offboarding.qmd
 
 

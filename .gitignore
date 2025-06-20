@@ -4,5 +4,6 @@
 .Ruserdata
 onboarding.Rmd
 offboarding.Rmd
+.DS_Store
 
 /.quarto/
