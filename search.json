@@ -94,17 +94,27 @@
     "href": "data-management.html",
     "title": "4  GCRG Lab Data Management Plan",
     "section": "",
-    "text": "4.1 General project organization\nThe Global Change Research Group strives for an open science policy that makes our science accessible and reproducible and that allows us to collaborate with our future selves and with our colleagues. To assist in achieving that aim, we use the following practices.",
+    "text": "4.1 Key resources\nThe Global Change Research Group strives for an open science policy that makes our science accessible and reproducible and that allows us to collaborate with our future selves and with our colleagues. To assist in achieving that aim, we use the following practices.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
     ]
   },
   {
-    "objectID": "data-management.html#general-project-organization",
-    "href": "data-management.html#general-project-organization",
+    "objectID": "data-management.html#key-resources",
+    "href": "data-management.html#key-resources",
     "title": "4  GCRG Lab Data Management Plan",
     "section": "",
-    "text": "Lab notebooks are maintained each day; tracking progress, daily learnings, what was accomplished, and/or what goal was worked towards. These can be physical notebooks, text files, Evernote, Jupyter notebooks, etc.\n\nLab notebooks are digitally backed up, regardless of initial format\n\nEach new project gets a GitHub repository in the pinskylab organization\n\nThis practice facilitates collaboration, sharing, and maintenance of institutional knowledge\nRepos can be public or private\nA CITATION.cff clarifies how to cite the repo. We apply authorship criteria similarly as for papers (e.g., first author is the lead).\n\nData processing is accomplished through the use of scripts, not manual manipulation\n\nThis helps to verify the reproducibility of our methods\n\nA README.md in each directory (including the top directory)\n\nexplains the purpose of each file and sub-directory\nincludes links to relevant papers and preprints\nhas contact information for authors and data creators, as necessary\ndefines data columns, including units, of any data files and basic methods used for data collection\nhas version numbers of any software or packages needed for running codes or scripts\n\nIf the repo is included in a publication, we also archive it with a DOI on, for example, Zenodo (see here for instructions).\nWe add a license to each git repo, e.g., MIT or CC BY-NC 4.0, to clarify how the material can be reused. See guidance from Creative Commons, Github, and R Packages book.\nWe write collaborative manuscripts in the GCRG Shared Google Drive\nPresentations are typically made in Google Slides in the GCRG Google Drive (Presentations/) allowing lab members easy access to useful graphics\n\nName the file in the format YYYY-MM-DD_presentername_occasion, eg, 2023-01-07_Pinsky_AmNat\n\nBefore matriculation, we ensure all projects, code, data, papers, etc. are uploaded and fully documented",
+    "text": "Lab notebook\nShared Google Drive (Global Change Research Group)\nGitHub repository\nWorking location (laptop, scientific workstation, cluster, etc.)\nBackup location (Bishop, a PbSci storage server that is backed up offsite. This may change to Rufus, a different storage server, in the future.)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+    ]
+  },
+  {
+    "objectID": "data-management.html#project-organization",
+    "href": "data-management.html#project-organization",
+    "title": "4  GCRG Lab Data Management Plan",
+    "section": "4.2 Project organization",
+    "text": "4.2 Project organization\n\nLab notebooks are maintained each day; tracking progress, daily learnings, what was accomplished, and/or what goal was worked towards. These can be physical notebooks, text files, Evernote, Jupyter notebooks, etc.\n\nLab notebooks are digitally backed up, regardless of initial format\n\nEach new project gets a GitHub repository in the pinskylab organization\n\nThis practice facilitates collaboration, sharing, data traceability, and maintenance of institutional knowledge.\nRepos can be public or private\nA CITATION.cff clarifies how to cite the repo. We apply authorship criteria similarly as for papers (e.g., first author is the lead).\n\nData processing is accomplished through the use of scripts, not manual manipulation\n\nThis helps to verify the reproducibility of our methods\n\nA README.md in each directory (including the top directory)\n\nexplains the purpose of each file and sub-directory\nincludes links to relevant papers and preprints\nhas contact information for authors and data creators, as necessary\ndefines data columns, including units, of any data files and basic methods used for data collection\nhas version numbers of any software or packages needed for running codes or scripts\n\nIf the repo is included in a publication, we also archive it with a DOI on, for example, Zenodo (see here for instructions).\nWe add a license to each git repo, e.g., MIT or CC BY-NC 4.0, to clarify how the material can be reused. See guidance from Creative Commons, Github, and R Packages book.\nWe write collaborative manuscripts in the GCRG Shared Google Drive\nPresentations are typically made in Google Slides in the GCRG Google Drive (Presentations/) allowing lab members easy access to useful graphics\n\nName the file in the format YYYY-MM-DD_presentername_occasion, eg, 2023-01-07_Pinsky_AmNat\n\nBefore matriculation, we ensure all projects, code, data, papers, etc. are available and fully documented",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
     ]
@@ -113,8 +123,8 @@
     "objectID": "data-management.html#data",
     "href": "data-management.html#data",
     "title": "4  GCRG Lab Data Management Plan",
-    "section": "4.2 Data",
-    "text": "4.2 Data\nData used in support of a project is:\n\nSaved in an appropriate, non-proprietary format with accompanying metadata (e.g., csv rather than Excel)\nRaw data is stored in or linked from the GitHub repository associated with the project\n\nRaw data files under the Github file size limit (&lt;100MB) are stored in a data/ directory\nLarger files are stored in a data_largefiles/ directory (not tracked by Git by using the .gitignore file) in at least two places\n\nwhere the analysis is occurring (e.g., scientific workstation), and\neither one of (we document this arrangement clearly in the relevant data_largefiles/README.md file of the git repo):\n\non the UCSC PbSci Bishop data server in the GCRG directory, in the data_largefiles/ directory, in a subdirectory whose name matches the Git repo name.\non FigShare, linked from the relevant GitHub readme.\n\n\nIf data from an external or public source is being used, it is stored in a data_dl/ directory (not tracked by Git). We clearly and unambiguously describe the data source in the data_dl/README.md file by providing links, version numbers, descriptions for access/download, or other details to ensure reproducibility. If you’re worried the data won’t be available in the future, follow one of the two previous bullet point approaches.\nSequencing data is something of a special case. We upload our raw reads to NCBI soon after receiving them, possibly with an embargo, with the accession numbers documented in the relevant README.md. If this is not possible, we keep a copy of the reads on Bishop in data_largefiles/ in addition to the copy on the scientific workstation where the files are being processed.\nMetadata is stored in the same directory as the raw data, typically in a README.md file that describes the data in each column, units, coordinate reference system (CRS, for GIS data), and other details needed to understand the file\nProcessed or cleaned data is stored in a separate directory, e.g., output/ or similar, to differentiate from raw data",
+    "section": "4.3 Data",
+    "text": "4.3 Data\nData used in support of a project is:\n\nSaved in an appropriate, non-proprietary format with accompanying metadata (e.g., csv rather than Excel)\nRaw data is stored in or linked from the GitHub repository associated with the project\n\nRaw data files under the Github file size limit (&lt;100MB) are stored in a data/ directory\nLarger files are stored in a data_largefiles/ directory (not tracked by Git by using the .gitignore file) in at least two places\n\nwhere the analysis is occurring (e.g., laptop or scientific workstation), and\neither one of (we document this arrangement clearly in the relevant data_largefiles/README.md file of the git repo):\n\non the UCSC PbSci Bishop data server in bio-globalchange/data_largefiles/ in a subdirectory whose name matches the Git repo name.\non FigShare, linked from the relevant GitHub readme.\non NCBI for raw sequencing reads. Upload them soon after receiving, possibly with an embargo, with the accession numbers documented in the relevant README.md.\n\n\nIf data from an external or public source is being used, it is stored in a data_dl/ directory (not tracked by Git). We clearly and unambiguously describe the data source in the data_dl/README.md file by providing links, version numbers, descriptions for access/download, or other details to ensure reproducibility. If you’re worried the data won’t be available in the future, follow one of the two previous bullet point approaches.\nMetadata is stored in the same directory as the raw data, typically in a README.md file that describes the data in each column, units, coordinate reference system (CRS, for GIS data), and other details needed to understand the file\nProcessed or cleaned data is stored in a separate directory, e.g., output/ or similar, to differentiate from raw data",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
     ]
@@ -123,8 +133,8 @@
     "objectID": "data-management.html#code",
     "href": "data-management.html#code",
     "title": "4  GCRG Lab Data Management Plan",
-    "section": "4.3 Code",
-    "text": "4.3 Code\nAll code used or developed in support of the project is:\n\nWell commented and complete\nVersioned in the project’s git repository\nDescribed in the README.md file to explain what each script does, what language was used, what software and package versions were used, etc.\nTested! Can at least one other person (more is better) complete your analysis on a different computer?",
+    "section": "4.4 Code",
+    "text": "4.4 Code\nAll code used or developed in support of the project is:\n\nWell commented and complete\nVersioned in the project’s git repository\nDescribed in the README.md file to explain what each script does, what language was used, what software and package versions were used, etc.\nTested! Can at least one other person (more is better) complete your analysis on a different computer?",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
     ]
@@ -133,8 +143,8 @@
     "objectID": "data-management.html#backups",
     "href": "data-management.html#backups",
     "title": "4  GCRG Lab Data Management Plan",
-    "section": "4.4 Backups",
-    "text": "4.4 Backups\nWe store our raw data and scripts in at least two locations.\n\nMost of our work is on Github or Google Drive. Both are backed up monthly to the UCSC PbSci Bishop file server.\nRaw data files too large for Github and Drive are stored on the scientific workstation on which they are being manipulated or posted on Figshare, then manually copied to Bishop by the researcher (use a directory with the same name as the parent Git repo and subdirectory named data_largefiles/).",
+    "section": "4.5 Backups",
+    "text": "4.5 Backups\nWe store our raw data and scripts in at least two locations.\n\nMost of our work is on Github or Google Drive. Both are backed up monthly to the UCSC PbSci Bishop file server.\nRaw data files too large for Github and Drive are stored in two locations (see Data section above)",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
     ]
@@ -143,8 +153,8 @@
     "objectID": "data-management.html#hummingbird",
     "href": "data-management.html#hummingbird",
     "title": "4  GCRG Lab Data Management Plan",
-    "section": "4.5 Hummingbird",
-    "text": "4.5 Hummingbird\n\n4.5.1 Accessing Humminbird\n\nYour Hummingbird information is your CruzID and your Gold password\n\nssh CRUZID@hb.ucsc.edu\n\nother stuff",
+    "section": "4.6 Hummingbird",
+    "text": "4.6 Hummingbird\n\n4.6.1 Accessing Humminbird\n\nYour Hummingbird information is your CruzID and your Gold password\n\nssh CRUZID@hb.ucsc.edu\n\nother stuff",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
     ]
@@ -260,83 +270,63 @@
     ]
   },
   {
-    "objectID": "DataBackupPlan.html",
-    "href": "DataBackupPlan.html",
-    "title": "6  Data Backup Plan",
-    "section": "",
-    "text": "6.0.1 v1.0.0",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Backup Plan</span>"
-    ]
-  },
-  {
-    "objectID": "DataBackupPlan.html#projected-backup-schedule",
-    "href": "DataBackupPlan.html#projected-backup-schedule",
-    "title": "6  Data Backup Plan",
-    "section": "6.1 Projected Backup Schedule",
-    "text": "6.1 Projected Backup Schedule\n\n6.1.1 Daily\n\nPersonal upload of current scripts to GitHub\nPersonal upload of working files to GitHub and/or Box\n\nLess than 25MB to GitHub\nGreater than or equal to 25MB to Box in reponame/data_largefiles\n\nPersonal update the README files\n\n\n\n6.1.2 Monthly\n\nIn the “Backups” dir on Box, create a new dir with the date of the scheduled backup\nDownload and upload to aforementioned dir\n\nLab Google Drive\nLab Website\nLab GitHub repos with new commits within the past month\n\nDownload the dir to the RAID\n\n\n\n6.1.3 Biannually\n\nDownload all repos from the lab group GitHub\n\nStore in Backups/GitHub dir on Box\n\nTalk with lab members about temporary files or intermediate files on cluster\nDo any files on the cluster need to be backed up?\nCan any files be deleted to ensure there is sufficient storage space?\n\n\n\n6.1.4 Yearly\n\nClean up backups\nRemove unwanted backups over a year old",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Backup Plan</span>"
-    ]
-  },
-  {
     "objectID": "offboarding.html",
     "href": "offboarding.html",
-    "title": "7  Offboarding",
+    "title": "6  Offboarding",
     "section": "",
-    "text": "7.1 General project documentation\nWith thanks to the Bahlai lab for the model and inspiration.",
+    "text": "6.1 General project documentation\nWith thanks to the Bahlai lab for the model and inspiration.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Offboarding</span>"
     ]
   },
   {
     "objectID": "offboarding.html#general-project-documentation",
     "href": "offboarding.html#general-project-documentation",
-    "title": "7  Offboarding",
+    "title": "6  Offboarding",
     "section": "",
     "text": "Make sure each of your projects complies with our Data Management Plan",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Offboarding</span>"
     ]
   },
   {
     "objectID": "offboarding.html#data-questions-to-consider",
     "href": "offboarding.html#data-questions-to-consider",
-    "title": "7  Offboarding",
-    "section": "7.2 Data questions to consider",
-    "text": "7.2 Data questions to consider\n\nHas the Data Management Policy been taken into consideration?\nIs all data backed up in locations accessible to the lab?\nIs all metadata accessible?\nAre all scripts well documented?",
+    "title": "6  Offboarding",
+    "section": "6.2 Data questions to consider",
+    "text": "6.2 Data questions to consider\n\nHas the Data Management Policy been taken into consideration?\nIs all data backed up in locations accessible to the lab?\nIs all metadata accessible?\nAre all scripts well documented?",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Offboarding</span>"
     ]
   },
   {
     "objectID": "offboarding.html#other",
     "href": "offboarding.html#other",
-    "title": "7  Offboarding",
-    "section": "7.3 Other",
-    "text": "7.3 Other\n\nTurn in keys\nTurn in computer or other equipment\nReturn books",
+    "title": "6  Offboarding",
+    "section": "6.3 Other",
+    "text": "6.3 Other\n\nTurn in keys\nTurn in computer or other equipment\nReturn books",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Offboarding</span>"
     ]
   },
   {
     "objectID": "offboarding.html#exit-interview",
     "href": "offboarding.html#exit-interview",
-    "title": "7  Offboarding",
-    "section": "7.4 Exit interview",
-    "text": "7.4 Exit interview\nSet up a time to talk with your mentor about: 1. What was the best part of being here? 1. What did you learn while you were here? 1. Did you get the support you needed, or could we have been better at it? 1. What can we improve for mentoring someone in your position in the future?",
+    "title": "6  Offboarding",
+    "section": "6.4 Exit interview",
+    "text": "6.4 Exit interview\nSet up a time to talk with your mentor about: 1. What was the best part of being here? 1. What did you learn while you were here? 1. Did you get the support you needed, or could we have been better at it? 1. What can we improve for mentoring someone in your position in the future?",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Offboarding</span>"
     ]
   },
   {
     "objectID": "offboarding.html#write-up-for-undergrads",
     "href": "offboarding.html#write-up-for-undergrads",
-    "title": "7  Offboarding",
-    "section": "7.5 Write-up (for undergrads)",
-    "text": "7.5 Write-up (for undergrads)\nWrite up a summary of your work with the following components: 1. Goals of the project 1. Methods * detailed enough that someone could replicate your work * explain any decisions you made and why * link to and describe the input data for the project * link to the project outputs * include descriptions of metadata, any column headers in data sheets 1. Summary of findings 1. Potential next steps (could be a starting point for you at a later point or someone else) The write-up can be a markdown document within your repository or a Google Doc. If you use a Google Doc, please link to it from the README within the repository, make sure the settings are such that anyone with the link can access it, and upload a saved pdf version to the repository.",
+    "title": "6  Offboarding",
+    "section": "6.5 Write-up (for undergrads)",
+    "text": "6.5 Write-up (for undergrads)\nWrite up a summary of your work with the following components: 1. Goals of the project 1. Methods * detailed enough that someone could replicate your work * explain any decisions you made and why * link to and describe the input data for the project * link to the project outputs * include descriptions of metadata, any column headers in data sheets 1. Summary of findings 1. Potential next steps (could be a starting point for you at a later point or someone else) The write-up can be a markdown document within your repository or a Google Doc. If you use a Google Doc, please link to it from the README within the repository, make sure the settings are such that anyone with the link can access it, and upload a saved pdf version to the repository.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Offboarding</span>"
     ]
   }
 ]
