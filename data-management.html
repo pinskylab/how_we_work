@@ -77,7 +77,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e2583f664a58758a6ea081c07fb0995b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-af3ad298be5a81e4a4a066dddf5fb8ff.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -285,10 +285,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>where the analysis is occurring (e.g., laptop or scientific workstation), and</li>
 <li>either one of (we document this arrangement clearly in the relevant data_largefiles/README.md file of the git repo):
 <ul>
-<li>on the UCSC PbSci Bishop data server in bio-globalchange/data_largefiles/ in a subdirectory whose name matches the Git repo name.</li>
 <li>on <a href="https://figshare.com/">FigShare</a>, linked from the relevant GitHub readme.</li>
 <li>on NCBI for raw sequencing reads. Upload them soon after receiving, possibly with an embargo, with the accession numbers documented in the relevant README.md.</li>
+<li>another public data repository, with a link pointing to the data from the git readme.</li>
 </ul></li>
+<li>if FigShare, NCBI, or other public data repositories are not appropriate, we can use the UCSC PbSci Bishop data server. Data is stored in bio-globalchange/data_largefiles/ in a subdirectory whose name matches the Git repo name.</li>
 </ul></li>
 <li>If data from an external or public source is being used, it is stored in a data_dl/ directory (not tracked by Git). We clearly and unambiguously describe the data source in the data_dl/README.md file by providing links, version numbers, descriptions for access/download, or other details to ensure reproducibility. If you’re worried the data won’t be available in the future, follow one of the two previous bullet point approaches.</li>
 <li>Metadata is stored in the same directory as the raw data, typically in a README.md file that describes the data in each column, units, coordinate reference system (CRS, for GIS data), and other details needed to understand the file</li>
