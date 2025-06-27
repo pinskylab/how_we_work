@@ -43,9 +43,10 @@ Data used in support of a project is:
    1. Larger files are stored in a data_largefiles/ directory (not tracked by Git by using the .gitignore file) in at least two places 
          - where the analysis is occurring (e.g., laptop or scientific workstation), and
          - either one of (we document this arrangement clearly in the relevant data_largefiles/README.md file of the git repo):
-            - on the UCSC PbSci Bishop data server in bio-globalchange/data_largefiles/ in a subdirectory whose name matches the Git repo name.
             - on [FigShare](https://figshare.com/), linked from the relevant GitHub readme.
             - on NCBI for raw sequencing reads. Upload them soon after receiving, possibly with an embargo, with the accession numbers documented in the relevant README.md.
+            - another public data repository, with a link pointing to the data from the git readme.
+        - if FigShare, NCBI, or other public data repositories are not appropriate, we can use the UCSC PbSci Bishop data server. Data is stored in bio-globalchange/data_largefiles/ in a subdirectory whose name matches the Git repo name.
    1. If data from an external or public source is being used, it is stored in a data_dl/ directory (not tracked by Git). We clearly and unambiguously describe the data source in the data_dl/README.md file by providing links, version numbers, descriptions for access/download, or other details to ensure reproducibility. If you're worried the data won't be available in the future, follow one of the two previous bullet point approaches.
    3. Metadata is stored in the same directory as the raw data, typically in a README.md file that describes the data in each column, units, coordinate reference system (CRS, for GIS data), and other details needed to understand the file
    4. Processed or cleaned data is stored in a separate directory, e.g., output/ or similar, to differentiate from raw data
