@@ -81,6 +81,20 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 
 ## Training resources
 -  Academic career development resources through the NCFDD. Activate your account through UCSC [here](https://senate.ucsc.edu/committees/cca-committee-on-career-advising/faculty-career-resources/facultydevelopmentdiversity.html), including resources for graduate students like (https://www.ncfdd.org/dissertation-success-members).
+- Leadership
+	- USFWS National Conservation Training Center
+	- Heemstra, J. 2025. Labwork to Leadership. Harvard University Press.
+	- [Making the Right Moves: A Practical Guide to Scientific Management for Postdocs and New Faculty, Second Edition](https://capd.mit.edu/resources/making-the-right-moves-a-practical-guide-to-scientific-management-for-postdocs-and-new-faculty-second-edition/)
+	- Buckingham and Coffman. 1999. First, Break All the Rules: What the World's Greatest Managers Do Differently. Simon & Schuster.
+
+- Communication
+	- [COMPASS](https://www.compassscicomm.org/)
+- [TULIP](https://www.labex-tulip.fr/internet6_national_labex_tulip-eng/the-labex/training-and-higher-education) summer school on interdisciplinary ecology
+- [SIIECS](https://www.ices.dk/community/groups/Pages/SIIECS.aspx): early career society of ICES
+- Michigan State University Kellogg Biological Station
+		- Jennifer Hoey enjoyed them. Not offered every year?
+		- Part of CIC (Committee on Institutional Cooperation), so Rutgers students get an "in"
+- [Santa Fe Institute's Complex Systems Summer School](https://www.santafe.edu/engage/learn/programs/sfi-complex-systems-summer-school)
 
 ## Course ideas
 - At UCSC
@@ -175,17 +189,17 @@ This is your meeting to use as you want, but I often find it useful to loosely s
    - Paul & Daisy Soros Fellowship for New Americans
 	
 ## Conference ideas
-- American Society of Naturalist (January)
-- Species on the Move
-- International Biogeography Society Meeting
-- Gordon Conference in Marine Global Change (July)
+- American Society of Naturalists (January)
 - Ecological Society of America (August)
 - Evolution (June)
+- Species on the Move (every three years or so)
+- International Biogeography Society Meeting
+- Gordon Conference in Marine Global Change (July)
 - Effects of Climate Change on the World's Oceans (ECCWO) (ICES/PICES): next to be in 2027 or 2028
 - American Genetics Association
 - American Fisheries Society
-- Western Society of Naturalists
-- Benthics
+- Western Society of Naturalists (marine biology, mostly west coast)
+- Benthics (marine biology, mostly east coast)
 - specialized
 	- Western Indian Ocean Marine Science Assoc (WIOMSA)
 	- Asian Pacific Coral Reef Society (APCRS)
@@ -216,17 +230,6 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- Knauss Marine Policy Fellowship
 - https://asntech.github.io/postdoc-funding-schemes/
 
-## Training suggestions
-- Leadership
-	- USFWS National Conservation Training Center
-- Communication
-	- COMPASS
-- [TULIP](https://www.labex-tulip.fr/internet6_national_labex_tulip-eng/the-labex/training-and-higher-education) summer school on interdisciplinary ecology
-- [SIIECS](https://www.ices.dk/community/groups/Pages/SIIECS.aspx): early career society of ICES
-- Michigan State University Kellogg Biological Station
-		- Jennifer Hoey enjoyed them. Not offered every year?
-		- Part of CIC (Committee on Institutional Cooperation), so Rutgers students get an "in"
-- [Santa Fe Institute's Complex Systems Summer School](https://www.santafe.edu/engage/learn/programs/sfi-complex-systems-summer-school)
 ## Jobs
 - [ecoevojobs.net](ecoevojobs.net) for academic jobs
 - https://sevenseasmedia.org/ocean-jobs/#s=1 
