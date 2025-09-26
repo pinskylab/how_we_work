@@ -106,7 +106,7 @@ Guides and tutorials
     - Our [informal guide to getting ready to publish](https://docs.google.com/document/d/15q_Qw06gNehdCAzu22vJ1iVoOiz6w6kt05WYgOSiCjw/edit?usp=sharing), including a focus on publishing in society-owned and non-profit journals
     - [The UCSC Writing Center](https://writingcenter.ucsc.edu/)
     - Schimel, J. 2012. Writing science: how to write papers that get cited and proposals that get funded. Oxford University Press, Oxford
-    - Turbek, S. P., Chock, T. M., Donahue, K., Havrilla, C. A., Oliverio, A. M., Polutchko, S. K., … Vimercati, L. (2016). Scientific Writing Made Easy: A Step-by-Step Guide to Undergraduate Writing in the Biological Sciences. Ecology 101, (October), 417–426. https://doi.org/10.1002/bes2.1258
+    - Turbek, S. P., Chock, T. M., Donahue, K., Havrilla, C. A., Oliverio, A. M., Polutchko, S. K., … Vimercati, L. (2016). Scientific Writing Made Easy: A Step-by-Step Guide to Undergraduate Writing in the Biological Sciences. Ecology 101, (October), 417–426. [doi:10.1002/bes2.1258](https://doi.org/10.1002/bes2.1258)
     - Gopen, G., & Swan, J. (1990). The Science of Scientific Writing. American Scientist.
     - [Lafferty 2021 Writing a scientific paper, step by painful step](https://trophiccascades.forestry.oregonstate.edu/sites/trophic/files/Lafferty_WritingScientificPaper.pdf)
     - [Our Guide to publishing a scientific paper](https://docs.google.com/document/d/13vteuDK5kebjaW6GBUpV5ja0cuZhxStb83vnjjMq-Rg/edit?usp=sharing)
