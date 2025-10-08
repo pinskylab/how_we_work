@@ -31,19 +31,19 @@ My goal is to help you understand and succeed in our discipline as it is now, wh
 	  - What you want to learn from the PhD
     - Where your are tentatively heading
     - First year project?
-    - If you have fears, concerns, questions, or just want to talk, please come find me. If you’re upset with me, please tell me.
+    - If you have fears, concerns, questions, or just want to talk, please come find me. If you’re upset, please tell me.
   - Apply to fellowships (fall)
   - First year talk (lab meeting or other venue)
-  - Start and perhaps finish a first year project that is publishable (begin and perhaps finish writing)
-  - Attend a conference, present a poster or tal
+  - Start and perhaps finish a first year project that is publishable
   - Comprehensive exam on the first-year courses
+  - Read widely across the literature
 - Second year
-    - Write draft dissertation proposal by January
-    - First year paper submitted
-    - Attend a conference, present
-    - Write dissertation proposal and defend it, “Qualifying exam"
+    - Finish courses
+    - First year project written up and potentially submitted
+    - Read widely and design a dissertation proposal
+    - Attend a conference, present a talk or poster
 - Third year
-    - If not done, finish dissertation proposal and defend it, “Qualifying exam"
+    - Write dissertation proposal and defend it, “Qualifying exam"
     - Continue research
     - Attend a conference and present 
 - Fourth year
@@ -53,14 +53,14 @@ My goal is to help you understand and succeed in our discipline as it is now, wh
 - Fifth year
     - Finish research
     - Submit remaining papers
-    - Defend dissertation
-        - At least 6 weeks in advance of defense: last draft of dissertation chapter to Malin. Others must already be done.
+    - Attend a conference and present 
+    - Apply for postdoc fellowships (fall) and contact potential mentors, or network and do informational interviews for non-academic opportunities 
+    - Defend dissertation!
+        - At least 6 weeks in advance of defense: last draft of dissertation chapter to Malin. Others already be done.
         - Defense date is tentative until
         	- Full dissertation written
          	- At least 2 chapters submitted for publication
           	- All chapters comply with our [Data Management Plan](https://github.com/pinskylab/how_we_work/blob/master/data-management.md)
-    - Attend a conference and present 
-    - Apply for postdoc fellowships (fall) and contact potential mentors, or network and do informational interviews for non-academic opportunities 
 
 ## 6-Month Check-ins
 At the end of the fall and spring, we take a meeting to step back from the details and think about big picture career trajectories. It’s a good chance to go back the goals you wrote for yourself, think about your progress, and think about whether they’re still the right goals for you. Please start a running document of your goals in our Google Drive (how_we_work/Group_member_goals/, make a copy of the template and add your name to the title) and share it with Malin.
