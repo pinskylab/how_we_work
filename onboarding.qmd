@@ -93,6 +93,8 @@ Guides and tutorials
     1. [Installing R and RStudio](https://rstudio-education.github.io/hopr/starting.html)
     1. [Learn R with swirl](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&url=http%3A%2F%2Fswirlstats.com%2F&usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I)
     1. [R For Data Science](https://r4ds.hadley.nz/) (a very useful introduction to R)
+    1. Max Czapanskiy's [Data Science for Eco/Evo](https://flukeandfeather.github.io/BIOE215fall23/) from Fall 2023
+    1. [Santa Cruz R User Base group (SCRUBs)](https://drive.google.com/drive/folders/0ALYdEjtx2q6CUk9PVA) (need to request permission)
 1.  Git and GitHub
     1.  [Udacity Git and GitHub tutorial](https://classroom.udacity.com/courses/ud775)
     2.  [Happy Git with R tutorial](https://happygitwithr.com) (outside tutorial)
