@@ -218,15 +218,15 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 - David H. Smith
 - Liber Ero
 - Fulbright
-- iDiv fellowships
-- HIFMB (Helmut Hillebrand center in Germany)
-- SESYNC postdocs
+- iDiv, CESAB, and NCEAS fellowships
+- HIFMB, Germany
 - Institutional fellowships
 	- UT Austin integration biology
 	- U Michigan
 	- UC Berkeley
 	- Harvard sustainability
-  - UVM Voss Postdoctoral Fellows
+	- UBC Biodiversity Center
+    - UVM Voss Postdoctoral Fellows
 	- others...
 - Policy
 	- AAAS Science-Policy Fellowship
