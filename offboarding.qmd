@@ -9,10 +9,11 @@ General project documentation
 
 Data questions to consider
 --------------------------
-* Has the [Data Management Policy](https://github.com/pinskylab/how_we_work/blob/master/data-management.md) been taken into consideration?
-* Is all data backed up in locations accessible to the lab?
-* Is all metadata accessible?
-* Are all scripts well documented?
+* Esnure each project follows the [Data Management Policy](https://github.com/pinskylab/how_we_work/blob/master/data-management.md)
+* All data backed up in locations accessible to the lab and documented in associated GitHub repos
+* All metadata complete and accessible from associated GitHub repos
+* All scripts well documented and accessble from associated GitHub repos
+* All other data been deleted from shared servers
 
 Other
 ----
