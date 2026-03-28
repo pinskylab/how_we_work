@@ -294,7 +294,7 @@
     "href": "offboarding.html#data-questions-to-consider",
     "title": "6  Offboarding",
     "section": "6.2 Data questions to consider",
-    "text": "6.2 Data questions to consider\n\nHas the Data Management Policy been taken into consideration?\nIs all data backed up in locations accessible to the lab?\nIs all metadata accessible?\nAre all scripts well documented?",
+    "text": "6.2 Data questions to consider\n\nEsnure each project follows the Data Management Policy\nAll data backed up in locations accessible to the lab and documented in associated GitHub repos\nAll metadata complete and accessible from associated GitHub repos\nAll scripts well documented and accessble from associated GitHub repos\nAll other data been deleted from shared servers",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Offboarding</span>"
     ]
