@@ -8,7 +8,7 @@
 
 <meta name="description" content="This is the lab manual for the Global Change Research Group at the University of California Santa Cruz">
 
-<title>4&nbsp; GCRG Lab Data Management Plan – Global Change Research Group How We Work</title>
+<title>4&nbsp; GCRG Data Management Plan – Global Change Research Group How We Work</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -121,7 +121,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./data-management.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">GCRG Lab Data Management Plan</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./data-management.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">GCRG Data Management Plan</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -170,7 +170,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./data-management.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">GCRG Lab Data Management Plan</span></span></a>
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">GCRG Data Management Plan</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -212,7 +212,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">GCRG Lab Data Management Plan</span></h1>
+<h1 class="title"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">GCRG Data Management Plan</span></h1>
 </div>
 
 
@@ -252,21 +252,26 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>This practice facilitates collaboration, sharing, data traceability, and maintenance of institutional knowledge.</li>
 <li>Repos can be public or private</li>
 <li>A <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files">CITATION.cff</a> clarifies how to cite the repo. We apply authorship criteria similarly as for papers (e.g., first author is the lead).</li>
-</ol></li>
 <li>Data processing is accomplished through the use of scripts, not manual manipulation
 <ol type="1">
 <li>This helps to verify the reproducibility of our methods</li>
 </ol></li>
+<li>Repos have a logical directory format, e.g., scripts, data, data_dl (for data to download from other sources), output, and figures.</li>
+<li>Figures, tables, and key output files (e.g., genotypes, statistical tables, etc.) are included in the repo.</li>
 <li>A README.md in each directory (including the top directory)
 <ol type="1">
 <li>explains the purpose of each file and sub-directory</li>
-<li>includes links to relevant papers and preprints</li>
-<li>has contact information for authors and data creators, as necessary</li>
-<li>defines data columns, including units, of any data files and basic methods used for data collection</li>
-<li>has version numbers of any software or packages needed for running codes or scripts</li>
+<li>describes how to run the scripts, which input files they depend on, and which output files they produce (i.e., a list of step-by-step instructions)</li>
+<li>describes all data files in the directory and includes links to any data files not in the repo along with instructions for how to download and set them up in the repo so that scrips can run</li>
+<li>includes links to relevant papers and preprints (top level only)</li>
+<li>has contact information for authors and data creators, as necessary (top level only)</li>
+<li>defines data columns, including units, of all data files and basic methods used for data collection</li>
+<li>has link for and version numbers of any software or packages needed for running codes or scripts</li>
+<li>describes the compute environment in which the scripts and software were run</li>
 </ol></li>
 <li>If the repo is included in a publication, we also archive it with a DOI on, for example, <a href="https://www.zenodo.org">Zenodo</a> (see <a href="https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md#archiving-a-git-repo-with-zenodo-for-a-publication">here</a> for instructions).</li>
 <li>We add a license to each git repo, e.g., MIT or CC BY-NC 4.0, to clarify how the material can be reused. See guidance from <a href="https://creativecommons.org/share-your-work/cclicenses/">Creative Commons</a>, <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository">Github</a>, and <a href="https://r-pkgs.org/license.html#code-you-write">R Packages book</a>.</li>
+</ol></li>
 <li>We write collaborative manuscripts in the GCRG Shared Google Drive</li>
 <li>Presentations are typically made in Google Slides in the GCRG Google Drive (Presentations/) allowing lab members easy access to useful graphics
 <ol type="1">

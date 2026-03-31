@@ -92,71 +92,71 @@
   {
     "objectID": "data-management.html",
     "href": "data-management.html",
-    "title": "4  GCRG Lab Data Management Plan",
+    "title": "4  GCRG Data Management Plan",
     "section": "",
     "text": "4.1 Key resources\nThe Global Change Research Group strives for an open science policy that makes our science accessible and reproducible and that allows us to collaborate with our future selves and with our colleagues. To assist in achieving that aim, we use the following practices.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Data Management Plan</span>"
     ]
   },
   {
     "objectID": "data-management.html#key-resources",
     "href": "data-management.html#key-resources",
-    "title": "4  GCRG Lab Data Management Plan",
+    "title": "4  GCRG Data Management Plan",
     "section": "",
     "text": "Lab notebook\nShared Google Drive (Global Change Research Group)\nGitHub repository\nWorking location (laptop, scientific workstation, cluster, etc.)\nBackup location (Bishop, a PbSci storage server that is backed up offsite. This may change to Rufus, a different storage server, in the future.)",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Data Management Plan</span>"
     ]
   },
   {
     "objectID": "data-management.html#project-organization",
     "href": "data-management.html#project-organization",
-    "title": "4  GCRG Lab Data Management Plan",
+    "title": "4  GCRG Data Management Plan",
     "section": "4.2 Project organization",
-    "text": "4.2 Project organization\n\nLab notebooks are maintained each day; tracking progress, daily learnings, what was accomplished, and/or what goal was worked towards. These can be physical notebooks, text files, Evernote, Jupyter notebooks, etc.\n\nLab notebooks are digitally backed up, regardless of initial format\n\nEach new project gets a GitHub repository in the pinskylab organization\n\nThis practice facilitates collaboration, sharing, data traceability, and maintenance of institutional knowledge.\nRepos can be public or private\nA CITATION.cff clarifies how to cite the repo. We apply authorship criteria similarly as for papers (e.g., first author is the lead).\n\nData processing is accomplished through the use of scripts, not manual manipulation\n\nThis helps to verify the reproducibility of our methods\n\nA README.md in each directory (including the top directory)\n\nexplains the purpose of each file and sub-directory\nincludes links to relevant papers and preprints\nhas contact information for authors and data creators, as necessary\ndefines data columns, including units, of any data files and basic methods used for data collection\nhas version numbers of any software or packages needed for running codes or scripts\n\nIf the repo is included in a publication, we also archive it with a DOI on, for example, Zenodo (see here for instructions).\nWe add a license to each git repo, e.g., MIT or CC BY-NC 4.0, to clarify how the material can be reused. See guidance from Creative Commons, Github, and R Packages book.\nWe write collaborative manuscripts in the GCRG Shared Google Drive\nPresentations are typically made in Google Slides in the GCRG Google Drive (Presentations/) allowing lab members easy access to useful graphics\n\nName the file in the format YYYY-MM-DD_presentername_occasion, eg, 2023-01-07_Pinsky_AmNat\n\nBefore matriculation, we ensure all projects, code, data, papers, etc. are available and fully documented",
+    "text": "4.2 Project organization\n\nLab notebooks are maintained each day; tracking progress, daily learnings, what was accomplished, and/or what goal was worked towards. These can be physical notebooks, text files, Evernote, Jupyter notebooks, etc.\n\nLab notebooks are digitally backed up, regardless of initial format\n\nEach new project gets a GitHub repository in the pinskylab organization\n\nThis practice facilitates collaboration, sharing, data traceability, and maintenance of institutional knowledge.\nRepos can be public or private\nA CITATION.cff clarifies how to cite the repo. We apply authorship criteria similarly as for papers (e.g., first author is the lead).\nData processing is accomplished through the use of scripts, not manual manipulation\n\nThis helps to verify the reproducibility of our methods\n\nRepos have a logical directory format, e.g., scripts, data, data_dl (for data to download from other sources), output, and figures.\nFigures, tables, and key output files (e.g., genotypes, statistical tables, etc.) are included in the repo.\nA README.md in each directory (including the top directory)\n\nexplains the purpose of each file and sub-directory\ndescribes how to run the scripts, which input files they depend on, and which output files they produce (i.e., a list of step-by-step instructions)\ndescribes all data files in the directory and includes links to any data files not in the repo along with instructions for how to download and set them up in the repo so that scrips can run\nincludes links to relevant papers and preprints (top level only)\nhas contact information for authors and data creators, as necessary (top level only)\ndefines data columns, including units, of all data files and basic methods used for data collection\nhas link for and version numbers of any software or packages needed for running codes or scripts\ndescribes the compute environment in which the scripts and software were run\n\nIf the repo is included in a publication, we also archive it with a DOI on, for example, Zenodo (see here for instructions).\nWe add a license to each git repo, e.g., MIT or CC BY-NC 4.0, to clarify how the material can be reused. See guidance from Creative Commons, Github, and R Packages book.\n\nWe write collaborative manuscripts in the GCRG Shared Google Drive\nPresentations are typically made in Google Slides in the GCRG Google Drive (Presentations/) allowing lab members easy access to useful graphics\n\nName the file in the format YYYY-MM-DD_presentername_occasion, eg, 2023-01-07_Pinsky_AmNat\n\nBefore matriculation, we ensure all projects, code, data, papers, etc. are available and fully documented",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Data Management Plan</span>"
     ]
   },
   {
     "objectID": "data-management.html#data",
     "href": "data-management.html#data",
-    "title": "4  GCRG Lab Data Management Plan",
+    "title": "4  GCRG Data Management Plan",
     "section": "4.3 Data",
     "text": "4.3 Data\nData used in support of a project is:\n\nSaved in an appropriate, non-proprietary format with accompanying metadata (e.g., csv rather than Excel)\nRaw data is stored in or linked from the GitHub repository associated with the project\n\nRaw data files under the Github file size limit (&lt;100MB) are stored in a data/ directory\nLarger files are stored in a data_largefiles/ directory (not tracked by Git by using the .gitignore file) in at least two places\n\nwhere the analysis is occurring (e.g., laptop or scientific workstation), and\neither one of (we document this arrangement clearly in the relevant data_largefiles/README.md file of the git repo):\n\non FigShare, linked from the relevant GitHub readme.\non NCBI for raw sequencing reads. Upload them soon after receiving, possibly with an embargo, with the accession numbers documented in the relevant README.md. Metadata for the samples goes on GEOME.\nanother public data repository, with a link pointing to the data from the git readme.\n\nif FigShare, NCBI, or other public data repositories are not appropriate, we can use the UCSC PbSci Bishop data server. Data is stored in bio-globalchange/data_largefiles/ in a subdirectory whose name matches the Git repo name.\n\nIf data from an external or public source is being used, it is stored in a data_dl/ directory (not tracked by Git). We clearly and unambiguously describe the data source in the data_dl/README.md file by providing links, version numbers, descriptions for access/download, or other details to ensure reproducibility. If you’re worried the data won’t be available in the future, follow one of the two previous bullet point approaches.\nMetadata is stored in the same directory as the raw data, typically in a README.md file that describes the data in each column, units, coordinate reference system (CRS, for GIS data), and other details needed to understand the file\nProcessed or cleaned data is stored in a separate directory, e.g., output/ or similar, to differentiate from raw data",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Data Management Plan</span>"
     ]
   },
   {
     "objectID": "data-management.html#code",
     "href": "data-management.html#code",
-    "title": "4  GCRG Lab Data Management Plan",
+    "title": "4  GCRG Data Management Plan",
     "section": "4.4 Code",
     "text": "4.4 Code\nAll code used or developed in support of the project is:\n\nWell commented and complete\nVersioned in the project’s git repository\nDescribed in the README.md file to explain what each script does, what language was used, what software and package versions were used, etc.\nTested! Can at least one other person (more is better) complete your analysis on a different computer?",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Data Management Plan</span>"
     ]
   },
   {
     "objectID": "data-management.html#backups",
     "href": "data-management.html#backups",
-    "title": "4  GCRG Lab Data Management Plan",
+    "title": "4  GCRG Data Management Plan",
     "section": "4.5 Backups",
     "text": "4.5 Backups\nWe store our raw data and scripts in at least two locations.\n\nMost of our work is on Github or Google Drive. Both are backed up monthly to the UCSC PbSci Bishop file server.\nRaw data files too large for Github and Drive are stored in two locations (see Data section above)",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Data Management Plan</span>"
     ]
   },
   {
     "objectID": "data-management.html#hummingbird",
     "href": "data-management.html#hummingbird",
-    "title": "4  GCRG Lab Data Management Plan",
+    "title": "4  GCRG Data Management Plan",
     "section": "4.6 Hummingbird",
     "text": "4.6 Hummingbird\n\n4.6.1 Accessing Humminbird\n\nYour Hummingbird information is your CruzID and your Gold password\n\nssh CRUZID@hb.ucsc.edu\n\nother stuff",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Lab Data Management Plan</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>GCRG Data Management Plan</span>"
     ]
   },
   {
