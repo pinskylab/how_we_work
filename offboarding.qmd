@@ -24,6 +24,7 @@ Other
 Exit interview
 --------------
 Set up a time to talk with your mentor about:
+
 1. What was the best part of being here?
 1. What did you learn while you were here?
 1. Did you get the support you needed, or could we have been better at it?
@@ -32,6 +33,7 @@ Set up a time to talk with your mentor about:
 Write-up (for undergrads)
 -------------------------
 Write up a summary of your work with the following components:
+
 1. Goals of the project
 1. Methods
    * detailed enough that someone could replicate your work
