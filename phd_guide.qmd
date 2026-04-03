@@ -99,6 +99,8 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 ## Course ideas
 - At UCSC
 	- Stats and applied math 
+		- BIOE 276: data science in EEB
+		- BIOE 286: data analysis and stats
 		- STATS 206 Applied Bayesian Stats (with David Draper) (can get permission to skip prereqs)
  		- STATS 203 Introduction to Probability Theory
    		- STATS 204 Introduction to Statistical Data Analysis (includes some R)
@@ -146,6 +148,7 @@ This is your meeting to use as you want, but I often find it useful to loosely s
     		- Inst. of Marine Science Student Research & Education Award
 		- UCSC EEB summer funding
   		- UCSC Activating Innovative Graduate Research Award (AIGRA)
+  		- UCSC STARRS (Services for Transfer, Re-entry, and Resilient Scholars) Re-Entry Scholarship
   		- [Keeley Coastal Scholars](https://socialsciences.ucsc.edu/support-us/awards/student-awards/keeley-coastal-scholars/index.html): $1000-$4000 for underrepresented undergraduates or grad student
     		- [Hammett Awards through ENVS](https://envs.ucsc.edu/about/awards/index.html)
   		- UC Alianza MX Short-Term Research in Mexico: covers living expenses, travel, and other related expenses for up to three months to accomplish specific laboratory, library, or field research at partner institutions in Mexico. Calls often go out in February, due in March.
