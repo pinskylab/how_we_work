@@ -1,4 +1,4 @@
-# GCRG Data Management Plan
+# GCRG Open Science Plan
 
 The Global Change Research Group strives for an open science policy that makes our science accessible and reproducible and that allows us to collaborate with our future selves and with our colleagues. To assist in achieving that aim, we use the following practices.
 
@@ -12,7 +12,7 @@ The Global Change Research Group strives for an open science policy that makes o
 
 ## Project organization
 
-1. Lab notebooks are maintained each day; tracking progress, daily learnings, what was accomplished, and/or what goal was worked towards. These can be physical notebooks, text files, Evernote, Jupyter notebooks, etc.
+1. Lab notebooks are maintained each day; tracking progress, daily learnings, what was accomplished, and/or what goal was worked towards. These can be Google Docs, physical notebooks, text files, Evernote, Jupyter notebooks, etc.
    1. Lab notebooks are digitally backed up, regardless of initial format
 
 1. Each new project gets a GitHub repository in the [pinskylab organization](https://github.com/pinskylab)
@@ -20,15 +20,15 @@ The Global Change Research Group strives for an open science policy that makes o
    1. Repos can be public or private
    2. A [CITATION.cff](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) clarifies how to cite the repo. We apply authorship criteria similarly as for papers (e.g., first author is the lead).
    1. Data processing is accomplished through the use of scripts, not manual manipulation
-      1. This helps to verify the reproducibility of our methods
+      1. This helps to ensure the reproducibility of our methods
    1. Repos have a logical directory format, e.g., scripts, data, data_dl (for data to download from other sources), output, and figures.
    1. Figures, tables, and key output files (e.g., genotypes, statistical tables, etc.) are included in the repo.
    1. A README.md in each directory (including the top directory) 
       1. explains the purpose of each file and sub-directory
       1. describes how to run the scripts, which input files they depend on, and which output files they produce (i.e., a list of step-by-step instructions)
-      1. describes all data files in the directory and includes links to any data files not in the repo along with instructions for how to download and set them up in the repo so that scrips can run
-      1. includes links to relevant papers and preprints (top level only)
-      1. has contact information for authors and data creators, as necessary (top level only)
+      1. describes all data files in the directory and includes links to any data files not in the repo along with instructions for how to download and set them up in the repo so that scripts can run
+      1. includes links to relevant papers and preprints (most relevant for top level)
+      1. has contact information for authors and data creators, as necessary (most relevant for top level)
       1. defines data columns, including units, of all data files and basic methods used for data collection
       1. has link for and version numbers of any software or packages needed for running codes or scripts
       1. describes the compute environment in which the scripts and software were run
@@ -70,13 +70,3 @@ We store our raw data and scripts in at least two locations.
 
 1. Most of our work is on Github or Google Drive. Both are backed up monthly to the UCSC PbSci Bishop file server.
 1. Raw data files too large for Github and Drive are stored in two locations (see Data section above)
-
-## Hummingbird
-
-### Accessing Humminbird
-
-1. Your Hummingbird information is your CruzID and your Gold password
-```bash
-ssh CRUZID@hb.ucsc.edu
-```
-1. other stuff
