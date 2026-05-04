@@ -1,4 +1,4 @@
-# GCRG Open Science Plan
+# Open Science Plan
 
 The Global Change Research Group strives for an open science policy that makes our science accessible and reproducible and that allows us to collaborate with our future selves and with our colleagues. To assist in achieving that aim, we use the following practices.
 
