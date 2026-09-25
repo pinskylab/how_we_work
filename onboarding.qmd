@@ -35,31 +35,16 @@ Computing Resources
 -------------------
 There are several computing resources available to serve your research computing needs.
 
-**Rutgers**
-
-| owner                        | name        | partition name | number of cores | memory |
-|------------------------------|-------------|----------------|-----------------|--------|
-| SEBS                         | annotate2   | -              | 112 + 8200 GPU  | 1T   |
-| SEBS                         | annotate-win| -              | 18              | 500G   |
-| OARC-Pinsky node 1 (hal0181) | amarel      | p_mlp195       | 40              | 192G   |
-| OARC-Pinsky node 2 (hal0186) | amarel      | p_mlp195       | 40              | 192G   |
-| OARC-Ecology node 1 (hal0280)| amarel      | p_deenr_1      | 64              | 256G   |
-| OARC-Ecology node 2 (hal0281)| amarel      | p_deenr_1      | 64              | 256G   |
-| OARC-EOAS node (hal0170)     | amarel      | p_eoas_1       | 40              | 192G   |
-| OARC                         | amarel      | main           | ~19,000         | ?      |
-| RDII                         | caliburn    | -              | 256             | 768G   |
-
-
 **UCSC**
 
 | owner                        | name        | partition name | number of cores | memory |
 |------------------------------|-------------|----------------|-----------------|--------|
-| PBSci                         | [Hummingbird](https://hummingbird.ucsc.edu/)    | -              | 24-64/node              | up to 256GB/node   |
+| PBSci                         | [Hummingbird](https://hummingbird.ucsc.edu/)    | -              | 24-64/node              | up to 256GB/node   | GCRG | Hummingbird | lab-mpinsky | 64 | 2T |
 | Astrophysics | Lux | - | many | less |
 | PBSci | Bishop [archived data] | GlobalChange-bio/ [10TB]| NA | NA |
 
 *Various lab members have differing levels of experience with each of these servers and can help you figure out what is best for your analysis.*
-**Amarel** is a condo system. You only have to wait in line with other GCRG folks for the Pinsky node, you have to wait in line with other Ecology folks for the DEENR node, you have to wait in line with all of Rutgers folks for the other nodes.
+**Hummingbird** is a condo system. You only have to wait in line with other GCRG folks for the Pinsky node. You have to wait in line with all other UCSC folks for the other nodes.
 
 University Affiliated Listservs 
 -------------------------------
@@ -67,16 +52,13 @@ University Affiliated Listservs
 
 | Name                          | Listserv email                    | Contact Name| Contact email              |       
 |-------------------------------|-----------------------------------|-------------|----------------------------|
-| Global Change Research Group  | pinsky-lab@googlegroups.com       | Ryan Snow  |   |
+| Global Change Research Group  | pinsky-lab@googlegroups.com       | Roy Roberts | rorobert@ucsc.edu  |
 | Inst. for Marine Science | allmarsci@ucsc.edu | | |
 | EEB general announcements | eebmemo@ucsc.edu | Stephanie Zakarian | szak@ucsc.edu |
 | EEB jobs | eebjobs@ucsc.edu | Stephanie Zakarian | szak@ucsc.edu |
 | CBB coffee club | cbbcoffeeclub-group@ucsc.edu | Malin | mpinsky@ucsc.edu |
 | [Fisheries Collaborative Program](https://fisheries.ucsc.edu/) | fcp-group@ucsc.edu | Liane Bauer | lybauer@ucsc.edu |
-
-- Visit [here](https://mailman.marine.rutgers.edu/mailman/listinfo) for the full list of Rutgers Marine-related listservs 
-- Visit [here](https://email.rutgers.edu/mailman/listinfo/) for a broad list of Rutgers listservs
-
+| Genomics Institute | UCSC-GI@ucsc.edu | GI comm person (see website | |
 
 Guides and tutorials
 --------------------
