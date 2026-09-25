@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,10 +13,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -42,10 +45,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-93e50a65203991b4ec7b50b15d499ec9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-95863af46656191e6a2cf1560d98dcd6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -224,90 +227,6 @@ ul.task-list li input[type="checkbox"] {
 <section id="computing-resources" class="level2" data-number="3.2">
 <h2 data-number="3.2" class="anchored" data-anchor-id="computing-resources"><span class="header-section-number">3.2</span> Computing Resources</h2>
 <p>There are several computing resources available to serve your research computing needs.</p>
-<p><strong>Rutgers</strong></p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 35%">
-<col style="width: 15%">
-<col style="width: 19%">
-<col style="width: 20%">
-<col style="width: 9%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>owner</th>
-<th>name</th>
-<th>partition name</th>
-<th>number of cores</th>
-<th>memory</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>SEBS</td>
-<td>annotate2</td>
-<td>-</td>
-<td>112 + 8200 GPU</td>
-<td>1T</td>
-</tr>
-<tr class="even">
-<td>SEBS</td>
-<td>annotate-win</td>
-<td>-</td>
-<td>18</td>
-<td>500G</td>
-</tr>
-<tr class="odd">
-<td>OARC-Pinsky node 1 (hal0181)</td>
-<td>amarel</td>
-<td>p_mlp195</td>
-<td>40</td>
-<td>192G</td>
-</tr>
-<tr class="even">
-<td>OARC-Pinsky node 2 (hal0186)</td>
-<td>amarel</td>
-<td>p_mlp195</td>
-<td>40</td>
-<td>192G</td>
-</tr>
-<tr class="odd">
-<td>OARC-Ecology node 1 (hal0280)</td>
-<td>amarel</td>
-<td>p_deenr_1</td>
-<td>64</td>
-<td>256G</td>
-</tr>
-<tr class="even">
-<td>OARC-Ecology node 2 (hal0281)</td>
-<td>amarel</td>
-<td>p_deenr_1</td>
-<td>64</td>
-<td>256G</td>
-</tr>
-<tr class="odd">
-<td>OARC-EOAS node (hal0170)</td>
-<td>amarel</td>
-<td>p_eoas_1</td>
-<td>40</td>
-<td>192G</td>
-</tr>
-<tr class="even">
-<td>OARC</td>
-<td>amarel</td>
-<td>main</td>
-<td>~19,000</td>
-<td>?</td>
-</tr>
-<tr class="odd">
-<td>RDII</td>
-<td>caliburn</td>
-<td>-</td>
-<td>256</td>
-<td>768G</td>
-</tr>
-</tbody>
-</table>
 <p><strong>UCSC</strong></p>
 <table class="caption-top table">
 <thead>
@@ -343,7 +262,7 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<p><em>Various lab members have differing levels of experience with each of these servers and can help you figure out what is best for your analysis.</em> <strong>Amarel</strong> is a condo system. You only have to wait in line with other GCRG folks for the Pinsky node, you have to wait in line with other Ecology folks for the DEENR node, you have to wait in line with all of Rutgers folks for the other nodes.</p>
+<p><em>Various lab members have differing levels of experience with each of these servers and can help you figure out what is best for your analysis.</em> <strong>Hummingbird</strong> is a condo system. You only have to wait in line with other GCRG folks for the Pinsky node. You have to wait in line with all other UCSC folks for the other nodes.</p>
 </section>
 <section id="university-affiliated-listservs" class="level2" data-number="3.3">
 <h2 data-number="3.3" class="anchored" data-anchor-id="university-affiliated-listservs"><span class="header-section-number">3.3</span> University Affiliated Listservs</h2>
@@ -361,8 +280,8 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td>Global Change Research Group</td>
 <td>pinsky-lab@googlegroups.com</td>
-<td>Ryan Snow</td>
-<td></td>
+<td>Roy Roberts</td>
+<td>rorobert@ucsc.edu</td>
 </tr>
 <tr class="even">
 <td>Inst. for Marine Science</td>
@@ -394,12 +313,14 @@ ul.task-list li input[type="checkbox"] {
 <td>Liane Bauer</td>
 <td>lybauer@ucsc.edu</td>
 </tr>
+<tr class="odd">
+<td>Genomics Institute</td>
+<td>UCSC-GI@ucsc.edu</td>
+<td>GI comm person (see website</td>
+<td></td>
+</tr>
 </tbody>
 </table>
-<ul>
-<li>Visit <a href="https://mailman.marine.rutgers.edu/mailman/listinfo">here</a> for the full list of Rutgers Marine-related listservs</li>
-<li>Visit <a href="https://email.rutgers.edu/mailman/listinfo/">here</a> for a broad list of Rutgers listservs</li>
-</ul>
 </section>
 <section id="guides-and-tutorials" class="level2" data-number="3.4">
 <h2 data-number="3.4" class="anchored" data-anchor-id="guides-and-tutorials"><span class="header-section-number">3.4</span> Guides and tutorials</h2>
