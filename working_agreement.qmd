@@ -61,12 +61,12 @@
 5. Project management
     - Please set realistic deadlines, then revise them in communication with others
     - It helps to break projects into smaller pieces
-    - We do science openly, transparently, and reproducibly (see OpenScapes guides and [our data management plan](https://github.com/pinskylab/how_we_work/blob/master/data-management.md))
+    - We do science openly, transparently, and reproducibly (see OpenScapes guides and [our data management plan](https://github.com/pinskylab/how_we_work/blob/master/data-management.qmd))
 6. Problems
-    - To report an issue please contact Malin. All communication will be treated as confidential to the extent possible (sexual harrassment and related concerns have to be reported, per [university policy](https://titleix.ucsc.edu/reporting/index.html)
+    - To report an issue please contact Malin. All communication will be treated as confidential to the extent possible (sexual harrassment and related concerns have to be reported, per [university policy](https://socialsciences.ucsc.edu/staff-and-faculty-information/reporting-discrimination-harassment/)
     - If you aren't comfortable speaking to Malin: 
       - contact the Lab Listener
-      - contact the graduate program coordinator: Judy Straub (UCSC) or Shaneika Nelson (Rutgers)
+      - contact the graduate program coordinator: Nathalie Espinoza (UCSC) or Shaneika Nelson (Rutgers)
     - If the grad student coordinator does not sound like the correct point of contact, UCSC has many resources available to you, including:
       - [Counseling & Psychological Services](https://caps.ucsc.edu/)
       - [Slug Support](https://deanofstudents.ucsc.edu/slug-support/program/graduate-students.html)
