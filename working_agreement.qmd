@@ -61,7 +61,7 @@
 5. Project management
     - Please set realistic deadlines, then revise them in communication with others
     - It helps to break projects into smaller pieces
-    - We do science openly, transparently, and reproducibly (see OpenScapes guides and [our data management plan](https://github.com/pinskylab/how_we_work/blob/master/data-management.qmd))
+    - We do science openly, transparently, and reproducibly (see OpenScapes guides and [our data management plan](data-management.qmd))
 6. Problems
     - To report an issue please contact Malin. All communication will be treated as confidential to the extent possible (sexual harrassment and related concerns have to be reported, per [university policy](https://socialsciences.ucsc.edu/staff-and-faculty-information/reporting-discrimination-harassment/)
     - If you aren't comfortable speaking to Malin: 
