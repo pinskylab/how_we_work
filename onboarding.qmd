@@ -12,24 +12,24 @@ To Do List
 ----------
 
 1.  If you're at UCSC, read the [EEB resource guide](https://sites.google.com/ucsc.edu/eeb/home), especially the section on onboarding.
-1.  Read the [GCRG Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
-2.  If you're a PhD student, check out Malin's [Notes on a PhD Degree](phd_guide.qmd) (also has some useful postdoc-related resources)
-1.  Read the [GCRG Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
-1.  Get your keys and ID card through UCSC (talk with the EEB Grad Program Coordinator and/or the EEB Assistant Administrator). Add CBB 139 for the GCRG Molecular lab, a key for the CBB analytical labs if you're doing pop gen lab work, and a key for the CBB showers if you want.
-1.  Make a [GitHub](https://github.com/) account if you don't have one already.
-1.  Ask Roy to help you join our Google Spaces (General, Science Communication, DEIB, Climate Biogeography, Genomics, Random, Lab Meeting, Santa Cruz, Computing & Data, Conferences, Lab Website, Lab Space, and Help Coding) for messaging (a Slack equivalent), our shared google calendar, our [Github Organization](https://github.com/pinskylab), and the [GCRG mailing list (pinsky-lab@googlegroups.com)](https://groups.google.com/forum/#!forum/pinsky-lab) (talk to Roy Roberts).
-1.  Connect to the "Global Change Research Group" Shared Google Drive by asking Roy to share it with you.
-1.  Add your information to the "Global Change Research Group (GCRG) Members" google doc (in the top level of the Global Change Research Group shared drive)
-1.  Send your contact information, photo, and web address to Roy to add to our lab webpage [here](https://globalchange.sites.ucsc.edu/people/). If you don't have  webpage, they can help you make a page on our website.
-1.  Write an [Independent Development Plan](https://myidp.sciencecareers.org), copy your IDP goals to a new google document in Shared Drive/How_we_work/Group_member_goals/ (see the template in the directory), share it with Malin, and set up a time to discuss it.
-1.  If you will be doing lab work, complete the safety training [here](https://sites.google.com/ucsc.edu/eeb/About-Coastal-Campus/environmental-health-safety).
-1.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
-1.  Block out our weekly lab meeting time on your calendar, and when you're ready, sign up for a lab meeting.  The easiest way to find the schedule for lab meetings is to look at the GCRG Lab Meeting space under Tasks and the linked google file should pop up.
-1.  Sign up for meetings with Malin about every two weeks. The link to his calendar is saved in the GCRG General space under Tasks.
-2.  If you're a postdoc, grad student, or staff, talk to Malin if you need an external monitor, harddrive for backups, or external keyboard or trackpad. We can usually provide what you need (funding-dependent).
-1.  Read through the relevant guides and tutorials below, depending on your experience.
-2.  Join the CBB Coffee Club (2nd floor kitchen) if that's relevant to you.
-1.  Spend some time exploring the resources on the GCRG Google Drive and Github Organization. Ask questions about anything that's confusing so that we can make it easier for others in the future!
+2.  Read the [GCRG Working Agreement](working_agreement.qmd).
+3.  If you're a PhD student, check out Malin's [Notes on a PhD Degree](phd_guide.qmd) (also has some useful postdoc-related resources)
+4.  Read the [GCRG Data Management Policy](data-management.qmd).
+5.  Get your keys and ID card through UCSC (talk with the EEB Grad Program Coordinator and/or the EEB Assistant Administrator). Add CBB 139 for the GCRG Molecular lab, a key for the CBB analytical labs if you're doing pop gen lab work, and a key for the CBB showers if you want.
+6.  Make a [GitHub](https://github.com/) account if you don't have one already.
+7.  Ask Roy to help you join our Google Spaces (General, Science Communication, DEIB, Climate Biogeography, Genomics, Random, Lab Meeting, Santa Cruz, Computing & Data, Conferences, Lab Website, Lab Space, and Help Coding) for messaging (a Slack equivalent), our shared google calendar, our [Github Organization](https://github.com/pinskylab), and the [GCRG mailing list (pinsky-lab@googlegroups.com)](https://groups.google.com/forum/#!forum/pinsky-lab) (talk to Roy Roberts).
+8.  Connect to the "Global Change Research Group" Shared Google Drive by asking Roy to share it with you.
+9.  Add your information to the "Global Change Research Group (GCRG) Members" google doc (in the top level of the Global Change Research Group shared drive)
+10.  Send your contact information, photo, and web address to Roy to add to our lab webpage [here](https://globalchange.sites.ucsc.edu/people/). If you don't have  webpage, they can help you make a page on our website.
+11.  Write an [Independent Development Plan](https://myidp.sciencecareers.org), copy your IDP goals to a new google document in Shared Drive/How_we_work/Group_member_goals/ (see the template in the directory), share it with Malin, and set up a time to discuss it.
+12.  If you will be doing lab work, complete the safety training [here](https://sites.google.com/ucsc.edu/eeb/About-Coastal-Campus/environmental-health-safety).
+13.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
+14.  Block out our weekly lab meeting time on your calendar, and when you're ready, sign up for a lab meeting.  The easiest way to find the schedule for lab meetings is to look at the GCRG Lab Meeting space under Tasks and the linked google file should pop up.
+15.  Sign up for meetings with Malin about every two weeks. The link to his calendar is saved in the GCRG General space under Tasks.
+16.  If you're a postdoc, grad student, or staff, talk to Malin if you need an external monitor, harddrive for backups, or external keyboard or trackpad. We can usually provide what you need (funding-dependent).
+17.  Read through the relevant guides and tutorials below, depending on your experience.
+18.  Join the CBB Coffee Club (2nd floor kitchen) if that's relevant to you.
+19.  Spend some time exploring the resources on the GCRG Google Drive and Github Organization. Ask questions about anything that's confusing so that we can make it easier for others in the future!
 
 Computing Resources
 -------------------
@@ -68,27 +68,27 @@ Guides and tutorials
     - [GCRG Cookbook](https://github.com/pinskylab/pinskylab_methods/blob/master/cookbook.md) is a resource of how to's put together by lab members to help you past the occasional obstacle that we all seem to run into.
     - [How to maintain a research notebook](https://github.com/pinskylab/pinskylab_methods/blob/master/labmgt/how_to_lab_notebook.md)
 2.  Career development and time management
-    - The NCFDD has very good advice on time management, developmenta, and more. Activate your account through UCSC [here](https://senate.ucsc.edu/committees/cca-committee-on-career-advising/faculty-career-resources/facultydevelopmentdiversity.html), including resources for [graduate students](https://www.ncfdd.org/dissertation-success-members).
+    - The NCFDD has very good advice on time management, developmenta, and more. Activate your account through UCSC [here]https://graduate.ucsc.edu/professional-development/professional-organizations/), including resources for [graduate students](https://www.ncfdd.org/dissertation-success-members).
     - Our internal guide to career exploration through informational interviews [here](https://docs.google.com/document/d/1a9fugAIbOm7FOpVz20j6yqjanqHpD-qDq6aK99iUGzQ/edit?usp=sharing)
-1.  [Command line tutorial](https://www.udacity.com/wiki/ud775/command-line-instructions) and [more help with the command line](https://classroom.udacity.com/courses/ud595/lessons/4597278561/concepts/46968695970923) (Udacity)
-1. R
+3.  [Command line tutorial](https://www.udacity.com/wiki/ud775/command-line-instructions) and [more help with the command line](https://classroom.udacity.com/courses/ud595/lessons/4597278561/concepts/46968695970923) (Udacity)
+4. R
     1. [Installing R and RStudio](https://rstudio-education.github.io/hopr/starting.html)
     1. [Learn R with swirl](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy_cfso8HhAhXETN8KHWo_CncQFjAAegQIAhAB&url=http%3A%2F%2Fswirlstats.com%2F&usg=AOvVaw3d7sWweo5vI4J_7LZ2Dl0I)
     1. [R For Data Science](https://r4ds.hadley.nz/) (a very useful introduction to R)
     1. Max Czapanskiy's [Data Science for Eco/Evo](https://flukeandfeather.github.io/BIOE215fall23/) from Fall 2023
     1. [Santa Cruz R User Base group (SCRUBs)](https://drive.google.com/drive/folders/0ALYdEjtx2q6CUk9PVA) (need to request permission)
-1.  Git and GitHub
+5.  Git and GitHub
     1.  [Udacity Git and GitHub tutorial](https://classroom.udacity.com/courses/ud775)
     2.  [Happy Git with R tutorial](https://happygitwithr.com) (outside tutorial)
     3. Ted Laderas and Chris Lo [course on git/GitHub](https://hutchdatascience.org/intro_git/#/title-slide)
     4. OpenScapes [GitHub Illustrated series](https://openscapes.org/blog/2022-05-27-github-illustrated-series/)
     5. Software Carpentries [git introduction](https://swcarpentry.github.io/git-novice/aio.html)
-1. Field work
-    - National Association of Marine Laboratories [Best Practices in Field Safety and Accessibility](https://www.naml.org/resources/reports/Best%20Practices%20in%20Field%20Trip%20Safety%20and%20Accessibility.pdf)
+6. Field work
+    - National Association of Marine Laboratories [Best Practices in Field Safety and Accessibility](https://naml.org/wp-content/uploads/2026/06/Best-Practices-in-Field-Safety-and-Accessibility.pdf)
     - [Safe fieldwork strategies for at-risk individuals, their supervisors and institutions](https://doi.org/10.1038/s41559-020-01328-5)
-3. Resources for scientific writing
+7. Resources for scientific writing
     - Our [informal guide to getting ready to publish](https://docs.google.com/document/d/15q_Qw06gNehdCAzu22vJ1iVoOiz6w6kt05WYgOSiCjw/edit?usp=sharing), including a focus on publishing in society-owned and non-profit journals
-    - [The UCSC Writing Center](https://writingcenter.ucsc.edu/)
+    - [The UCSC Writing Center](https://writing.ucsc.edu/wc/)
     - Schimel, J. 2012. Writing science: how to write papers that get cited and proposals that get funded. Oxford University Press, Oxford
     - Turbek, S. P., Chock, T. M., Donahue, K., Havrilla, C. A., Oliverio, A. M., Polutchko, S. K., … Vimercati, L. (2016). Scientific Writing Made Easy: A Step-by-Step Guide to Undergraduate Writing in the Biological Sciences. Ecology 101, (October), 417–426. [doi:10.1002/bes2.1258](https://doi.org/10.1002/bes2.1258)
     - Gopen, G., & Swan, J. (1990). The Science of Scientific Writing. American Scientist.
@@ -102,10 +102,10 @@ Guides and tutorials
      	- [Ecological authorship](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1540-9295%282006%294%5B435%3AAIEAAA%5D2.0.CO%3B2)
      	- [Evolution](https://onlinelibrary-wiley-com.proxy.libraries.rutgers.edu/page/journal/15585646/homepage/forauthors.html#authorship)
       	- [Fisheries](https://fisheries.org/books-journals/writing-tools/authorship-guidelines/)	
-1. Data visualization resources
+8. Data visualization resources
     - Tufte books
     - William Cleveland, The Elements of Graphing Data
-1. Scientific presentation tips
+9. Scientific presentation tips
    - http://blog.ted.com/10-tips-for-better-slide-decks/
    - How Bad Presentations Happen to Good Causes (booklet in the lab)
    - Will Ratcliffe: https://twitter.com/wc_ratcliff/status/949315012472070145
@@ -124,10 +124,10 @@ Guides and tutorials
    		- Few words, more pictures. Slides uncluttered
    		- Less talking: say it clearly and move on
    - Practice, practice, practice
-3. Networking and collaboration skills
+10. Networking and collaboration skills
    - Resources from the [ESA Early Career Ecologists section](http://esa.org/earlycareer/resources/), including [webinars](https://vimeo.com/esaearlycareerecologist)
    - The [Project Biodiversify group](https://projectbiodiversify.org/) is working to make biology/ecology more inclusive.
-   - Lab notes on power in academia: http://sophiatintori.com/zine.html
+   - Lab notes on power in academia: [http://sophiatintori.com/zine.html](http://sophiatintori.com/zine.html)
 
 
 <!--1.  [Collaborative Writing Guide]()-->
