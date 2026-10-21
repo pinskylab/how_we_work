@@ -20,7 +20,7 @@ My goal is to help you understand and succeed in our discipline as it is now, wh
   - Participate in the community and build your professional network
     - attend all seminars, meet most or all speakers, come to lab meetings, work from CBB
 		- Contribute to the community: clean up after yourself, do maintenance, do chores, etc.
-	- Reproducibility for collaboration with future self, with others in lab, with others outside lab (see the [Data Management Guide](https://github.com/pinskylab/how_we_work/blob/master/data-management.md))
+	- Reproducibility for collaboration with future self, with others in lab, with others outside lab (see the [Data Management Guide](data-management.qmd))
 	- Practice any talks and present any posters to the lab, before you take them to a conference
   - This is will be substantially more work than a 9-5 job or taking classes as an undergraduate or MS student
 - First year
@@ -60,7 +60,7 @@ My goal is to help you understand and succeed in our discipline as it is now, wh
         - Defense date is tentative until
         	- Full dissertation written
          	- At least 2 chapters submitted for publication
-          	- All chapters comply with our [Data Management Plan](https://github.com/pinskylab/how_we_work/blob/master/data-management.md)
+          	- All chapters comply with our [Data Management Plan](data-management.qmd)
 
 ## 6-Month Check-ins
 At the end of the fall and spring, we take a meeting to step back from the details and think about big picture career trajectories. It’s a good chance to go back the goals you wrote for yourself, think about your progress, and think about whether they’re still the right goals for you. Please start a running document of your goals in our Google Drive (how_we_work/Group_member_goals/, make a copy of the template and add your name to the title) and share it with Malin.
@@ -156,7 +156,7 @@ This is your meeting to use as you want, but I often find it useful to loosely s
     	- Daniel Briggs Memorial Award for summer research or policy work related to coastal sustainability. Due ~ March. $500-$1000.
     	- [Sooy Fellowship](https://science.ucsc.edu/research-opportunities/rebecca-and-steve-sooy-graduate-fellowship-in-marine-mammals/) for marine mammals
         - [Mildred E. Mathias Graduate Student Research Grant Program](https://ucnature.org/mathias-graduate-research-grant/) supports UC graduate students conducting research at UC Nature
-	- [Women Divers Hall of Fame Scholarships and Training Grants](http://www.wdhof.org/wdhof-scholarshipDesc.aspx)
+	- [Women Divers Hall of Fame Scholarships and Training Grants](https://www.wdhof.org/scholarships/how-to-apply)
 	- AMNH Lerner Grey
     - [Doane Environmental Scholarship](https://www.cfscc.org/scholarships) through the Community Foundation Santa Cruz County
 	- [Sigma Xi Grants in Aid of Research](https://www.sigmaxi.org/programs/grants-in-aid-of-research/apply)
@@ -246,7 +246,7 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- Insight Data Science Fellowship
 - [ECOLOG-L](https://www.esa.org/membership/ecolog/) for ecology
 - [evoldir](https://evol.mcmaster.ca/evoldir.html) for evolution
-- [ICRS SECC job board](coralreefsecc.org/jobboard,) for coral reef jobs
+- [ICRS SECC job board](https://coralreefsecc.org/jobboard) for coral reef jobs
 - Oceanography jobs lists from Dalhousie: https://www.phys.ocean.dal.ca/hotlists/jobs.html
 - NOAA
   - At least some of the NOAA contract jobs are posted at http://www.oceanassoc.com/Jobs/jobslist.html
