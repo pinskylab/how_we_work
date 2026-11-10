@@ -164,6 +164,9 @@ This is your meeting to use as you want, but I often find it useful to loosely s
  	- Explorers Club [Stephenson Explorers Advancement Program](https://www.explorers.org/grants/the-stephenson-explorers-advancement-program/) and [Kensington Conservation Grant](https://www.explorers.org/grants/kensington-explorers-club-grant/)
   	- American Philosophical Society’s Lewis and Clark Fund for Exploration and Field Research
 	- Dr. Earl H. Myers and Ethel M. Myers Oceanographic & Marine Biology Trust ($2600 in 2024)
+    - Society for Conservation Biology Graduate Student Research Fellowship Awards
+    - Society for Integrative and Comparative Biology (SICB) Grants-in-Aid of Research (GIAR)
+    - Ecological Society of America (ESA) Awards
 	- Washington Biologists Field Club: Mid-Atlantic. https://www.pwrc.usgs.gov/resshow/perry/bios/WBFCHome.htm
 	- P.E.O. Scholar Award: women w/in 2 years of finishing a PhD
  	- [Graduate Women in Science National Fellowship Program](https://www.gwis.org/page/fellowship_program)
@@ -175,6 +178,8 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- [AFS Steven Berkeley Marine Conservation Fellowship](https://mfs.fisheries.org/?page_id=155): also open to international students
 	- International Coral Reef Society student fellowship
  	- [Beneath the Sea Scholarship](https://beneaththesea.us/scholarships/)
+    - Garden Club of America (GCA) scholarships and fellowships in ecology and conservation
+    - PADI Foundation Research Grants
 - Fellowships (stipend)
 	- Internal
  		- Dissertation Year Fellowship
@@ -192,10 +197,11 @@ This is your meeting to use as you want, but I often find it useful to loosely s
 	- NOAA Nancy Foster: with a National Marine Sanctuary
 	- NOAA Margaret Davidson: with a National Estuarine Research Reserve
  	- NMFS-Sea Grant Fellowship in Population and Ecosystem Dynamics: for more quantitative projects and students
-   - DOE computational science (includes biomathematics)
-   - [The Hertz Foundation Graduate Fellowships](https://www.hertzfoundation.org/the-fellowship/)
-   - [Quad Fellowship](https://www.quadfellowship.org/)
-   - Paul & Daisy Soros Fellowship for New Americans
+    - DOE computational science (includes biomathematics)
+    - [The Hertz Foundation Graduate Fellowships](https://www.hertzfoundation.org/the-fellowship/)
+    - [Quad Fellowship](https://www.quadfellowship.org/)
+    - Paul & Daisy Soros Fellowship for New Americans
+    - Switzer Environmental Fellowship
 	
 ## Conference ideas
 - American Society of Naturalists (January)
